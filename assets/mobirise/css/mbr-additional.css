@@ -557,11 +557,17 @@ h6,
 #header3-c .mbr-section-subtitle {
   text-align: center;
 }
+
 #testimonials3-j .mbr-section-title {
   color: #efefef;
 }
 #testimonials3-j .mbr-author-name {
   color: #ccc;
+}
+#testimonials3-j .card-block DIV {
+  font-size: 18px;
+  color: #565656;
+  font-family: 'Lora', serif;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
