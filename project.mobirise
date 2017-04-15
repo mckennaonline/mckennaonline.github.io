@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "montessori.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 57,
+    "uniqCompNum": 73,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -109,9 +109,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_inherit": "header1",
@@ -162,7 +162,7 @@
             "showButtons": true
           },
           "title": "High School at its best",
-          "text": "Enroll in our \"made in Idaho\" online high school providing free self paced study with the best student to teacher ratio of all online schools.<br>Mountain Home residents may attend our campus, with our successful \"two classes at at time\" schedule.<br>Our new K-8 Montesorri program is growing with high demand. &nbsp;Currently providing Kindergarten and 1st grade.",
+          "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br>Mountain Home residents may attend our campus, with our successful \"two classes at at time\" schedule.<br>Our new K-8 Montesorri program is growing with high demand. &nbsp;Currently providing Kindergarten and 1st grade.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online LOGIN or REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Learn more about the Summer School Program</a>"
         },
         {
@@ -214,19 +214,25 @@
               "size": 0
             }
           },
-          "title": "Example of extra content on homepage",
-          "text": "And that logo should look better :).",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://#\" data-toolbar=\"-mbrBtnMove\">Example button</a>"
+          "title": "Now Enrolling for Summer School",
+          "text": "Our mission is to provide a Non-traditional educational<br>environmentfor our students by emphasizing <i>project based learning</i>, <i>personal responsibility</i>, and <i>outstanding citizenship</i>.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Our Summer School program</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
           "_anchor": "contacts1-1k",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -244,16 +250,16 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
               "linkInNewWindow": false,
-              "name": "paper-plane",
-              "family": "MobiriseIcons",
+              "name": "streetsign",
+              "family": "et-line",
               "link": "",
               "size": 0,
               "active": true
             }
           },
-          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contacts</strong><br>\nEmail: info@rmckenna.org<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<strong>Links</strong><br>example footer"
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     },
@@ -333,9 +339,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -347,7 +353,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -469,11 +475,54 @@
           "_anchor": "content6-d",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#fff"
           },
           "text1": "<p>1. Earn 46 semester credits in the following areas:</p><ul><li>9 English credits (one of which must be speech)</li><li>6 Math credits (two Algebra 1, two Geometry, plus two credits of math completed during the senior year)</li><li>6 Science credits (four of which must be lab sciences)</li><li>5 Social Studies credits (two U.S. History, two U.S. Government, and one Economics)</li><li>2 Humanities credits</li><li>1 Health credit</li><li>17 Electives credits</li></ul><p><br></p><p><br></p><p><br></p>",
           "text2": "<p>2. Complete a senior project.</p><p><br></p><p>3. Take the ACT, SAT or Compass exam by the end of 11th grade.</p><p><br></p><p>4. Be proficient in Reading, Language, and Math on the 10th grade Spring Idaho Standard Achievement Test (ISAT).</p><p><br></p><p>5. Earn at least 6 credits through McKenna High School, regardless of the number of credits earned at other schools.</p><p>&nbsp;</p><p>http://sde.idaho.gov/topics/hs-grad-req/files/general/High-School-Graduation-Minimum-Requirements.pdf</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     },
@@ -552,7 +601,7 @@
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "Say Hello",
+          "title": "Welcome to McKenna Charter School.<br>Say Hello. &nbsp;Take a tour.",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
@@ -625,9 +674,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -639,7 +688,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -776,9 +825,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -790,7 +839,70 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     },
@@ -870,9 +982,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -884,7 +996,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -899,7 +1011,7 @@
           "_anchor": "header3-m",
           "_params": {
             "paddingTop": "6",
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -932,7 +1044,7 @@
           "_anchor": "header3-n",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -980,12 +1092,55 @@
           "_anchor": "content7-r",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#fff"
           },
           "text1": "<b>Margaret (Meg) Warren - Chairman</b><div>Meg has an engineering degree and also studied Studio Art Textiles. She was recommended to our board by one of the original board members, Evanna Hamilton, as someone who has great knowledge in many areas and would be a great asset to our board. She was voted on to the board at the July 2005 meeting and has been a member since that time.</div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Donald Dow – Vice Chairman</b></span><br></div><div>Don was an Air Traffic Controller in the USAF. After retirement he became a financial planner. He has financial knowledge and also had a daughter that attended our school. He was recommended to the board and was voted onto the board at the February 2007 meeting.</div>",
           "text2": "<b>Douglas Mayne – Treasurer</b><div>Doug is a local business owner with many ties to the community. He was instrumental in helping to acquire the donations needed to complete the wind turbine at the school. He also has great knowledge to help and advise the board on maintenance issues for the schools. He was voted onto the board at the June 2010 board Meeting.</div><div><br></div><div><b>Melody Landis – Secretary</b></div><div>Melody and her husband own and run a farm in the community. At the time Melody joined the board, her foster daughter was attending the school. The board thought it would bring insight to what they were trying to accomplish by inviting a parent to join the board. She accepted and was voted onto the board at the October 2007 meeting. She took a short leave from the board in the fall of 2008 and returned to the board in the spring of 2009.</div>",
           "text3": "<b>Maralee Smith – Board Member</b><div>Maralee is a retired teacher. The board members wanted to have a member with an education background for the knowledge that would bring. Maralee was invited to join the board. She accepted and was voted onto the board at the June 2011 meeting.</div><div><br></div><div><b>Page Borgholthaus – Board Member</b></div><div>Page is trained in Montessori methods and owned and operated Children’s House Montessori in our community for many years. She has great knowledge regarding Montessori methods. With her great knowledge and experience, she was invited to join the board. She accepted the invitation and was voted onto the board at the June 2015 board Meeting.</div><div>&nbsp;</div><div><b>Chantel Durrence is the Business Manager</b> and acts as the Clerk of the board but is not a voting member.</div>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     },
@@ -1065,9 +1220,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -1079,7 +1234,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -1115,7 +1270,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>We are seeing results of raising our first digital natives. &nbsp;Born in a land where information is freely available without the traditional bariers of location and cost. &nbsp;They process massive amounts if information and have learned to filter out the meaningless to find the valuable. &nbsp;With more expecations put on them than any other generation, they have learned discernment and confidently call out things that are not working because of a need to fit everything into their day.</p><p><br></p><p>Now, put these students in a traditional classroom with overcrowding and a curriculum from the industrial age. &nbsp;Instead of finding clearly defined goals and an efficient path to learning, the use of time doesn't make sense and distractions are constant. &nbsp;Students are told to put up with the class moving too fast at times and too slow at other times for the good of the group.</p><p><br></p><p>Online learning is the future for our digital natives. &nbsp;During the sections of a class that are making sense, the student can move on and have more time in their day. &nbsp;During the sections of a class that are challenging, McKenna's low student to teacher ration makes our teachers more available to provide individual attention than a traditional classroom teacher.</p>"
+          "text": "<p>We are seeing results of raising our first digital natives. &nbsp;Born in a land where information is freely available without the traditional bariers of location and cost. They process massive amounts if information and have learned to filter out the meaningless to find the valuable. &nbsp;With more expecations put on them than any other generation, they have learned discernment and confidently call out things that are not working because of a need to fit everything into their day.</p><p><br></p><p>Now, put these students in a traditional classroom with overcrowding and a curriculum from the industrial age. &nbsp;Instead of finding clearly defined goals and an efficient path to learning, the use of time doesn't make sense and distractions are constant. Students are told to put up with the class moving too fast at times and too slow at other times because the class can't move at their pace.</p><p><br></p><p>Online learning is the future for our digital natives. &nbsp;During the sections of a class that are making sense, the student can move on and have more time in their day. &nbsp;During the sections of a class that are challenging, McKenna's low student to teacher ratio makes our teachers more available to provide individual attention than a traditional classroom teacher.</p>"
         },
         {
           "_styles": {
@@ -1148,7 +1303,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Started in 2002 as the first online school in the northwest, McKenna Online's courses are designed and taught by Idaho certified teachers. &nbsp;Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive a high school diploma.</p><p><br></p><p>Our teachers are available during posted office hours via phone, email, or video conferencing. You get to talk to a human being, not an automated system! &nbsp;Give it a try, call 208 580 2449 before 3pm on weekdays and say \"Hi\" &nbsp;(Now try that with any other online school, ha ha)</p><p><br></p><p>To best meet the workflow of online courses, we have created our own online learning system called Acquire. &nbsp;Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</p><p><br></p><p><b>Special Education Services&nbsp;</b></p><p>Our special education director delivers one-on-one help and direct instruction using video conferencing and screen sharing. The special education director also meets face-to-face with parents and students as needed. Testing is contracted out to locally qualified psychologists.</p>"
+          "text": "<p>Started in 2002 as the first online school in the northwest, McKenna Online's courses are designed and taught by Idaho certified teachers. Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive a high school diploma.</p><p><br></p><p>Our teachers are available during posted office hours via phone, email, or video conferencing. You get to talk to a human being, not an automated system! &nbsp;Give it a try, call 208 580 2449 before 3pm on weekdays and say \"Hi\" &nbsp;(Now try that with any other online school, ha ha)</p><p><br></p><p>To best meet the workflow of online courses, we have created our own online learning system called Acquire.</p><p>Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</p><p><br></p><p><b>Special Education Services&nbsp;</b></p><p>Our special education director delivers one-on-one help and direct instruction using video conferencing and screen sharing. The special education director also meets face-to-face with parents and students as needed. Testing is contracted out to locally qualified psychologists.</p>"
         },
         {
           "_styles": {
@@ -1181,7 +1336,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>First, complete the registration by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then the \"New Student\" button below the login form. &nbsp;Registration is open about 6 weeks before the school year and loses about 6 weeks before the end of the school year)</p><p><br></p><p>Courses begin every Monday (even on 3 day weekend holidays) and last for 6 weeks. &nbsp;Our attendance is based upon course work completed that is tracked by Acquire. Each course requires 90 hours of completed work, which includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project with a D or better.</p><p><br></p><p>All of our online students use their own computers and Internet access. &nbsp;You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old). &nbsp;Most of your work can be completed on a Chromebook or tablet, but you will want a full desktop computer on hand for some work.</p>"
+          "text": "<p>First, complete the registration by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then the \"New Student\" button below the login form. Registration is open about 6 weeks before the school year and loses about 6 weeks before the end of the school year)</p><p><br></p><p>Courses begin every Monday (even on 3 day weekend holidays) and last for 6 weeks. Our attendance is based upon course work completed that is tracked by Acquire. Each course requires 90 hours of completed work, which includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project with a D or better.</p><p><br></p><p>All of our online students use their own computers and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old). &nbsp;Most of your work can be completed on a Chromebook or tablet, but you will want a full desktop computer on hand for some work.</p>"
         },
         {
           "_styles": {
@@ -1201,7 +1356,7 @@
             "showMeta": true
           },
           "title": "Graduation Requirements",
-          "meta": "Earn your diploma at Richard McKenna"
+          "meta": "Earn your diploma at McKenna High School"
         },
         {
           "_tags": [
@@ -1211,11 +1366,54 @@
           "_anchor": "content6-14",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "5",
             "bgColor": "#fff"
           },
           "text1": "<p>1. Earn 46 semester credits in the following areas:</p><p><br></p><p><br></p><p><br></p>",
           "text2": "<p>2. Complete a senior project.</p><p>&nbsp;</p><p>3. Take the ACT, SAT or Compass exam by the end of 11th grade.</p><p>&nbsp;</p><p>4. Be proficient in Reading, Language, and Math on the 10th grade Spring Idaho Standard Achievement Test (ISAT).</p><p>&nbsp;</p><p>5. Earn at least 6 credits through McKenna Online, regardless of the number of credits earned at other schools.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     },
@@ -1315,9 +1513,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -1329,7 +1527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -1405,11 +1603,72 @@
           "_anchor": "content6-1d",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Teaching Position:</b></p><p>McKenna Charter School is seeking an innovative teacher Certified in Elementary Education to join the staff at our McKenna Montessori. We are interested in an enthusiastic individual that is highly motivated to help students in a multi-age/ level classroom in a Montessori setting. The right person will be a hardworking and ambitious teaching professional. Knowledge of the Montessori philosophy is a plus, but not required.  The right applicant may be provided the required training.&nbsp;</p><p>&nbsp;</p><p>&nbsp;The position will involve teaching students ages 6-9 and coordinating with other teachers to offer activities and lessons applicable to appropriate ages and levels. The successful candidate will be an inspired individual with a keen interest in encouraging and inciting students to love learning and excel in the Montessori methods.</p><p>&nbsp;</p><p>Please submit the application, your resume and cover letter by email:</p><p>Chantel Durrence, Business Manager, cdurrence@rmckenna.org</p><p>For more information, call 208.580.2449 ext. 1101 Monday – Friday 8:00 a.m. to 3:00 p.m.</p>",
-          "text2": "<p><b>Teacher's Assistant:</b></p><p>McKenna Charter School is seeking an energetic person as an assistant to a Certified Teacher on the staff at our McKenna Montessori. We are looking for an enthusiastic individual that is highly motivated to help students in a multi-age/ level classroom in a Montessori setting. The right person will be hardworking and ambitious and willing to help the classroom teacher in all aspects. Knowledge of the Montessori philosophy is a plus, but not required.&nbsp;</p><p>&nbsp;</p><p>&nbsp;The position will involve helping with a classroom of students ages 6-9 and coordinating with other teachers and staff to offer activities and lessons applicable to appropriate ages and levels. The successful candidate will be an inspired individual with a keen interest in encouraging and inciting students to love learning and excel in the Montessori methods.</p><p>&nbsp;</p><p>Please submit the application, resume and cover letter by email:</p><p>Chantel Durrence, Business Manager, cdurrence@rmckenna.org</p><p>For more information, call 208.580.2449 ext. 1101 Monday – Friday 8:00 a.m. to 3:00 p.m.</p>"
+          "text1": "<p><b>Teaching Position:</b></p><p>McKenna Charter School is seeking an innovative teacher Certified in Elementary Education to join the staff at our McKenna Montessori. We are interested in an enthusiastic individual that is highly motivated to help students in a multi-age/ level classroom in a Montessori setting. The right person will be a hardworking and ambitious teaching professional. Knowledge of the Montessori philosophy is a plus, but not required.  The right applicant may be provided the required training.&nbsp;</p><p>&nbsp;</p><p>The position will involve teaching students ages 6-9 and coordinating with other teachers to offer activities and lessons applicable to appropriate ages and levels. The successful candidate will be an inspired individual with a keen interest in encouraging and inciting students to love learning and excel in the Montessori methods.</p>",
+          "text2": "<p><b>Teacher's Assistant:</b></p><p>McKenna Charter School is seeking an energetic person as an assistant to a Certified Teacher on the staff at our McKenna Montessori. We are looking for an enthusiastic individual that is highly motivated to help students in a multi-age/ level classroom in a Montessori setting. The right person will be hardworking and ambitious and willing to help the classroom teacher in all aspects. Knowledge of the Montessori philosophy is a plus, but not required.&nbsp;</p><p>&nbsp;</p><p>The position will involve helping with a classroom of students ages 6-9 and coordinating with other teachers and staff to offer activities and lessons applicable to appropriate ages and levels. The successful candidate will be an inspired individual with a keen interest in encouraging and inciting students to love learning and excel in the Montessori methods.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Please submit the application, your resume, and cover letter by email:</p><p>Chantel Durrence, Business Manager, cdurrence@rmckenna.org</p><p>For more information, call 208.580.2449 ext. 1101 Monday – Friday 8:00 a.m. to 3:00 p.m.</p>",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     },
@@ -1489,9 +1748,9 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/mckennalogo-489x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
               "height": 128,
-              "alt": "Mobirise",
+              "alt": "McKenna Logo",
               "link": "/",
               "title": "",
               "linkInNewWindow": false
@@ -1503,7 +1762,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -1533,10 +1792,10 @@
           "_anchor": "content1-1i",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Summer school is avaiable for free to students. &nbsp;But due to state requirements, ony students that qualifiy based on these situations.</p>"
+          "text": "<p>Summer school is avaiable for free to students. &nbsp;But due to state requirements, ony students that qualifiy based on these situations may enroll.</p>"
         },
         {
           "_tags": [
@@ -1545,12 +1804,390 @@
           "_name": "content6",
           "_anchor": "content6-1j",
           "_params": {
+            "paddingTop": "1",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Meet 3 of these situations</b></p><ul><li>Has repeated a grade</li><li>Absent more than 10% of days in the last semester</li><li>GPA less than 1.5 (on a 4.0 scale)</li><li>Has failed an academic subject</li><li>Is two or more credits behind graduating on time</li><li>Is a limited English proficient student who has not been in the program more than 3 years</li></ul>",
+          "text2": "<p><b>OR any one of these situations</b></p><ul><li>Has substance abuse behavior</li><li>Is pregnant or a parent</li><li>Is an emancipated youth</li><li>Is a previous dropout</li><li>Serious personal, emotional, or medical problems</li><li>Is a court or agency referral</li><li>Upon recommendation of the school discrict for disruptive student behavior</li></ul><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1s",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "What is McKenna Online?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1t",
+          "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p>List A</p>",
-          "text2": "<p>List B</p>"
+          "text": "<p>Started in 2002 as the first online school in the northwest, McKenna Online's courses are designed and taught by Idaho certified teachers. Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive a high school diploma.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our teachers are available during posted office hours via phone, email, or video conferencing. You get to talk to a human being, not an automated system!  Give it a try, call 208 580 2449 before 3pm on weekdays and say \"Hi\"</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">To best meet the workflow of online courses, we have created our own online learning system called Acquire.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</span><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "How it works",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>First, complete the registration by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then the \"New Student\" button below the login form. </p><p><br></p><p><b>Registration is open now until June 1. &nbsp;</b>Courses begin June 5th. <b>&nbsp;</b></p><p><b>Enroll today! &nbsp;Call 580-2449 with any questions.</b>&nbsp;</p><p><br></p><p>Our attendance is based upon course work completed that is tracked by Acquire. Each course requires 90 hours of completed work, which includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project with a D or better.</p><p><br></p><p>All of our online students use their own computers and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old).  Most of your work can be completed on a Chromebook or tablet, but you will want a full desktop computer on hand for some work.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
+        }
+      ]
+    },
+    "montessori.html": {
+      "settings": {
+        "title": "Richard McKenna Online High School",
+        "meta_descr": "Free online school for Idaho residents"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1n",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "height": 128,
+              "alt": "McKenna Logo",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online HS - free for all Idaho residents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free for qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">CONTACT</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1o",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Montessori School",
+          "meta": "History and Philosophy"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Our K-6 Montessori program serves the attendance area of Mountain Home and the Mountain Home Air Force Base. The K-6 Montessori program will grow one grade level per year beginning with Kindergarten and ending with the 6th grade. We will build facilities as needed.</p><p><br></p><p>At McKenna Montessori we are invested in creating respectful relationships among teachers, administrative staff, parents, and children. We appreciate and celebrate diversity and recognize how we as a school benefit from the array of cultural backgrounds and traditions that families and staff members bring to our community. We work to provide an inclusive environment and do not discriminate on the basis of race, sex, religion, creed, national origin, ancestry, ethnicity, handicap, or sexual orientation.</p><p>Our approach to education is based on the philosophy and methods of Maria Montessori, the first Italian female physician who founded the first Montessori school in Rome in 1907. Dr. Montessori believed that the goal of the educational process was to cultivate a child’s natural desire to learn. Dr. Montessori observed that all children have the same basic needs:</p><p>- The need for order – to organize, classify and interpret reality</p><p>- The need for independence – the impulse to act personally upon and within reality</p><p>- The need for social relationships</p><p>- The need to experience reality through imagination</p><p><br></p><p>The teacher carefully prepares the classroom environment and directs the activity of the classroom, but it is the child who learns. Dr. Montessori observed that children are motivated through the work itself and that children, like adults, learn best by doing rather than being filled with facts. Concentration, determination, and purpose established in early childhood lead to confident, successful learning later in life. At McKenna Montessori, children learn how to observe, think, and evaluate and experience the joy of learning. The Montessori approach is not a tweaking of traditional models of education, it is a completely&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">different way of learning and teaching designed to prepare children for success in an increasingly complex world.</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p>McKenna Montessori is an advocate for the child, developing education programs that follow the natural needs and development of the child. We believe each person has the potential to achieve success through an ordered, challenging, nurturing educational environment that includes the whole person – intellectual, emotional, spiritual, and physical. At the center is the child, whose needs are the focus of the learning process.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Phases and classroom space",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1w",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>The McKenna Montessori School will have two phases. Phase 1 is the completion of two 2500 square foot buildings at 1305 East 8th North, Mountain Home, ID 83647 which will house grades K-1 (eventually K-3).</p><p><br></p><p>Each of the classrooms is thoughtfully arranged and offers an inviting space for activity that is focused and calm. Learning materials are displayed on shelves that are accessible to the children to foster independence as the students go about their daily work. There are spaces in the classroom that allow for group activity as well as areas where the student can work alone. Parts of each classroom are open and spacious to allow younger children to lay out materials for exploration. There are well-defined spaces for each part of the curriculum, such as Language Arts, Math, and Culture. Each of these areas features shelves or display tables with a variety of inviting materials from which students can choose.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Curriculum and teachers",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1y",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Our highly trained, credentialed teachers nurture and cultivate each child’s curiosity while providing a strong foundation for continued academic success. McKenna Montessori provides a warm, vibrant, educational home designed to foster a love of learning and help all children reach their fullest potential at their own unique pace. We strive to educate the whole child and to inspire children to be caring, socially responsible participants in their community and world. Our carefully prepared classrooms are staffed with highly qualified, Montessori-trained teachers. Multi-age classrooms allow the children to learn from one another and to be valued contributors to the classroom community.</p><p><br></p><p>The term “Montessori” implies both philosophy and a method of education philosophy based on the research of Dr. Maria Montessori – an Italian physician and educator. At its heart, the Montessori method emphasizes independence, freedom within limits, and a respect for the child. Classroom spaces are purposefully designed and materials carefully curated in pursuit of an education partnership. Multi-aged classrooms provide benefits that are readily apparent when visiting the classroom. Younger children in the classroom have an opportunity to observe and imitate the older students as they work. Older students have an opportunity to reinforce their own knowledge by explaining what they are doing and assisting and mentoring younger children. Each child can learn and develop at his own pace within a classroom that accommodates many levels of ability and complexity.</p><p><br></p><p>The training of a Montessori teacher is integral to the Montessori method. Our teachers use both concrete teaching materials and a well-defined innovative curriculum tailored to the child. The Montessori teacher is specially trained to observe each child and to design lessons based on that child’s natural curiosity and love of learning. The teacher is responsible for preparing the educational environment within each classroom and for presenting lessons in that environment. During the course of a day, the teacher will demonstrate a wide array of concrete sensory materials and sequential activities through individual instruction. The child soon learns to associate abstract concepts with hands-on experience.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1z",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Family Commitment",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Parents are a fundamental part of the well-being of our school and of a successful educational experience for their child. As such, we have the expectation that all members of the school community participate and support the school whenever possible.</p><p><br></p><p>It is the hope and expectation of McKenna Montessori that parents make every effort to understand and embrace the mission of the school. To that end, we aim to help parents learn about the Montessori approach by providing information and opportunities for parent education, i.e.“Parent Gatherings.” Dates and times of McKenna Montessori Parent Gatherings will be posted on our platform called Montessori Compass. All parents receive login information for Montessori Compass. Student progress updates will be sent to parents via Montessori Compass.</p><p>Additionally, we expect parents to familiarize themselves with the philosophy, policies, and procedures contained in the McKenna Montessori Parent Handbook and other school publications, including our regular email communications.</p><p><br></p><p>Parents are welcome and encouraged to be an active part in their child’s education. In addition to teacher updates, a regularly updated website at rmckenna.org, we invite parents to observe in the classroom, join us on field trips, help us organize school events or fundraisers, and connect with each other at parent gatherings. </p><p><br></p><p>We would like to meet you! &nbsp;Contact the main office at 208-580-2347 to arrange classroom visits.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1p",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
         }
       ]
     }
