@@ -163,7 +163,7 @@
           },
           "title": "High School at its best",
           "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br><br>Mountain Home residents may attend our campus, with our successful \"two classes at at time\" schedule.<br><br>Our new K-6 Montesorri program is growing with high demand. &nbsp;Currently providing Kindergarten and 1st grade.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online LOGIN or REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Learn more about the Summer School Program</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online LOGIN or REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Learn more about the Summer School Program</a>"
         },
         {
           "_tags": [
