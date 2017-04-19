@@ -156,14 +156,14 @@
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "right",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
-          "title": "High School at its best",
-          "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br><br>Mountain Home residents may attend our campus, with our successful \"two classes at at time\" schedule.<br><br>Our new K-6 Montesorri program is growing with high demand. &nbsp;Currently providing Kindergarten and 1st grade.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online LOGIN or REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Learn more about the Summer School Program</a>"
+          "title": "High School At Its Best",
+          "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br><br>Mountain Home residents may attend our campus, with our successful \"two classes at time\" schedule.<br><br>Our new K-6 Montesorri program is growing with high demand. &nbsp;Currently providing Kindergarten and 1st grade.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online LOGIN or REGISTER</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Learn more about the Summer School Program</a>"
         },
         {
           "_tags": [
@@ -215,7 +215,7 @@
             }
           },
           "title": "Now Enrolling for Summer School",
-          "text": "Our mission is to provide a Non-traditional educational<br>environmentfor our students by emphasizing <i>project based learning</i>, <i>personal responsibility</i>, and <i>outstanding citizenship</i>.",
+          "text": "Our mission is to provide a Non-traditional educational<br>environment for our students by emphasizing <i>project based learning</i>, <i>personal responsibility</i>, and <i>outstanding citizenship</i>.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Our Summer School program</a>"
         },
         {
