@@ -1809,7 +1809,7 @@
             "bgColor": "#fff"
           },
           "text1": "<p><b>Meet 3 of these situations</b></p><ul><li>Has repeated a grade</li><li>Absent more than 10% of days in the last semester</li><li>GPA less than 1.5 (on a 4.0 scale)</li><li>Has failed an academic subject</li><li>Is two or more credits behind graduating on time</li><li>Is a Limited English Proficient student who has not been in the LEP program more than 3 years</li></ul>",
-          "text2": "<p><b>OR any one of these situations</b></p><ul><li>Has substance abuse behavior</li><li>Is pregnant or a parent</li><li>Is an emancipated youth</li><li>Is a previous dropout</li><li>Serious personal, emotional, or medical problems</li><li>Is a court or agency referral</li><li>Upon recommendation of the school discrict for disruptive student behavior</li></ul><p><br></p>"
+          "text2": "<p><b>OR any one of these situations</b></p><ul><li>Has substance abuse behavior</li><li>Is pregnant or a parent</li><li>Is an emancipated youth</li><li>Is a previous dropout</li><li>Has serious personal, emotional, or medical problems</li><li>Is a court or agency referral</li><li>With recommendation of the school discrict for disruptive student behavior</li></ul><p><br></p>"
         },
         {
           "_styles": {
@@ -1880,7 +1880,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Started in 2002 as the first online school in the northwest, McKenna Online's courses are designed and taught by Idaho certified teachers. Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive a high school diploma.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our teachers are available during posted office hours via phone, email, text, chat, or video conferencing. You get to talk to a human being, not an automated system!  Give it a try, call 208 580 2449 before 3pm on weekdays and say \"Hi\"</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">To best meet the workflow of online courses, we have created our own online learning system called Acquire.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</span><br></p>"
+          "text": "<p>Started in 2002 as the first online school in the northwest, McKenna Online's courses are designed and taught by Idaho certified teachers. Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive an accredited high school diploma.</p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our teachers are available during posted office hours via phone, email, text, chat, or video conferencing. You get to talk to a human being, not an automated system!  Give it a try, call 208 580 2449 before 3pm on weekdays and say \"Hi\"</span><br></p><p><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">To best meet the workflow of online courses, we have created our own online learning system called Acquire.</span><br></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</span><br></p>"
         },
         {
           "_styles": {
@@ -1913,7 +1913,7 @@
             "paddingBottom": "5",
             "bgColor": "#fff"
           },
-          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our attendance is based upon course work completed, which is tracked by Acquire. Each course requires 90 hours of completed work, which includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project successfully.</span><br></p><p><br></p><p>All of our online students use their own computers and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old).  Most of your work can be completed on a Chromebook or tablet, but you will want a full desktop computer on hand for some work.</p>"
+          "text": "<p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our attendance is based upon course work completed, which is tracked by Acquire. Each course requires 90 hours of completed work, which may include student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project successfully.</span><br></p><p><br></p><p>All of our online students use their own computers and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old). Lessons are best completed on a full computer, however most courses may be completed on a Chromebook or tablet if you prefer.</p>"
         },
         {
           "_tags": [
