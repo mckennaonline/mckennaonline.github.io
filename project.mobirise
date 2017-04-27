@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "charter.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 75,
+    "uniqCompNum": 81,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -109,7 +109,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_inherit": "header1",
@@ -269,92 +269,6 @@
         "meta_descr": "Mountain Home onsite program"
       },
       "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-4",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
-              "height": 128,
-              "alt": "McKenna Logo",
-              "link": "/",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "/",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
-        },
         {
           "_styles": {
             ".mbr-section-title, p": {
@@ -523,6 +437,92 @@
           "text1": "<strong>McKenna High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
           "text2": "<strong>McKenna Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
           "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1n",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
+              "height": 128,
+              "alt": "McKenna Logo",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "/",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         }
       ]
     },
@@ -605,92 +605,6 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-f",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
-              "height": 128,
-              "alt": "McKenna Logo",
-              "link": "/",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "/",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -746,6 +660,92 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1n",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
+              "height": 128,
+              "alt": "McKenna Logo",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "/",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         }
       ]
     },
@@ -825,7 +825,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -839,7 +839,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -982,7 +982,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -996,7 +996,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -1041,6 +1041,39 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-27",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Who is Richard McKenna?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Richard Milton McKenna (Born May 9, 1913 in Mountain Home, Idaho) was an American sailor and novelist. He was best known for his historical novel, The Sand Pebbles which tells the story of an American sailor serving aboard a gunboat on the Chinese Yangtze River in the 1926. &nbsp;More about his life and career is available <a href=\"https://en.wikipedia.org/wiki/Richard_McKenna\">on Wikipedia</a>.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-n",
           "_params": {
             "paddingTop": 1,
@@ -1048,7 +1081,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Audit Reports",
+          "title": "Public Documents",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -1097,7 +1130,7 @@
           },
           "text1": "<b>Margaret (Meg) Warren - Chairman</b><div>Meg has an engineering degree and also studied Studio Art Textiles. She was recommended to our board by one of the original board members, Evanna Hamilton, as someone who has great knowledge in many areas and would be a great asset to our board. She was voted on to the board at the July 2005 meeting and has been a member since that time.</div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Donald Dow – Vice Chairman</b></span><br></div><div>Don was an Air Traffic Controller in the USAF. After retirement he became a financial planner. He has financial knowledge and also had a daughter that attended our school. He was recommended to the board and was voted onto the board at the February 2007 meeting.</div>",
           "text2": "<b>Douglas Mayne – Treasurer</b><div>Doug is a local business owner with many ties to the community. He was instrumental in helping to acquire the donations needed to complete the wind turbine at the school. He also has great knowledge to help and advise the board on maintenance issues for the schools. He was voted onto the board at the June 2010 board Meeting.</div><div><br></div><div><b>Melody Landis – Secretary</b></div><div>Melody and her husband own and run a farm in the community. At the time Melody joined the board, her foster daughter was attending the school. The board thought it would bring insight to what they were trying to accomplish by inviting a parent to join the board. She accepted and was voted onto the board at the October 2007 meeting. She took a short leave from the board in the fall of 2008 and returned to the board in the spring of 2009.</div>",
-          "text3": "<b>Maralee Smith – Board Member</b><div>Maralee is a retired teacher. The board members wanted to have a member with an education background for the knowledge that would bring. Maralee was invited to join the board. She accepted and was voted onto the board at the June 2011 meeting.</div><div><br></div><div><b>Page Borgholthaus – Board Member</b></div><div>Page is trained in Montessori methods and owned and operated Children’s House Montessori in our community for many years. She has great knowledge regarding Montessori methods. With her great knowledge and experience, she was invited to join the board. She accepted the invitation and was voted onto the board at the June 2015 board Meeting.</div><div>&nbsp;</div><div><b>Chantel Durrence is the Business Manager</b> and acts as the Clerk of the board but is not a voting member.</div>"
+          "text3": "<b>Kyle Davis – Board Member</b><div><br></div><div><br></div><div><b>Page Borgholthaus – Board Member</b></div><div>Page is trained in Montessori methods and owned and operated Children’s House Montessori in our community for many years. She has great knowledge regarding Montessori methods. With her great knowledge and experience, she was invited to join the board. She accepted the invitation and was voted onto the board at the June 2015 board Meeting.</div><div>&nbsp;</div><div><b>Chantel Durrence is the Business Manager</b> and acts as the Clerk of the board but is not a voting member.</div>"
         },
         {
           "_tags": [
@@ -1220,7 +1253,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -1234,7 +1267,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -1333,10 +1366,138 @@
           "_anchor": "content1-y",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text": "<p>First, complete the registration by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then the \"New Student\" button below the login form. Registration is open about 6 weeks before the school year and closes about 6 weeks before the end of the school year.</p><p><br></p><p>Courses begin every Monday (even on 3 day weekend holidays) and last for 6 weeks. The student's attendance is based on course work completed, which is tracked by Acquire. Each course requires 90 hours of completed work, which may includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project successfully.</p><p><br></p><p>All of our online students use their own computer and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old). &nbsp;Lessons are best completed on a full computer, however most courses may be completed on a Chromebook or tablet if you prefer.</p>"
+        },
+        {
+          "_styles": {
+            ".feature-title, .description": {
+              "color": "#232323"
+            },
+            ".feature-subtitle": {
+              "color": "#8c8c8c"
+            },
+            ".mbr-section-subtitle A": {
+              "color": "#6e551d"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "desktop",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title3": "Translation ready",
+          "feature_subtitle3": "Find a common language with anyone",
+          "feature_text3": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "feature_title6": "Awesome parallax",
+          "feature_subtitle6": "Enjoy smooth bg sliding on scroll",
+          "feature_text6": "Donec felis leo, placerat et porttitor, fermentum ut nunc. Integer consequat pretium tempor. Fusce aliquam libero quis dui dictum.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures8",
+          "_anchor": "extFeatures8-26",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
+            "bgColor": "#e9e9e9",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showTitle": true,
+            "showSubtitle": true
+          },
+          "title": "Online Demo",
+          "subtitle": "Tour our online school when you <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Choose Login as Guest</a>&nbsp;in the login form. &nbsp;<br>If you haven't called our office yet, go for it. &nbsp;We would like to meet you.",
+          "feature_title1": "All in one place",
+          "feature_subtitle1": "",
+          "feature_text1": "Every class. Every lesson. Every assignment. All together so it's easy to know what is next to work on.",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "layers",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title2": "Mobile friendly",
+          "feature_subtitle2": "",
+          "feature_text2": "Away from home for a bit and want to finish some school work? &nbsp;Documents are submitted using Google Drive so even writing a report is all done in the browser.&nbsp;",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "mobile",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media": {
+            "image": {
+              "class": "central-image",
+              "src": "@PROJECT_PATH@/assets/images/laptopdemo-1500x954.png",
+              "active": true,
+              "link": "http://app.rmckenna.org/app",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "video",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title4": "Audio and video content",
+          "feature_subtitle4": "",
+          "feature_text4": "When teachers author their own course lessons, they draw from best and most helpful multimedia content anywhere on the web.",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "edit",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "feature_title5": "Embedded questions",
+          "feature_subtitle5": "",
+          "feature_text5": "Some questions are given directly within the lesson to help confirm understanding at the same time the concept is presented."
         },
         {
           "_styles": {
@@ -1350,7 +1511,7 @@
           "_name": "header3",
           "_anchor": "header3-z",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": true
@@ -1513,7 +1674,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -1527,7 +1688,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -1748,7 +1909,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -1762,7 +1923,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -2036,7 +2197,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-497x128.png",
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
               "height": 128,
               "alt": "McKenna Logo",
               "link": "/",
@@ -2050,7 +2211,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"true\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"online.html\" aria-expanded=\"false\">SCHOOLS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School - Free to all Idaho students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Online Summer School - Free to qualifying students</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onsite.html\">Mountain Home - Onsite High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Mountain Home -&nbsp;Kindergarten and 1st</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
