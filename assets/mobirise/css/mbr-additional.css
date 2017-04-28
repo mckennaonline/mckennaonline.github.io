@@ -968,6 +968,10 @@ h6,
   font-size: 14px;
   text-align: left;
 }
+#header3-27 .mbr-section-title,
+#header3-27 .mbr-section-subtitle {
+  text-align: center;
+}
 #menu-l .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1031,10 +1035,6 @@ h6,
 }
 #header3-m .mbr-section-title,
 #header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-27 .mbr-section-title,
-#header3-27 .mbr-section-subtitle {
   text-align: center;
 }
 #header3-n .mbr-section-title,

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "charter.html",
+    "currentPage": "online.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -914,6 +914,39 @@
       "components": [
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-27",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Who is Richard McKenna?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-28",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Richard Milton McKenna (Born May 9, 1913 in Mountain Home, Idaho) was an American sailor and novelist. He was best known for his historical novel, The Sand Pebbles which tells the story of an American sailor serving aboard a gunboat on the Chinese Yangtze River in the 1926. &nbsp;More about his life and career is available <a href=\"https://en.wikipedia.org/wiki/Richard_McKenna\">on Wikipedia</a>.</p>"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -1010,7 +1043,7 @@
           "_name": "header3",
           "_anchor": "header3-m",
           "_params": {
-            "paddingTop": "6",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
@@ -1025,44 +1058,11 @@
           "_name": "content1",
           "_anchor": "content1-p",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
           "text": "<p>Amended charter 2016</p><p>RMCS 2016 Annual Report</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-27",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Who is Richard McKenna?",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-28",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Richard Milton McKenna (Born May 9, 1913 in Mountain Home, Idaho) was an American sailor and novelist. He was best known for his historical novel, The Sand Pebbles which tells the story of an American sailor serving aboard a gunboat on the Chinese Yangtze River in the 1926. &nbsp;More about his life and career is available <a href=\"https://en.wikipedia.org/wiki/Richard_McKenna\">on Wikipedia</a>.</p>"
         },
         {
           "_styles": {
@@ -1091,7 +1091,7 @@
           "_name": "content1",
           "_anchor": "content1-o",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "1",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
@@ -1180,7 +1180,7 @@
     "online.html": {
       "settings": {
         "title": "Richard McKenna Online High School",
-        "meta_descr": "Free online school for Idaho residents"
+        "meta_descr": "McKenna Online offers free 9th-12th grade courses to students all over the state of Idaho"
       },
       "components": [
         {
