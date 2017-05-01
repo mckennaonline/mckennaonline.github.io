@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "charter.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 102,
+    "uniqCompNum": 104,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -855,9 +855,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2q",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-2q"
         },
         {
           "_styles": {
@@ -889,9 +889,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2r",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-2r"
         },
         {
           "_styles": {
@@ -923,9 +923,9 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2s",
           "_PHPplaceholders": [],
-          "_JSplaceholders": []
+          "_JSplaceholders": [],
+          "_anchor": "custom-html-2s"
         },
         {
           "_styles": {
@@ -2079,6 +2079,379 @@
             "bgColor": "#fff"
           },
           "text": "<p>Our K-6 Montessori program serves the attendance area of Mountain Home and the Mountain Home Air Force Base. The K-6 Montessori program will grow one grade level per year beginning with Kindergarten and ending with the 6th grade. We will build facilities as needed.</p><p><br></p><p>At McKenna Montessori we are invested in creating respectful relationships among teachers, administrative staff, parents, and children. We appreciate and celebrate diversity and recognize how we as a school benefit from the array of cultural backgrounds and traditions that families and staff members bring to our community. We work to provide an inclusive environment and do not discriminate on the basis of race, sex, religion, creed, national origin, ancestry, ethnicity, handicap, or sexual orientation.</p><p>Our approach to education is based on the philosophy and methods of Maria Montessori, the first Italian female physician who founded the first Montessori school in Rome in 1907. Dr. Montessori believed that the goal of the educational process was to cultivate a child’s natural desire to learn. Dr. Montessori observed that all children have the same basic needs:</p><p>- The need for order – to organize, classify and interpret reality</p><p>- The need for independence – the impulse to act personally upon and within reality</p><p>- The need for social relationships</p><p>- The need to experience reality through imagination</p><p><br></p><p>The teacher carefully prepares the classroom environment and directs the activity of the classroom, but it is the child who learns. Dr. Montessori observed that children are motivated through the work itself and that children, like adults, learn best by doing rather than being filled with facts. Concentration, determination, and purpose established in early childhood lead to confident, successful learning later in life. At McKenna Montessori, children learn how to observe, think, and evaluate and experience the joy of learning. The Montessori approach is not a tweaking of traditional models of education, it is a completely&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">different way of learning and teaching designed to prepare children for success in an increasingly complex world.</span></p><p><br></p><p>Richard McKenna Montessori is an advocate for the child, developing education programs that follow the natural needs and development of the child. We believe each person has the potential to achieve success through an ordered, challenging, nurturing educational environment that includes the whole person – intellectual, emotional, spiritual, and physical. At the center is the child, whose needs are the focus of the learning process.</p>"
+        },
+        {
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_params": {
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "slides": [
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_33_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-33-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-33-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_34_1850_0-2000x877.jpg",
+                "active": true,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-34-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-34-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_36_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-36-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-36-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_37_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-37-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-37-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_39_1850_0-2000x871.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-39-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-39-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_40_1850_0-2000x844.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-40-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-40-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_41_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-41-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-41-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_42_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-42-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-42-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_45_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-45-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-45-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_46_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-46-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-46-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_48_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-48-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-48-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_49_1850_0-2000x1559.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-49-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-49-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_50_1850_0-2000x1559.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-50-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-50-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_51_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-51-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-51-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_52_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-52-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-52-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_57_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-57-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-57-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_59_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-59-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-59-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_60_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-60-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-60-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_61_1850_0-2000x1559.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-61-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-61-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_62_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-62-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-62-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_66_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-66-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-66-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_70_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-70-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-70-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_71_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-71-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-71-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_73_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-73-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-73-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_74_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-74-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-74-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_75_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-75-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-75-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_76_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-76-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-76-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_77_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-77-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-77-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_80_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-80-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-80-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_82_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-82-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-82-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_83_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-83-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-83-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_85_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-85-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-85-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_88_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-88-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-88-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_32_1850_0-2000x876.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-32-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-32-1850-85x48.png"
+              }
+            ],
+            "theme": "metro",
+            "bgColor": "#ffffff",
+            "animType": "carousel",
+            "autoplay": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "fullScreen": true,
+            "showBullets": false,
+            "timeout": "7",
+            "duration": "2",
+            "height": "576",
+            "width": "1024",
+            "responsive": "2",
+            "showCaptions": false,
+            "captionsEffect": "slide",
+            "hideControls": true
+          },
+          "_anchor": "wowslider-2v",
+          "articleLayout": false
         },
         {
           "_styles": {
