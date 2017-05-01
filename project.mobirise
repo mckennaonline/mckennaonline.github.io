@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -216,8 +216,13 @@
             }
           },
           "title": "Now Enrolling for Summer School",
-          "text": "Our mission is to provide a Non-traditional educational<br>environment for our students by emphasizing <i>project based learning</i>, <i>personal responsibility</i>, and <i>outstanding citizenship</i>.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Our Summer School program</a>"
+          "text": "<b>Our mission</b> is to provide an extraordinaryeducation<br>experience for our students by emphasizing:<br>•&nbsp;<i>Academic achievement</i><br>•&nbsp;<i>Creative thinking</i><br>•&nbsp;<i>Personal responsibility</i><br>•&nbsp;<i>Responsible citizenship</i><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Summer School details</a>",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_tags": [
