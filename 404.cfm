@@ -8,10 +8,16 @@ if (find(";",CGI.QUERY_STRING) > 0) {
 
 switch (from) {
 	case "/admin":
+	case "/admin/":
 		to = "http://app.rmckenna.org/admin";
 		break;
 	case "/login":
+	case "/login/":
 		to = "http://app.rmckenna.org/login";
+		break;
+	case "/staff":
+	case "/staff/":
+		to = "http://app.rmckenna.org/staff";
 		break;
 	case "/program/k-8.htm":
 	case "/apps/pages/montessori":
@@ -48,7 +54,7 @@ switch (from) {
 	case "/apps/pages/projectbasedlearning":
 	case "/apps/pages/highschool/enrollment":
 	case "/apps/pages/hs/about":
-		to = "/onsite.html";
+		to = "/oncampus.html";
 		break;
 	case "/apps/pages/boardmembers":
 	case "/apps/pages/auditreports":
@@ -59,6 +65,13 @@ switch (from) {
 	case "/apps/pages/montessori/employment":
 	case "/apps/pages/online/employment":
 		to = "/employment.html";
+		break;
+	case "/pdf/OnlineHandbook.pdf":
+	case "/apps/pages/online/handbook":
+		to = "/onlinehandbook.html";
+		break;
+	case "/apps/pages/hs/handbook":
+		to = "/oncampusuhandbook.html";
 		break;
 	default:
 		to = "";
