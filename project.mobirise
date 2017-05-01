@@ -216,7 +216,7 @@
             }
           },
           "title": "Now Enrolling for Summer School",
-          "text": "<b>Our mission</b> is to provide an extraordinaryeducation<br>experience for our students by emphasizing:<br>•&nbsp;<i>Academic achievement</i><br>•&nbsp;<i>Creative thinking</i><br>•&nbsp;<i>Personal responsibility</i><br>•&nbsp;<i>Responsible citizenship</i><br>",
+          "text": "<b>Our mission</b> is to provide an extraordinary education<br>experience for our students by emphasizing:<br>•&nbsp;<i>Academic achievement</i><br>•&nbsp;<i>Creative thinking</i><br>•&nbsp;<i>Personal responsibility</i><br>•&nbsp;<i>Responsible citizenship</i><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Summer School details</a>",
           "_styles": {
             "P": {
