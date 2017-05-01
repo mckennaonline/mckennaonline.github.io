@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "charter.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 98,
+    "uniqCompNum": 102,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -846,17 +846,18 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\">\n<iframe src=\"https://drive.google.com/embeddedfolderview?id=0Bww3yIRpgI_sY09TRkNoQy1mTE0#grid\" width=\"100%\" height=\"240\" frameborder=\"0\"></iframe>\n</div></div></div>",
+          "_customCSS": "",
+          "alias": "code-editor",
           "_tags": [
-            "Theme"
+            "Extension"
           ],
-          "_name": "content1",
-          "_anchor": "content1-p",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>Amended charter 2016</p><p>RMCS 2016 Annual Report</p>"
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2q",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -875,21 +876,56 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Public Documents",
+          "title": "Meeting Minutes",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\">\n<iframe src=\"https://drive.google.com/embeddedfolderview?id=0Bww3yIRpgI_sRUJfUVpPU29UQXM#grid\" width=\"100%\" height=\"240\" frameborder=\"0\"></iframe>\n</div></div></div>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "content1",
-          "_anchor": "content1-o",
+          "_name": "header3",
+          "_anchor": "header3-2t",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff"
+            "bgColor": "#fff",
+            "showMeta": false
           },
-          "text": "<p>2015 Audit</p><p>2016 Audit</p>"
+          "title": "Public Financials",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\">\n<iframe src=\"https://drive.google.com/embeddedfolderview?id=0Bww3yIRpgI_scVlnRnBySUV6bXc#grid\" width=\"100%\" height=\"240\" frameborder=\"0\"></iframe>\n</div></div></div>",
+          "_customCSS": "",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2s",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
