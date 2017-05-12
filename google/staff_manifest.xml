@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--
+To save changes to this file visit https://code.google.com/googleapps/console/#project:892930379083:overview logged in as efreed@rmckenna.org
+Use [Review...] and if any scope requirements have changed, use [Deploy Application...]
+-->
+<ApplicationManifest xmlns="http://schemas.google.com/ApplicationManifest/2009">
+
+	<!-- Support info to show in the marketplace & control panel -->
+	<Support>
+		<!-- URL for application setup as an optional redirect during the install
+		<Link rel="setup" href="http://example.com/google/setup.php?domain=${DOMAIN_NAME}" /> -->
+
+		<!-- URL for application configuration, accessed from the app settings
+		page in the control panel -->
+		<Link rel="manage" href="http://code.google.com/googleapps/console/a/rmckenna.org" />
+
+		<!-- URL explaining how customers get support. -->
+		<Link rel="support" href="http://app.rmckenna.org/google-apps-ext/readme.cfm" />
+
+		<!-- URL that is displayed to admins during the deletion process,
+		to specify policies such as data retention, how to claim accounts, etc.
+		<Link rel="deletion-policy" href="http://example.com/google/deletion-policy.php" /> -->
+	</Support>
+
+	<!-- Name and description pulled from message bundles -->
+	<Name>Richard McKenna Online</Name>
+	<Description>Google integration with Richard McKenna's Learning Management System</Description>
+
+	<!-- Show this link in Google's universal navigation for all users -->
+	<Extension id="navLink" type="link">
+		<Name>School Homepage</Name>
+		<Url>http://app.rmckenna.org/gotomyhomepage.cfm?fromgoogle</Url>
+	</Extension>
+
+	<!-- Declare our OpenID realm so our app is white listed -->
+	<Extension id="realm" type="openIdRealm">
+		<Url>http://app.rmckenna.org</Url>
+	</Extension>
+
+	<!-- EXTRACTOR
+	https://developers.google.com/google-apps/gmail/contextual_gadgets#using_pre-canned_extractors
+	 -->
+	<!--
+	<Extension id="EmailsExtractor" type="contextExtractor">
+		<Name>The Emails</Name>
+		<Url>google.com:EmailAddressExtractor</Url>
+		<Triggers ref="HelloWorldGadget"/>
+		<Scope ref="emailSubject"/>
+		<Scope ref="emailBody"/>
+		<Container name="mail"/>
+	</Extension>
+	<Extension id="DateExtractor" type="contextExtractor">
+		<Name>Date</Name>
+		<Url>google.com:EmailTimeExtractor</Url>
+		<Triggers ref="HelloWorldGadget"/>
+		<Scope ref="dateSent"/>
+		<Scope ref="dateReceived"/>
+		<Container name="mail"/>
+	</Extension>
+	-->
+	<Extension id="RecipientExtractor" type="contextExtractor">
+		<Name>Recipient Email</Name>
+		<Url>google.com:RecipientEmailExtractor</Url>
+		<Triggers ref="HelloWorldGadget"/>
+		<Param name="recipient_email" value=".*rmckenna.org"></Param>
+		<Scope ref="toAddress"/>
+		<Scope ref="ccEmail"/>
+		<Container name="mail"/>
+	</Extension>
+	<Extension id="SenderExtractor" type="contextExtractor">
+		<Name>Sender Email</Name>
+		<Url>google.com:SenderEmailExtractor</Url>
+		<Triggers ref="HelloWorldGadget"/>
+		<Param name="sender_email" value=".*rmckenna.org"></Param>
+		<Scope ref="fromAddress"/>
+		<Container name="mail"/>
+	</Extension>
+	<!--
+	<Extension id="SubjectExtractor" type="contextExtractor">
+		<Name>Subject Extractor</Name>
+		<Url>google.com:SubjectExtractor</Url>
+		<Triggers ref="HelloWorldGadget"/>
+		<Param name="subject" value=".*"></Param>
+		<Scope ref="emailSubject"/>
+		<Container name="mail"/>
+	</Extension>
+	-->
+	<!-- GADGET -->
+	<Extension id="HelloWorldGadget" type="gadget">
+		<Name>Student Options menu contextual gadget</Name>
+		<Url>http://app.rmckenna.org/google/staff_email_gadget.xml</Url>
+		<Container name="mail"/>
+	</Extension>
+
+	<!-- SCOPE -->
+	<Scope id="toAddress">
+		<Url>tag:google.com,2010:auth/contextual/extractor/TO_ADDRESS</Url>
+		<Reason>This application wants to know the TO email addresses</Reason>
+	</Scope>
+	<Scope id="ccEmail">
+		<Url>tag:google.com,2010:auth/contextual/extractor/CC_EMAIL</Url>
+		<Reason>This application wants to know the cc emails addresses</Reason>
+	</Scope>
+	<Scope id="fromAddress">
+		<Url>tag:google.com,2010:auth/contextual/extractor/FROM_ADDRESS</Url>
+		<Reason>This application wants to know the from email address</Reason>
+	</Scope>
+	<Scope id="fromName">
+		<Url>tag:google.com,2010:auth/contextual/extractor/FROM_PERSONAL</Url>
+		<Reason>This application wants to know the name of the sender</Reason>
+	</Scope>
+	<Scope id="emailSubject">
+		<Url>tag:google.com,2010:auth/contextual/extractor/SUBJECT</Url>
+		<Reason>This application wants to be able to read the subject</Reason>
+	</Scope>
+	<Scope id="emailBody">
+		<Url>tag:google.com,2010:auth/contextual/extractor/BODY</Url>
+		<Reason>This application wants to read email content</Reason>
+	</Scope>
+
+</ApplicationManifest>
