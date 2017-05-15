@@ -1146,8 +1146,11 @@ h6,
 #header3-1b .mbr-section-subtitle {
   text-align: center;
 }
-#content1-1m P {
-  text-align: center;
+#msg-box2-2w .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-2w .mbr-section-subtitle {
+  color: #000000;
 }
 #contacts1-1k P {
   font-size: 14px;
