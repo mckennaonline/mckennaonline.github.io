@@ -1138,18 +1138,12 @@ h6,
 #menu-15 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-19 .mbr-section-title,
-#header3-19 .mbr-section-subtitle {
-  text-align: center;
-}
-#msg-box2-2y .mbr-section-title {
-  color: #fff;
-}
-#msg-box2-2y .mbr-section-subtitle {
-  color: #000000;
-}
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-19 .mbr-section-title,
+#header3-19 .mbr-section-subtitle {
   text-align: center;
 }
 #msg-box2-2w .mbr-section-title {
