@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 110,
+    "uniqCompNum": 104,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_inherit": "header1",
@@ -542,7 +542,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         }
       ]
     },
@@ -637,7 +637,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -828,7 +828,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -876,8 +876,8 @@
           "_name": "header3",
           "_anchor": "header3-n",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": 1,
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -910,8 +910,8 @@
           "_name": "header3",
           "_anchor": "header3-2t",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -944,7 +944,7 @@
           "_name": "header3",
           "_anchor": "header3-q",
           "_params": {
-            "paddingTop": "2",
+            "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
@@ -1103,7 +1103,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -1525,7 +1525,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -1550,42 +1550,9 @@
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-1b",
-          "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
-          },
-          "title": "Richard McKenna Montessori",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-2z",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "1",
-            "bgColor": "#fff"
-          },
-          "text": "<p><b>Substitute Teacher</b></p><p><br></p><p>Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students.  We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p>Scroll down for a printable application and instructions at the bottom of this page.</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
           "_anchor": "header3-19",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "5",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
@@ -1597,53 +1564,66 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content6",
-          "_anchor": "content6-31",
+          "_name": "content1",
+          "_anchor": "content1-18",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Certified High School Math Teacher</b></p><p><br></p><p>QUALIFICATIONS</p><p>Idaho teaching certificate with appropriate endorsement(s)</p><p>Strong background in teaching methods, developmentally appropriate classroom activities, and effective classroom management</p><p>Demonstrated knowledge of subject matter and effective teaching methods</p><p>Strong background in curriculum and the Idaho Core Standards</p><p>Strong background in the integration of technology with instruction</p><p>Ability to maintain a positive learning environment</p><p>Work well with students, staff, and the public</p><p>Excellent organizational skills</p><p>Excellent interpersonal and communication skills</p><p>Able to work under deadlines</p><p>Maintain confidentiality of staff and students</p><p><br></p><p>JOB SUMMARY</p><p>To provide students with a daily and ongoing instructional program that will provide for them the best possible academic knowledge and skills. To promote academic, social, and citizenship development through leadership and classroom supervision.</p><p><br></p><p>MAJOR DUTIES AND RESPONSIBILITIES</p><p>==Instruction==</p><p>Prepare for assigned classes</p><p>Design lessons with an appropriate level of difficulty that provide content in a logical and sequential manner</p><p>Employ a variety of instructional techniques and media, consistent with the physical limitations of the classroom and the needs and capabilities of the individuals or student groups involved</p><p>Meet and instruct assigned classes in the locations and at the times designated</p><p>Identify pupil needs and provide instruction appropriate to those needs</p><p>Analyze and interpret student data to develop and modify instructional activities</p><p>Follow modifications and accommodations as specified in Individual Education Plans (IEPs)</p><p>Implement the Idaho Core Standards, as well as the district’s philosophy of education and instructional goals and objectives, in lesson plans, classroom instruction, unit planning, and assessments</p><p>Devise written and oral assignments and tests that require analytical and critical thinking as well as the reproduction of facts, and use them to evaluate student progress on a regular basis</p><p>Prepare students academically for district, state, and federal testing</p><p>Display command of the subject matter</p><p>Budget class time effectively</p><p>==Other Duties to Students==</p><p>Encourage students to strive to meet their highest potential</p><p>Establish and communicate classroom rules and encourage students to set and maintain standards of classroom behavior</p><p>Make provision for being available to students and parents for education-related purposes outside the instructional day when required or requested to do so under reasonable terms</p><p>Work to establish and maintain open lines of communication with students and their parents concerning both the academic and behavioral progress of all assigned students</p><p>Take all necessary and reasonable precautions to protect students, equipment, materials, and facilities</p><p>==Professional Contacts and Activities==</p><p>Attend and participate in faculty meetings</p><p>Attend IEP meetings and collaborate with special education teachers as needed</p><p>Keep immediate supervisor informed of activities and any issues that may arise</p><p>Cooperate with other members of the staff in planning instructional goals, curriculum, objectives, and methods</p><p>Provide needed and requested information on a timely basis</p><p>==Other==</p><p>Assist in upholding and enforcing school rules</p><p>Maintain accurate and complete records as required by federal and state law, administrative rules, and Board policy</p><p>Input data in a timely fashion</p><p>Assume responsibility for his or her continuing professional growth and development by attendance at professional meetings, membership in professional organizations, enrollment in advanced courses, and by reading professional journals and other publications</p><p>Adhere to The Code of Ethics of the Idaho Teaching Profession adopted by the Professional Standards Commission and the State Board of Education</p><p>Seek assistance should emergencies arise</p><p>Represent the school district in a positive manner</p><p>Know and follow school district policy and chain of command</p><p>Perform other duties as assigned</p><p><br></p><p>EVALUATION</p><p>Performance of this position will be evaluated annually by the building principal in conformance with district policy and IDAPA 08.02.02.120.</p><p><br></p><p>TERMS OF EMPLOYMENT</p><p>By contract as determined by the Board of Trustees in accordance with federal and state law, administrative rules, and Board policy. &nbsp;</p>",
-          "text2": "<p><b>Substitute Teacher</b></p><p><br></p><p>Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students. &nbsp;We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p>Scroll down for a printable application and instructions at the bottom of this page.</p><p><br></p>"
+          "text": "<b>Substitute Teacher</b><div><br></div><div>Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</div><div><br></div><div>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</div><div><br></div><div>The position will involve helping with a classroom of students. We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</div><div><br></div><div>Scroll down for a printable application and instructions at the bottom of this page.</div>"
         },
         {
           "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2w",
+          "_name": "header3",
+          "_anchor": "header3-1b",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": false,
-            "showText": true
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"/docs/EmploymentApplication.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;PRINT APPLICATION</a>",
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Please submit the application, your resume, and cover letter to<div>Chantel Durrence, Business Manager</div><div>Email: cdurrence@rmckenna.org or Fax: (208) 580-2450</div><div><br></div><div>For more information, call 208.580.2449 ext. 1101 Monday – Friday 8:00 a.m. to 3:00 p.m.</div>"
+          "title": "Richard McKenna Montessori",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-1d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>Certified High School Math Teacher</b></p><p><b><br></b></p><p>QUALIFICATIONS</p><p>Idaho teaching certificate with appropriate endorsement(s)</p><p>Strong background in teaching methods, developmentally appropriate classroom activities, and effective classroom management</p><p>Demonstrated knowledge of subject matter and effective teaching methods</p><p>Strong background in curriculum and the Idaho Core Standards</p><p>Strong background in the integration of technology with instruction</p><p>Ability to maintain a positive learning environment</p><p>Work well with students, staff, and the public</p><p>Excellent organizational skills</p><p>Excellent interpersonal and communication skills</p><p>Able to work under deadlines</p><p>Maintain confidentiality of staff and students</p><p><br></p><p>JOB SUMMARY</p><p>To provide students with a daily and ongoing instructional program that will provide for them the best possible academic knowledge and skills. To promote academic, social, and citizenship development through leadership and classroom supervision.</p><p><br></p><p>MAJOR DUTIES AND RESPONSIBILITIES</p><p>==Instruction==</p><p>Prepare for assigned classes</p><p>Design lessons with an appropriate level of difficulty that provide content in a logical and sequential manner</p><p>Employ a variety of instructional techniques and media, consistent with the physical limitations of the classroom and the needs and capabilities of the individuals or student groups involved</p><p>Meet and instruct assigned classes in the locations and at the times designated</p><p>Identify pupil needs and provide instruction appropriate to those needs</p><p>Analyze and interpret student data to develop and modify instructional activities</p><p>Follow modifications and accommodations as specified in Individual Education Plans (IEPs)</p><p>Implement the Idaho Core Standards, as well as the district?s philosophy of education and instructional goals and objectives, in lesson plans, classroom instruction, unit planning, and assessments</p><p>Devise written and oral assignments and tests that require analytical and critical thinking as well as the reproduction of facts, and use them to evaluate student progress on a regular basis</p><p>Prepare students academically for district, state, and federal testing</p><p>Display command of the subject matter</p><p>Budget class time effectively</p><p>==Other Duties to Students==</p><p>Encourage students to strive to meet their highest potential</p><p>Establish and communicate classroom rules and encourage students to set and maintain standards of classroom behavior</p><p>Make provision for being available to students and parents for education-related purposes outside the instructional day when required or requested to do so under reasonable terms</p><p>Work to establish and maintain open lines of communication with students and their parents concerning both the academic and behavioral progress of all assigned students</p><p>Take all necessary and reasonable precautions to protect students, equipment, materials, and facilities</p><p>==Professional Contacts and Activities==</p><p>Attend and participate in faculty meetings</p><p>Attend IEP meetings and collaborate with special education teachers as needed</p><p>Keep immediate supervisor informed of activities and any issues that may arise</p><p>Cooperate with other members of the staff in planning instructional goals, curriculum, objectives, and methods</p><p>Provide needed and requested information on a timely basis</p><p>==Other==</p><p>Assist in upholding and enforcing school rules</p><p>Maintain accurate and complete records as required by federal and state law, administrative rules, and Board policy</p><p>Input data in a timely fashion</p><p>Assume responsibility for his or her continuing professional growth and development by attendance at professional meetings, membership in professional organizations, enrollment in advanced courses, and by reading professional journals and other publications</p><p>Adhere to The Code of Ethics of the Idaho Teaching Profession adopted by the Professional Standards Commission and the State Board of Education</p><p>Seek assistance should emergencies arise</p><p>Represent the school district in a positive manner</p><p>Know and follow school district policy and chain of command</p><p>Perform other duties as assigned</p><p><br></p><p>EVALUATION</p><p>Performance of this position will be evaluated annually by the building principal in conformance with district policy and IDAPA 08.02.02.120.</p><p><br></p><p>TERMS OF EMPLOYMENT</p><p>By contract as determined by the Board of Trustees in accordance with federal and state law, administrative rules, and Board policy. &nbsp;</p>",
+          "text2": "<p><b>Substitute Teacher</b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</span><br></p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students. We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p>Scroll down for a printable application and instructions at the bottom of this page.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p>Please submit the application, your resume, and cover letter by email:</p><p>Chantel Durrence, Business Manager, cdurrence@rmckenna.org</p><p>For more information, call 208.580.2449 ext. 1101 Monday – Friday 8:00 a.m. to 3:00 p.m.</p>"
         },
         {
           "_tags": [
@@ -1781,7 +1761,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -2070,7 +2050,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -2119,343 +2099,343 @@
             "slides": [
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_33_1850_0-2000x877.jpg",
-                "active": false,
-                "link": false,
-                "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_33_1850-1600x900.jpg",
-                "title": "title 3",
-                "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_33_1850-85x48.png"
-              },
-              {
-                "src": "@PROJECT_PATH@/assets/images/10563_34_1850_0-2000x877.jpg",
                 "active": true,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_34_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-33-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_34_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-33-1850-85x48.png"
+              },
+              {
+                "src": "@PROJECT_PATH@/assets/images/10563_34_1850_0-2000x877.jpg",
+                "active": false,
+                "link": false,
+                "linkUrl": "http://google.com",
+                "image": "@PROJECT_PATH@/assets/images/10563-34-1850-1600x900.jpg",
+                "title": "title 3",
+                "text": "text 3",
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-34-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_36_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_36_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-36-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_36_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-36-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_37_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_37_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-37-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_37_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-37-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_39_1850_0-2000x871.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_39_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-39-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_39_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-39-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_40_1850_0-2000x844.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_40_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-40-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_40_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-40-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_41_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_41_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-41-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_41_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-41-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_42_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_42_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-42-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_42_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-42-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_45_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_45_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-45-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_45_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-45-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_46_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_46_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-46-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_46_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-46-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_48_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_48_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-48-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_48_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-48-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_49_1850_0-2000x1559.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_49_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-49-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_49_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-49-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_50_1850_0-2000x1559.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_50_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-50-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_50_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-50-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_51_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_51_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-51-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_51_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-51-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_52_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_52_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-52-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_52_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-52-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_57_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_57_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-57-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_57_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-57-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_59_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_59_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-59-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_59_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-59-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_60_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_60_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-60-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_60_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-60-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_61_1850_0-2000x1559.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_61_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-61-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_61_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-61-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_62_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_62_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-62-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_62_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-62-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_66_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_66_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-66-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_66_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-66-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_70_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_70_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-70-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_70_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-70-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_71_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_71_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-71-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_71_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-71-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_73_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_73_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-73-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_73_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-73-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_74_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_74_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-74-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_74_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-74-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_75_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_75_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-75-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_75_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-75-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_76_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_76_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-76-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_76_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-76-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_77_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_77_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-77-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_77_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-77-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_80_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_80_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-80-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_80_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-80-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_82_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_82_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-82-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_82_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-82-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_83_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_83_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-83-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_83_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-83-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_85_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_85_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-85-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_85_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-85-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_88_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_88_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-88-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_88_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-88-1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_32_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563_32_1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563-32-1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563_32_1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563-32-1850-85x48.png"
               }
             ],
             "theme": "metro",
@@ -2882,7 +2862,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         }
       ]
     },
@@ -2978,7 +2958,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -3176,7 +3156,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"true\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
