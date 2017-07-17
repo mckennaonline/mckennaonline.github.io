@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 108,
+    "uniqCompNum": 110,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESORRI K6</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten and 1st - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_inherit": "header1",
@@ -1571,7 +1571,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p>Currently, there are no available Montessori teaching positions.&nbsp;</p>"
+          "text": "<p><b>Certified Substitute Teacher</b></p><p><br></p><p>Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students.  We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p>Scroll down for a printable application and instructions at the bottom of this page.</p>"
         },
         {
           "_styles": {
@@ -1598,14 +1598,14 @@
             "Theme"
           ],
           "_name": "content6",
-          "_anchor": "content6-2x",
+          "_anchor": "content6-31",
           "_params": {
             "paddingTop": 1,
-            "paddingBottom": "3",
+            "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Certified High School Math Teacher</b>\n\n</p><p><br></p><p>QUALIFICATIONS\n</p><ol><li>Idaho teaching certificate with appropriate endorsement(s)</li><li>Strong background in teaching methods, developmentally appropriate classroom activities, and effective classroom management\n</li><li>Demonstrated knowledge of subject matter and effective teaching methods\n</li><li>Strong background in curriculum and the Idaho Core Standards\n</li><li>Strong background in the integration of technology with instruction\n</li><li>Ability to maintain a positive learning environment\n</li><li>Work well with students, staff, and the public</li><li>Excellent organizational skills\n</li><li>Excellent interpersonal and communication skills\n</li><li>Able to work under deadlines</li><li>Maintain confidentiality of staff and students\n\n\n</li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">JOB SUMMARY\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">To provide students with a daily and ongoing instructional program that will provide for them the best possible academic knowledge and skills.  To promote academic, social, and citizenship development through leadership and classroom supervision.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">MAJOR DUTIES AND RESPONSIBILITIES</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">==Instruction==</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prepare for assigned classes</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Design lessons with an appropriate level of difficulty that provide content in a logical and sequential manner</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Employ a variety of instructional techniques and media, consistent with the physical limitations of the classroom and the needs and capabilities of the individuals or student groups involved</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Meet and instruct assigned classes in the locations and at the times designated</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Identify pupil needs and provide instruction appropriate to those needs</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Analyze and interpret student data to develop and modify instructional activities</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Follow modifications and accommodations as specified in Individual Education Plans (IEPs)</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Implement the Idaho Core Standards, as well as the district’s philosophy of education and instructional goals and objectives, in lesson plans, classroom instruction, unit planning, and assessments</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Devise written and oral assignments and tests that require analytical and critical thinking as well as the reproduction of facts, and use them to evaluate student progress on a regular basis</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prepare students academically for district, state, and federal testing</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Display command of the subject matter</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Budget class time effectively</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">==Other Duties to Students==</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Encourage students to strive to meet their highest potential</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Establish and communicate classroom rules and encourage students to set and maintain standards of classroom behavior</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Make provision for being available to students and parents for education-related purposes outside the instructional day when required or requested to do so under reasonable terms</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Work to establish and maintain open lines of communication with students and their parents concerning both the academic and behavioral progress of all assigned students</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Take all necessary and reasonable precautions to protect students, equipment, materials, and facilities</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">==Professional Contacts and Activities==</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Attend and participate in faculty meetings</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Attend IEP meetings and collaborate with special education teachers as needed</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Keep immediate supervisor informed of activities and any issues that may arise</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Cooperate with other members of the staff in planning instructional goals, curriculum, objectives, and methods</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Provide needed and requested information on a timely basis \n\n</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">==Other==</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assist in upholding and enforcing school rules</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintain accurate and complete records as required by federal and state law, administrative rules, and Board policy</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Input data in a timely fashion</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assume responsibility for his or her continuing professional growth and development by attendance at professional meetings, membership in professional organizations, enrollment in advanced courses, and by reading professional journals and other publications</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Adhere to The Code of Ethics of the Idaho Teaching Profession adopted by the Professional Standards Commission and the State Board of Education</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Seek assistance should emergencies arise</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Represent the school district in a positive manner</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Know and follow school district policy and chain of command</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Perform other duties as assigned</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.07rem; line-height: 1.5;\">EVALUATION</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nPerformance of this position will be evaluated annually by the building principal in conformance with district policy and IDAPA 08.02.02.120.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">TERMS OF EMPLOYMENT\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">By contract as determined by the Board of Trustees in accordance with federal and state law, administrative rules, and Board policy. &nbsp;</span></p>",
-          "text2": "<p><b>High School Receptionist/Registrar</b>\n\n</p><p><br></p><p>QUALIFICATIONS</p><ol><li>High school diploma or General Education Degree\n</li><li>Previous secretarial experience to include: Knowledgeable about word processing, data bases, spread sheets, and reports as determined by the Board\n</li><li>Demonstrated proficiency in data processing and use of automated office equipment and software packages\n</li><li>Ability to gather and analyze statistical data and generate reports</li><li>Demonstrated knowledge of admissions, enrollment, and student records for an educational organization\n</li><li>Knowledge of student retention issues</li><li>Skill in organizing resources and establishing priorities</li><li>Strong communication and interpersonal skills\n</li><li>Self-motivated\n</li><li>Able to work under pressure and deadlines</li><li>Maintain confidentiality of staff and students\n\n</li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">PRIMARY RESPONSIBILITY TO</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nAdministrator </span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\t\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">JOB SUMMARY</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nTo assist the principal and staff in the efficient operation of the school so a maximum positive impact can be made on the education of secondary school students.  To carry out all secretarial and clerical duties necessary for the smooth and efficient operation of the office. To provide information about the school leading to the enrollment of students and maintenance of student records.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">MAJOR DUTIES AND RESPONSIBILITIES</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;Receive and route incoming calls and correspondence</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assist, log in, and direct visitors to the school </span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Meet with newly enrolled students and parents in person to review forms and explain the enrollment and planning process \n</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Register students and set up permanent records entering student demographics and all other needed information</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assist with the collection of all paperwork by responding to specific questions during the form completion process, and follow up on missing forms until file is complete</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Review, compile, and update student credentials needed for admissions status, and monitor progress of applicants</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Coordinate the preparation and distribution of school publications pertaining to admissions and enrollment</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assist in all admissions special events such as open house, career day, orientations, and high school tours, as assigned</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Respond to requests for public information about the district's admissions and enrollment policies and programs</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Speak at public meetings and with groups of students and teachers on matters related to the district's admissions programs and policies as requested by the administrator.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Schedule appointments and conferences as requested by teachers/administrator. Arrange meetings, prepare agendas, and handle follow up activities as necessary</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">In the absence of a school nurse, administer medications to students according to school policy</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Supervise students in emergency situations, attend to ill or hurt students in the absence of a school nurse, and administer basic first aid and contact parents as instructed</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> \n\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">==Record-Keeping==</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Develop and maintain recordkeeping systems and procedures \n</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Oversee grade and transcript processing</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintain academic records, verify enrollment, coordinate graduation, and implement applicable student policies in accordance with accreditation standards and federal and state law, administrative rules, and Board policy pertaining to privacy.   \n</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Compile statistical information and prepare reports</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">May monitor academic standing, coordinate probation and suspension actions.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintain accurate enrollment and attendance records for various reports and forward to the district clerk as needed</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Send student records as requested by schools and promptly request newly enrolled student records from other schools Mail transcripts to colleges and universities and in providing verifications for jobs and social security. Review and compile student admission applications and related documents</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Prepare such documents as reports, staff duty rosters, correspondence, and handbooks</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> \n\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">==Other==</span></p><ol><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Work with College and Career Advisor to help students, parents, and faculty on academic advising procedures, as well as financial aid policies, procedures, and eligibility requirements for college.</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Coordinate the grade petition process, and respond to inquiries concerning academic performance</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">May coordinate the acceptance and receipt of fees</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Provide administrative support, which may include scheduling meetings and events, maintaining various office files, initiating and drafting correspondence, and other related duties</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Assume responsibility for his or her continuing professional growth and development by attendance at in-services or trainings</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Seek assistance should emergencies arise</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Call and schedule substitute teachers and prepare their timesheets</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Maintain a well organized, up to date filing system</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Operate equipment, such as computers, copiers, intercom systems, calculators, laminators, telephone systems, and scanners</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Represent the school district in a positive manner</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Know and follow school district policy and chain of command</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Exercise administrative authority and perform such tasks as may be delegated by the building principal</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Keep immediate supervisor informed of activities and any issues that may arise</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Attend faculty meetings as required</span></li><li><span style=\"font-size: 1.07rem; line-height: 1.5;\">Perform other duties as assigned</span></li></ol><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"> \n\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">EVALUATION</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nPerformance of this position will be evaluated annually by the Administrator in conformance with federal and state law, administrative rules, and Board policy.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">TERMS OF EMPLOYMENT\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">This position shall be considered in all respects “employment at will”.  The “employment period” and other descriptions and terms set forth in this job description shall not create a property right for the employee.  These are set forth only to advise the employee of when and what type of services will be required by the district so long as the employment continues.\n\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">NOTE</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\nAll certificated and non-certificated employees and other individuals are required to undergo a criminal history check and submit to fingerprinting.  Any applicant convicted of any of the felony crimes enumerated in Section 33-1208, Idaho Code may not be hired, and any applicant convicted of any felony offense listed in Section 33-1208(2), Idaho Code shall not be hired.\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">\n\n</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Legal Reference:\tI.C. § 33-513\t\tProfessional Personnel\n\t\t\tI.C. § 33-1210\t\tInformation on Past Job Performance &nbsp;</span><br></p>"
+          "text1": "<p><b>Certified High School Math Teacher</b></p><p><br></p><p>QUALIFICATIONS</p><p>Idaho teaching certificate with appropriate endorsement(s)</p><p>Strong background in teaching methods, developmentally appropriate classroom activities, and effective classroom management</p><p>Demonstrated knowledge of subject matter and effective teaching methods</p><p>Strong background in curriculum and the Idaho Core Standards</p><p>Strong background in the integration of technology with instruction</p><p>Ability to maintain a positive learning environment</p><p>Work well with students, staff, and the public</p><p>Excellent organizational skills</p><p>Excellent interpersonal and communication skills</p><p>Able to work under deadlines</p><p>Maintain confidentiality of staff and students</p><p><br></p><p>JOB SUMMARY</p><p>To provide students with a daily and ongoing instructional program that will provide for them the best possible academic knowledge and skills. To promote academic, social, and citizenship development through leadership and classroom supervision.</p><p><br></p><p>MAJOR DUTIES AND RESPONSIBILITIES</p><p>==Instruction==</p><p>Prepare for assigned classes</p><p>Design lessons with an appropriate level of difficulty that provide content in a logical and sequential manner</p><p>Employ a variety of instructional techniques and media, consistent with the physical limitations of the classroom and the needs and capabilities of the individuals or student groups involved</p><p>Meet and instruct assigned classes in the locations and at the times designated</p><p>Identify pupil needs and provide instruction appropriate to those needs</p><p>Analyze and interpret student data to develop and modify instructional activities</p><p>Follow modifications and accommodations as specified in Individual Education Plans (IEPs)</p><p>Implement the Idaho Core Standards, as well as the district’s philosophy of education and instructional goals and objectives, in lesson plans, classroom instruction, unit planning, and assessments</p><p>Devise written and oral assignments and tests that require analytical and critical thinking as well as the reproduction of facts, and use them to evaluate student progress on a regular basis</p><p>Prepare students academically for district, state, and federal testing</p><p>Display command of the subject matter</p><p>Budget class time effectively</p><p>==Other Duties to Students==</p><p>Encourage students to strive to meet their highest potential</p><p>Establish and communicate classroom rules and encourage students to set and maintain standards of classroom behavior</p><p>Make provision for being available to students and parents for education-related purposes outside the instructional day when required or requested to do so under reasonable terms</p><p>Work to establish and maintain open lines of communication with students and their parents concerning both the academic and behavioral progress of all assigned students</p><p>Take all necessary and reasonable precautions to protect students, equipment, materials, and facilities</p><p>==Professional Contacts and Activities==</p><p>Attend and participate in faculty meetings</p><p>Attend IEP meetings and collaborate with special education teachers as needed</p><p>Keep immediate supervisor informed of activities and any issues that may arise</p><p>Cooperate with other members of the staff in planning instructional goals, curriculum, objectives, and methods</p><p>Provide needed and requested information on a timely basis</p><p>==Other==</p><p>Assist in upholding and enforcing school rules</p><p>Maintain accurate and complete records as required by federal and state law, administrative rules, and Board policy</p><p>Input data in a timely fashion</p><p>Assume responsibility for his or her continuing professional growth and development by attendance at professional meetings, membership in professional organizations, enrollment in advanced courses, and by reading professional journals and other publications</p><p>Adhere to The Code of Ethics of the Idaho Teaching Profession adopted by the Professional Standards Commission and the State Board of Education</p><p>Seek assistance should emergencies arise</p><p>Represent the school district in a positive manner</p><p>Know and follow school district policy and chain of command</p><p>Perform other duties as assigned</p><p><br></p><p>EVALUATION</p><p>Performance of this position will be evaluated annually by the building principal in conformance with district policy and IDAPA 08.02.02.120.</p><p><br></p><p>TERMS OF EMPLOYMENT</p><p>By contract as determined by the Board of Trustees in accordance with federal and state law, administrative rules, and Board policy. &nbsp;</p>",
+          "text2": "<p><b>Certified Substitute Teacher</b></p><p><br></p><p>Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students. &nbsp;We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p>Scroll down for a printable application and instructions at the bottom of this page.</p><p><br></p>"
         },
         {
           "_styles": {
@@ -2122,340 +2122,340 @@
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-33-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_33_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-33-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_33_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_34_1850_0-2000x877.jpg",
                 "active": true,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-34-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_34_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-34-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_34_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_36_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-36-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_36_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-36-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_36_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_37_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-37-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_37_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-37-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_37_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_39_1850_0-2000x871.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-39-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_39_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-39-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_39_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_40_1850_0-2000x844.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-40-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_40_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-40-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_40_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_41_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-41-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_41_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-41-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_41_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_42_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-42-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_42_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-42-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_42_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_45_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-45-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_45_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-45-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_45_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_46_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-46-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_46_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-46-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_46_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_48_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-48-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_48_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-48-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_48_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_49_1850_0-2000x1559.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-49-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_49_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-49-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_49_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_50_1850_0-2000x1559.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-50-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_50_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-50-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_50_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_51_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-51-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_51_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-51-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_51_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_52_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-52-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_52_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-52-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_52_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_57_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-57-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_57_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-57-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_57_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_59_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-59-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_59_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-59-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_59_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_60_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-60-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_60_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-60-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_60_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_61_1850_0-2000x1559.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-61-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_61_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-61-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_61_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_62_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-62-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_62_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-62-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_62_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_66_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-66-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_66_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-66-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_66_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_70_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-70-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_70_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-70-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_70_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_71_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-71-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_71_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-71-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_71_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_73_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-73-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_73_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-73-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_73_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_74_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-74-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_74_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-74-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_74_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_75_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-75-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_75_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-75-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_75_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_76_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-76-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_76_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-76-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_76_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_77_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-77-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_77_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-77-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_77_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_80_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-80-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_80_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-80-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_80_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_82_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-82-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_82_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-82-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_82_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_83_1850_0-2000x877.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-83-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_83_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-83-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_83_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_85_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-85-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_85_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-85-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_85_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_88_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-88-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_88_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-88-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_88_1850-85x48.png"
               },
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_32_1850_0-2000x876.jpg",
                 "active": false,
                 "link": false,
                 "linkUrl": "http://google.com",
-                "image": "@PROJECT_PATH@/assets/images/10563-32-1850-1600x900.jpg",
+                "image": "@PROJECT_PATH@/assets/images/10563_32_1850-1600x900.jpg",
                 "title": "title 3",
                 "text": "text 3",
-                "tooltip": "@PROJECT_PATH@/assets/images/10563-32-1850-85x48.png"
+                "tooltip": "@PROJECT_PATH@/assets/images/10563_32_1850-85x48.png"
               }
             ],
             "theme": "metro",
