@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "charter.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 110,
+    "uniqCompNum": 112,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -842,7 +842,7 @@
           "_name": "header3",
           "_anchor": "header3-m",
           "_params": {
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
@@ -876,7 +876,7 @@
           "_name": "header3",
           "_anchor": "header3-n",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "2",
             "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
@@ -910,8 +910,8 @@
           "_name": "header3",
           "_anchor": "header3-2t",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -942,9 +942,43 @@
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-32",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Continuous Improvement Plan",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div class=\"container\"><div class=\"row\"><div class=\"col-xs-12\">\n<iframe src=\"https://drive.google.com/embeddedfolderview?id=0B7RYKUcOQk7TUHdhVHkxWlQzcTA#grid\" width=\"100%\" height=\"240\" frameborder=\"0\"></iframe>\n</div></div></div>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-33",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
           "_anchor": "header3-q",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff",
             "showMeta": false
