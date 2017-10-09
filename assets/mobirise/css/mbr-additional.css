@@ -1561,3 +1561,68 @@ h6,
   font-size: 14px;
   text-align: left;
 }
+#contacts1-3c P {
+  font-size: 14px;
+  text-align: left;
+}
+#menu-3d .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-3d .navbar-caption {
+  color: #ffffff;
+}
+#menu-3d .navbar-toggler {
+  color: #ffffff;
+}
+#menu-3d .close-icon::before,
+#menu-3d .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-3d .link,
+#menu-3d .dropdown-item {
+  color: #ffffff;
+}
+#menu-3d .link {
+  font-size: 0.75rem;
+}
+#menu-3d .dropdown-item,
+#menu-3d .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-3d .link:hover,
+#menu-3d .dropdown-item:hover,
+#menu-3d .link:focus,
+#menu-3d .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-3d .link[aria-expanded="true"],
+#menu-3d .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-3d .nav-dropdown-sm .link:focus,
+#menu-3d .nav-dropdown-sm .link:hover,
+#menu-3d .nav-dropdown-sm .dropdown-item:focus,
+#menu-3d .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-3d .navbar,
+#menu-3d .nav-dropdown-sm,
+#menu-3d .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-3d .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-3d .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-3d .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-3d .bg-color.transparent.opened .link:hover,
+#menu-3d .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-3d .link[aria-expanded="true"],
+#menu-3d .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
