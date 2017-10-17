@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -48,7 +48,7 @@
           "_name": "header4",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#90a878"
+              "color": "#efefef"
             },
             ".mbr-section-lead": {
               "color": "#efefef"
