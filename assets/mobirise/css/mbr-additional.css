@@ -963,14 +963,6 @@ h6,
 #header3-m .mbr-section-subtitle {
   text-align: center;
 }
-#header3-n .mbr-section-title,
-#header3-n .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-2t .mbr-section-title,
-#header3-2t .mbr-section-subtitle {
-  text-align: center;
-}
 #header3-32 .mbr-section-title,
 #header3-32 .mbr-section-subtitle {
   text-align: center;
@@ -980,6 +972,10 @@ h6,
 }
 #custom-html-33 .my-image {
   width: 100%;
+}
+#header3-2t .mbr-section-title,
+#header3-2t .mbr-section-subtitle {
+  text-align: center;
 }
 #header3-q .mbr-section-title,
 #header3-q .mbr-section-subtitle {
