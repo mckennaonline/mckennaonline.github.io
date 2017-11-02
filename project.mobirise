@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "charter.html",
+    "currentPage": "montessorihandbook.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 128,
+    "uniqCompNum": 135,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -326,7 +326,7 @@
       "settings": {
         "title": "Richard McKenna Online High School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 10
+        "order": 13
       },
       "components": [
         {
@@ -550,7 +550,7 @@
       "settings": {
         "title": "Richard McKenna Online High School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 11
+        "order": 14
       },
       "components": [
         {
@@ -708,7 +708,7 @@
       "settings": {
         "title": "Richard McKenna Online High School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 8
+        "order": 11
       },
       "components": [
         {
@@ -881,7 +881,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Public Financials 2017/18",
+          "title": "Fiscal year 2017/18",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -915,7 +915,7 @@
             "bgColor": "#fff",
             "showMeta": false
           },
-          "title": "Public Financials 2016/17",
+          "title": "Fiscal year 2016/17",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -964,7 +964,7 @@
             "bgColor": "#fff"
           },
           "text1": "<b>Dennis Wilson - Director</b><br><div><br></div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Donald Dow – Vice Chairman</b></span><br></div><div><br></div><div><br></div><div><b>Page Borgholthaus – Board Member</b></div>",
-          "text2": "<b>Kyle Davis - Chairman</b><br><div><br></div><div><br></div><div><b>Melody Landis – Secretary</b></div><div><br></div><div><br></div><div><b>Chantel Durrence is the Business Manager</b></div><div><br></div>",
+          "text2": "<b>Kyle Davis - Chairman</b><br><div><br></div><div><br></div><div><b>Melody Landis – Secretary</b></div><div><br></div><div><br></div><div><b>Chantel Durrence - Board Clerk</b></div><div><br></div>",
           "text3": "<p><b>Douglas Mayne – Treasurer</b></p><p><b><br></b></p><p><b><br></b></p><p><b>Margaret (Meg) Warren – Board Member</b></p><div><br></div><div><br></div><p></p>"
         },
         {
@@ -1456,7 +1456,7 @@
       "settings": {
         "title": "Richard McKenna Online High School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 9
+        "order": 12
       },
       "components": [
         {
@@ -2004,7 +2004,7 @@
       "settings": {
         "title": "Richard McKenna Online High School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 7
+        "order": 9
       },
       "components": [
         {
@@ -3148,7 +3148,7 @@
         "title": "Richard McKenna Online High School",
         "meta_descr": "Handbook for on campus students.",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -3283,9 +3283,9 @@
             "showTitle": false
           },
           "title": "Toggle FAQ",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-2l\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Overview</a>",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-2l\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Overview</a>",
           "text1": "<p>Richard McKenna High School is an accredited, nontraditional, public school located in Mountain Home, Idaho. Richard McKenna High School is patterned after the workplace and is a school of choice. Scholars apply to attend Richard McKenna because they have made a conscious commitment to do so and are allowed to remain in our classroom section only so long as they are committed to active participation, as equal partners, in their own education. If a student does not continuously re-earn the privilege of working in our on campus program, that student will be released and may either enroll in our online program or seek his/her education elsewhere.</p><p><br></p><p>Our rules and policies are those of any job-site in business or industry. Here, education is our “job.” We come to work each day to build an important product that must last through many years of our collective future -- an educated and skilled spouse, parent, or citizen. This is one of the most important jobs we shall ever have in our life; we take our work seriously and do it with pride.&nbsp;</p>",
-          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-2l\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Entrance Requirements</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-2l\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Entrance Requirements</a>",
           "text2": "<p>All students who attend the high school program must have completed the 8th grade, pre-algebra, and be younger than 21 years old. All Richard McKenna Charter School students will be entered in a lottery. Lottery applications will be available in January at rmckenna.org. Completed applications will be turned to Mrs. Bundy by the date stated on the lottery application. Each grade level may have no more than twenty-four students. In the event that less than twenty-four students apply through the lottery process students may submit a transcript and other pertinent records to Mrs. Bundy. After that an observation day is scheduled for the student to determine if Richard McKenna is a good fit for them. Following the observation, the student and at least one parent will have an interview with Director or Head Teacher.</p><p><br></p><p>Richard McKenna High School provides a free and appropriate public education for all children with disabilities in a variety of specially designed programs.  Special education and related services are available for persons who qualify.&nbsp;</p><p>Parents, guardians and educators of students attending Richard McKenna High School can refer a student who may be eligible for services and not currently receiving services by contacting the student's teacher, or the school director. The referrals will be given to the special education director for further evaluation.</p>",
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-2l\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Four Rules</a>",
           "text3": "<p>Richard McKenna High School has four simple rules built upon industry standards. They are:</p><p>• Show Up</p><p>• Show Up Early</p><p>• Work Hard</p><p>• Be Respectful</p><p><br></p><p>SHOW UP means that we expect our students to be here 100% of the time. We have no excused absences. While we do understand that students sometimes have legitimate reasons for missing work, the fact remains that they are not in attendance and are therefore missing out on their education.</p><p>If a student, for whatever reason, fails to attend at least 90% of the scheduled time, that student will automatically lose the credit for the course that he or she is working on, but may petition the staff for reinstatement of that credit if he or she wishes.</p><p>If a student exhibits a habit of absenteeism, he or she will lose his or her seat in the on campus program until such time as it can be proven that the problem has been successfully overcome.</p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">SHOW UP EARLY means that a student must be early for every class. This allows a student to be physically, mentally, and professionally ready to work when “company time” begins. If a student is even one second late, he or she must sign in at our office, stating the reason for the tardiness, and said student will lose that hour of attendance.</span></p><p><br></p><p>WORK HARD means that a student must remain on task 100% of the time. If a student is found to be wasting valuable time, he or she will be marked off task for the hour.</p><p><br></p><p>BE RESPECTFUL means that any verbal, written, or physical abuse of property or others will result in the student, or students involved being immediately dismissed from the on campus program.</p>",
@@ -3428,7 +3428,7 @@
       "settings": {
         "title": "Richard McKenna On Campus Staff",
         "meta_descr": "Mountain Home on campus program",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -3954,7 +3954,7 @@
       "settings": {
         "title": "Richard McKenna Montessori Staff",
         "meta_descr": "Mountain Home on campus elementrary school",
-        "order": 5
+        "order": 8
       },
       "components": [
         {
@@ -4853,6 +4853,282 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+        }
+      ]
+    },
+    "montessorihandbook.html": {
+      "settings": {
+        "title": "Richard McKenna Montessori School",
+        "meta_descr": "Free online school for Idaho residents",
+        "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
+        "order": 10
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3k",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
+              "height": 128,
+              "alt": "Richard McKenna Logo",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "/",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3l",
+          "_params": {
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Montessori Student Handbook",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-3o",
+          "_params": {
+            "tabs": "5",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": false
+          },
+          "title": "Toggle FAQ",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Welcome</a>",
+          "text1": "<p>We would like to extend a warm welcome to you and your child/children. We are so happy you are a part of our Richard McKenna Montessori family. Our Montessori children will grow in an environment to become self- assured, vibrant students who love to learn. Parents are the most important teachers in the lives of their children and are a very important part of what makes our school community so special. We are honored to be partners with you in the development of your child. We rely on your communication, energy, support, and involvement to ensure a successful experience for your child.</p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Mission Statement</a>",
+          "text2": "<p>Our mission is to provide a non-traditional educational environment for our students by emphasizing:\n</p><p>1) The Montessori Method,\n<br>2) Personal responsibility<br>3) Outstanding citizenship.</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Our Core Values</a>",
+          "text3": "<p><b>MONTESSORI CONCEPT: FOCUS ON SELF-DIRECTED ACTIVITY</b>\r<br>The Montessori philosophy originates in the teachings of Maria Montessori, who focused on the development of the human individual through all stages of childhood. Montessori focused on the role of childhood in the\rformation of adults; she is a formidable progenitor of so much of today's thought concerning early childhood education. For Montessori, education is considered integral to the development of the child.</p><br><p>\r<b>THE MONTESSORI METHOD\r</b><br>As an educational method, Montessori teaching focuses on the child's experience, characterized by a focus on self-directed activity, where the teacher's role is more observational than what might be considered traditional or typical. The teacher is sometimes called a guide in the Montessori philosophy. In Montessori education, the environment is adapted to the child and his or her development. Seat work is downplayed in favor of physical activity and interaction.\r</p><br><p>Developmentally, the young child is curious about everything and needs to explore and discover. Our learning environment is designed to encourage each child to move, touch and manipulate. Each child has the freedom to work independently, based on their own initiatives with respectful guidance from their teacher.\rMontessori learning environments are inviting, attractive spaces with an intriguing array of learning materials, books, plants, animals, art and music materials and nature activities. The environment contains specially designed, hands-on materials that invite children to engage in learning activities of their own individual choice. Children in a Montessori classroom learn by making discoveries, a process that helps to cultivate concentration, motivation, self-discipline, and a love of learning.</p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>LEARNING ENVIRONMENT</b><br>Our classrooms are prepared with the child, and only the child, in mind. The physical space and routines are designed to maximize independent learning and exploration. Objects are placed so children can reach what they need, without having to wait for adult help.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Dr. Montessori noticed that children learn less from listening to an adult talk, and more from direct experience with objects in their environment. Children have a deep urge to need to manipulate and explore. Montessori developed learning materials to stimulate the child into discovery. Each Montessori material is simple and carefully designed to appeal to the child at this stage of development. The prepared environment focuses on the child and in this space, only things that will assist with the child's development and encourage spontaneous activity will be present.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>MONTESSORI CURRICULUM</b><br>The daily practice of Montessori philosophy is made possible by a clearly defined Montessori curriculum. The\n Montessori curriculum includes practical life, sensorial activities, language, mathematics, botany, geography, art, music, drama, and environmental studies.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">The Montessori model relies heavily upon manipulatives that are engineered to teach and reinforce concepts. For example, students begin learning how to write letters by tracing the letter in a box of sand. This kinetic connection helps to wire the child’s brain. The students also trace letters using felt letters. Again, they see and feel the letter. They also arrange the felt letters on a blanket to form words and sentences. After experiencing letters kinetically, they are better prepared to write letters.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">The same holds true for math. There are a number of math manipulatives that range from a number tower, to math beads wired together in grids of 10x10 beads. They begin to build a number sense by stacking one grid on top another.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Sciences are taught by observing and experiencing. Time is spent in and out of the classroom growing plants and observing animals. They learn physics by using levers, weights, and scales. They learn to observe and categorize their observations by organizing objects by sounds, textures, and weights.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Art, music, and movement are an integral part of a Montessori curriculum. Emphasis is placed on participation more than perfection. The teacher is literally the “guide-at-the-side” and helps students individually and in small groups. She also challenges students to work on more demanding tasks when they have mastered a concept. Students are not given letter grades, but are assessed by the teacher who shares her observations regularly with parents. The non-graded setting reduces competition and comparisons. Students are taught to be considerate and to put away manipulatives neatly in a specific place so that others may use them. They are also taught to treat each other with kindness, respect, and patience.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Since Montessori classrooms combine two or three grade levels, students are able to learn from their older\n classmates, and look forward to doing things the older students are doing. Older students help teach younger students which, in turn, reinforces what the older students have learned.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>MONTESSORI TEACHERS</b><br>Our highly trained, credentialed teachers nurture and cultivate each child’s curiosity while providing a strong foundation for continued academic success. Richard McKenna Montessori provides a warm, vibrant, educational home designed to foster a love of learning and help all children reach their fullest potential at their own unique pace. We strive to educate the whole child and to inspire children to be caring, socially responsible participants in their community and world. Our carefully prepared classrooms are staffed with highly qualified, Montessori-trained teachers. Multi-age classrooms allow the children to learn from one another and to be valued contributors to the classroom community.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">The training of a Montessori teacher is integral to the Montessori method. All of Richard McKenna Montessori’s teachers have completed Montessori teacher training in addition to their bachelor’s or master’s degrees and are state certified in elementary education. Our teachers use both concrete teaching materials and a well-defined innovative curriculum tailored to the child. The Montessori teacher is specially trained to observe each child and to design lessons based on that child’s natural curiosity and love of learning. The teacher is responsible for preparing the educational environment within each classroom and for presenting lessons in that environment. During the course of a day, the teacher will demonstrate a wide array of concrete sensorial&nbsp;</span><br></p><p>materials and sequential activities through individual instruction. The child soon learns to associate abstract concepts with hands-on experience.\r</p><br><p><b>FAMILY COMMITMENT\r</b><br>Parents are a fundamental part of the well-being of our school and of a successful educational experience for their child. As such, we have the expectation that all members of the school community participate and support the school whenever possible.\r</p><br><p>It is the hope and expectation of Richard McKenna Montessori that parents make every effort to understand and embrace the mission of the school. To that end, we aim to help parents learn about the Montessori approach by providing information and opportunities for parent education, i.e.“Parent Gatherings.” Dates and times of Richard McKenna Montessori Parent Gatherings will be posted on our website at rmckenna.org, and our platform Montessori Compass.\r</p><br><p>Additionally, we expect parents to familiarize themselves with the philosophy, policies, and procedures\rcontained in the Richard McKenna Montessori Handbook and other school publications, including our regular email communications.\r</p><br><p>Parents are welcome and encouraged to be an active part in their child’s education. In addition to a regularly updated website, we invite parents to observe in the classroom, join us on field trips, help us organize school events or fundraisers, and connect with each other at parent gatherings. Please contact the main office to arrange classroom visits.\r</p><br><p><b>GOVERNANCE</b>\r<br>Richard McKenna Montessori is operated by a Board of Directors and a School Superintendent/Director. The Board of Directors is charged with the ultimate responsibility for financial, legal, and strategic planning and policy issues for Richard McKenna Montessori. The board sets policy to be implemented by the administration and staff. Furthermore, the Board ensures the integrity of Montessori philosophy within the school. The Board currently consists of 6 members.</p><br><p>\rThe Board holds regular meetings, and records are on file in the business office in the main building at 675 S. Haskett Street and on the rmckenna.org website.</p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Admissions and Enrollment</a>",
+          "text4": "<p><b>ADMISSION GUIDELINES\n</b><br>To be considered for enrollment at McKenna Montessori, children must be at least 5 years of age on or before September 1.</p><br><p><b>ADMISSION PROCESS LOTTERY</b><br>\nLottery Application Form (Grades K-2)<br>\nPlease print the Lottery Application Form and hand-deliver it to Richard McKenna Montessori, 1305 E. 8th North Street, Mountain Home, Idaho during office hours (8:00-3:00, M-F, except holidays) by the 1:00 PM on the date of the current deadline. Lottery application forms sent by email or mail will not be accepted.\nFor more information call 208-580-2347</p><br><p>Formulario de Solicitud (Lotería)<br><span style=\"font-size: 1rem; line-height: 1.5;\">Por favor, imprima el Formulario de Solicitud (Lotería) y entrégalo en persona entre el 4° de enero y el 1° de marzo, 2016 (por la 1:00 PM), durante horas laborables (lunes a viernes de 8:00 AM-3:00 PM, sin incluir días festivos) a Richard McKenna Charter School, 675 South Haskett Street, Mountain Home, Idaho. Las solicitudes enviadas por E-mail no serán aceptadas.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>ADMISSION</b><br>Anyone may attend Richard McKenna Charter School free of charge.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Richard McKenna Charter School is a public school and does not charge tuition. The school welcomes students regardless of race, color, national or ethnic origin, religion, gender, social or economic status, or special needs and does not discriminate in their educational programs or activities, admissions procedures, or employment practices.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">If the capacity of the school is insufficient to enroll all prospective students, a lottery shall be utilized to determine which prospective students will be admitted. Richard McKenna Charter\nSchool will comply with Idaho Code and follow the Admission Procedures outlined in the Idaho Administrative Procedures Act (IDAPA 08.02.04 section 203, Admission Procedures).</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>LOTTERY PROCESS</b><br>&nbsp;- The deadline for submitting Lottery Application Forms is 1:00 PM,<br>&nbsp;- The lottery will be held at 1:00 PM, at Richard McKenna Charter School<br>&nbsp;- Montessori, 1305 E. 8th North\nStreet, Mountain Home, Idaho The public is welcome to attend the lottery. Students in each grade level will be separated, then the grade level that will be filled first will be randomly selected from a container. The following will then be randomly sorted by the computer<br>&nbsp;- Assign random numbers to the students in each grade level.<br>&nbsp;- Place students in the correct preference categories by grade level.<br>&nbsp;- List the students in each preference category in ascending order by their randomly assigned numbers.<br>&nbsp;- Fill a tentative class list for the first selected grade level beginning with the first student in the highest preference category and continuing down the list to the next preference category until all of the available openings are filled.<br>&nbsp;- The admission preferences will be in this order:<br>&nbsp;- First Priority, to students returning to the public charter school.<br>&nbsp;- Second Priority, to the children of full-time employees provided that this admission preference shall be limited to not more than ten percent (10%) of the capacity of McKenna Charter School;<br>&nbsp;- Third Priority, to siblings of students already enrolled in the public charter school;<br>&nbsp;- Fourth Priority, to students residing in Mountain Home and Mountain Home Air Force Base;<br>&nbsp;- Fifth Priority, students who reside outside of Mountain Home and Mountain Home Air Force Base.<br>&nbsp;- Parents will be notified whether their child is offered admission, or placed on a waiting list. Parents of students who are offered admission must provide written acceptance within seven business (7) days of notification. If they choose not to accept the offer, or fail to respond within seven business (7) days, the student at the top of the waiting list will be offered admission.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>VACANCIES</b><br>Vacancies during the school year are filled with students at the top of the waiting list. There shall be no carryover from year-to-year of the list maintained to fill vacancies. A new lottery shall be conducted each year to fill vacancies which become available.</span><br></p>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseFive\">School Policies</a>",
+          "text5": "<p><b>SCHEDULE</b>\n<br>The daily schedule begins at 8:00 AM and ends at 2:40 PM, Monday through Friday. Students have at least one recess except for Kindergarten, which have at least two. Lunch time is determined by each classroom teacher. The day is a mixture of physical activity and seat work. Part of the day is spent on academics (reading, writing, math, science, and social studies) and part of the day is spent on applications and physical activity (the Arts and P.E.)\n</p><br><p><b>ATTENDANCE</b>\n<br>Regular, punctual attendance is necessary for your child to receive the full benefit of the Montessori program. Parents should notify the school by 9 a.m. if a child is unable to attend school. Children with a contagious</p><p>disease must be kept home for the health and safety of the other children. Please inform the office if your child contracts a contagious disease. More information can be found under the “Health Policies” section.\n<i>If your child misses 5 days of school in any given semester, he/she will be placed on probation with a possible removal from the program. Once a child has missed 10 days in any given semester, the child will be removed from the program and the next name on the waiting list will be invited to fill the vacancy.\n</i></p><br><p><b>ARRIVAL AND DISMISSAL</b><br><i>Arrival</i>: <br>When arriving at our school, parents of K-2 children should pull up between the cones in front of the building. Do not allow your child to exit your vehicle before you pull up between the cones. Pull away after your child is safely inside the fenced area or the building.\n</p><br><p><i>Dismissal and Release of Children:</i> <br>Please pick up your child at 2:40 pm. If you will be late, please call the school at 208-580-2347. K students will be picked up at the main entrance of the K building or by the gate at the fenced in play area. Please park your vehicle and come to the building.</p><br><p>For your child’s protection, we will not release a child to someone other than a custodial parent or individuals designated on the authorization form that is provided to the school. We reserve the right to ask for photo identification of the person picking up your child.\n</p><br><p>Please be sure to let a staff member know when your child arrives and leaves the school. When your child arrives for the day, their attendance will be recorded by a staff member. If you pick up your child early; sign them out in the main office.</p><br><p><b>\n   \nLATE ARRIVAL</b><br>It is important that children arrive on time, as the beginning of the school day sets a tone for the classroom. Children who are rushed and arrive late may not be in the right frame of mind to begin their activities. We ask for your cooperation in ensuring that your child has the opportunity to begin his/her work at the start of class. Parents should not enter classrooms or disturb teachers once the day has begun. Children should arrive either before or promptly at 8:00 am. A child who arrives after 8:00 am must be signed in at the main office.\n<i>Each time a child is late arriving to school, it will be recorded as a “Tardy”. An absence will be recorded on the 4th late arrival (Tardy) and for every late arrival thereafter. Absences accumulated due to late arrivals will count towards overall absences and possible removal from the program.</i>\n</p><br><p><b>SCHOOL CLOSINGS</b><br>In the event of a snowstorm, weather emergency or unforeseen school closure, please tune in to television channel 6 (KIVI), and channel 7 (KTVB) for announcements about school closings. We often remain open while many other schools are closed because those schools provide student transportation. We realize that many\n   \nof you live some distance from school and we encourage you to use your own judgment when deciding whether to venture out in questionable weather and road conditions. School work can always be made up. You are welcome to call the office if questionable conditions exist.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-3q",
+          "_params": {
+            "tabs": "5",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": false
+          },
+          "title": "Toggle FAQ",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3q\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Health Policies</a>",
+          "text1": "<p><b>IMMUNIZATIONS</b>\n<br>According to IDAPA 16, Title 02, Chapter 15 any child enrolling in an Idaho school for the first time must be adequately immunized.\n</p><br><p><b>IMMUNIZATION REQUIREMENTS</b><br>Doses of Vaccines Required<br>\nEach child must have a minimum of:<br>\n(5) Diphtheria, Tetanus, Pertussis (DTaP)2 <br>(2) Measles, Mumps, and Rubella (MMR) <br>(4) Polio3 <br>(3) Hepatitis B\n(2) Varicella (Chickenpox)4<br>\n(2) Hepatitis A</p><br><p>\n<b>EXEMPTIONS</b><br>\nIdaho law allows a parent/guardian to claim an exemption from immunization requirements for their child for medical, religious, or personal reasons. All exemptions must be documented on the official State of Idaho form</p><p>provided by the Idaho Department of Health and Welfare, Immunization Program. A medical exemption requires the signature of a licensed physician and certification that the child has a medical condition which prevents him or her from receiving required vaccinations. The law does not allow parents/guardians to claim an exemption because the shot record is lost or incomplete, or because it is too much trouble to contact the physician or clinic and obtain a copy.<br>&nbsp;1 Preschool children need only be age-appropriately immunized with the required vaccines.<br>&nbsp;2 DTaP: The 5th dose is not necessary if the 4th dose was administered at age 4 years or older.<br>&nbsp;3 Polio: The 4th dose is not necessary if the 3rd dose was administered at age 4 years or older and at least 6 months after previous dose.<br>&nbsp;4 Varicella: History of chickenpox disease documented by a physician or licensed health care professional meets the requirement.</p><br><p><b>ILLNESS</b><br>For the protection of all of the students at the school, the school director reserves the right to send a child home whose health poses a threat to other children in the program. Any ill child should be kept home. Children should not be brought to school if they:<br>&nbsp;• Have vomited within the last 24 hours<br>&nbsp;• Are running a fever<br>&nbsp;• Are unable to play outside<br><i>In addition, if your child has a communicable disease you must report this to the school office.</i></p><br><p><b>MEDICATIONS ADMINISTRATION</b><br>Any medicine that is brought to school must be given to the main office. It cannot be kept in your child's bag or lunch box. There are three things you must know about how we handle medications. These policies are for the protection of your child.<br>&nbsp;1. A medication authorization form must be filled out, which includes the length of time the medication is to be dispensed. These medication authorization forms (available in the main office) must be completed and signed before the teacher or main office staff can give your child medicine. One form needs to be completed for each medication your child is taking.<br>&nbsp;2. Give the medication to an adult. No medications are to be in lunch boxes. If you want your child to have vitamins or nonprescription drugs, please administer them at home.<br>&nbsp;3. The medication to be dispensed must be in its original, labeled pharmacy container with your child's name on it. This rule is for clarification in case of an allergic reaction and to help prevent any mistakes in medications.</p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3q\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Child Safety</a>",
+          "text2": "<p><b>PARENT NOTIFICATIONS\r</b><br>Parents or their authorized emergency contacts will be notified immediately of any accidents, injuries or illnesses. Behavioral incidents will be communicated on a case by case basis depending on the seriousness of the incident. The classroom teacher or school director will determine this and will communicate with you either immediately by phone or at the end of the school day for less serious matters.</p><br><p>\r<b>CHILD ABUSE &amp; NEGLECT</b>\r<br>All schools, child care centers, physicians and others who work with children are required by law to inform Child Protective Services at the Department of Human Services of any suspected abuse or neglect of children. By law, a suspicion of child abuse generally means that the reporter has “reasonable cause to believe” or “reasonable cause to know or suspect” that a child is being maltreated physically, emotionally or mentally.\r</p><br><p><b>BUILDING SECURITY AND EMERGENCY PREPARATION</b>\r<br>Richard McKenna Montessori conducts fire drills regularly throughout the year. During the day, all exits are locked (door can be opened from the inside). During the school day everyone is asked to use the main/office door.</p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>HARASSMENT</b><br>All children must be free from harassment and bullying in our school. Children may not be cruel and/or abusive to each other in any way in our environment. If you believe an incident of harassment has occurred with your child, please report it immediately to your child’s teacher or the school director. The school will investigate and take appropriate action.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>\nWEAPONS</b><br>No weapons of any sort – including play or pretend guns, knives, and similar items – are allowed on our campus.</span><br></p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3q\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Communication</a>",
+          "text3": "<p>Most of the communication coming from the school will be disseminated electronically. It is essential that we have your email address and that you keep us current if that address changes.\r</p><br><p><b>SCHOOL CALENDAR</b>\r<br>The calendar of events for the school year is available on our website: (rmckenna.org) Changes and updates are made monthly on the calendar and are also communicated to you through Montessori Compass. The school year is divided into four, nine-week sessions.\r</p><br><p><b>VOICEMAIL</b>\r<br>The main telephone number has voicemail capabilities. Voicemail is also convenient for leaving us after-hour messages. We check voicemail regularly throughout the day.\rThe main office phone number (208)580-2347.\r</p><br><p><b>WEBSITE</b>\r<br>Richard McKenna Montessori information can be found on the McKenna Charter School website at rmckenna.org. Staff can be contacted via email through our website.\r</p><br><p><b>MONTESSORI COMPASS</b>\r<br>Montessori Compass is an online platform that we use to keep parents informed on school-wide activities, events, updates, volunteer activities, as well as information on the specific activities of your child’s classroom. You will all receive progress updates specific to your child through Montessori Compass. Please be sure to notify the office if you are not receiving progress updates, or if you are having difficulty setting up your Montessori Compass login.\r</p><br><p><b>CHANGES OF ADDRESS OR EMERGENCY CONTACT INFORMATION</b>\r<br>Whenever you change your address, home phone, work phone or emergency notification information, be sure to let the classroom teacher know. In addition, be sure to notify the school office directly. Please do not rely on your child’s teacher to update the office. It is only by alerting both the teacher and the office to any changes that you can be sure we will change all documentation throughout the school. Both the office and the teacher emergency records need to be up- to-date.</p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-3q\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Dress Standards</a>",
+          "text4": "<p><b>CLOTHING AND FOOTWEAR</b><br>We have found that student behavior and performance improve significantly when students wear uniforms. McKenna Montessori requires ALL students to purchase and wear uniforms which consist of an approved polo shirt with the school's logo, and a pair of closed-toed shoes for protection. All students are required to have the navy colored approved polo shirt. There are a variety of other colors which can be purchased. Shorts or skirts above the mid-thigh are not permitted.</p><br><p><b>OUTSIDE WEAR</b><br>All students go outside most days. Outerwear should be appropriate to the weather. When there is snow or mud, boots are required. When it is very cold, snow pants, mittens, and hats are required.</p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>INDOOR SHOES</b><br>All children in grades K-3 wear indoor shoes (or slippers) while in the classroom for several reasons. The Montessori method recognizes the child's need for quiet and order in the classroom to allow him or her greatest opportunity for concentrated work. The opportunity to take off and put on shoes increases their level of independence and dressing skills. Slippers also eliminate a higher noise level in the classroom. The children use mats for a great deal of floor work and slippers help to maintain the cleanliness of the environment, alleviating mud and dirt being tracked into the classroom with street shoes. We ask you to provide slippers to be kept at school. Please encourage your child to choose simple and comfortable ones, Ballet or Isotoner-type slippers are preferred as they are easier to wear and store. Slippers with large character heads are not appropriate because children are often uncomfortable if they are trying to sit with their feet directly under their bottom. Clog or backless type slippers tend to fall off frequently and are a distraction. Please mark the child's name on both slippers. To avoid confusion and prevent loss of clothing, please label all garments with your child’s name. The “Lost and Found” clothing will be donated at the end of the school year in June.</span><br></p>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-3q\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Nutrition</a>",
+          "text5": "<p>Nutritious food is essential for young, growing bodies. We encourage parents to establish sound eating habits at an early age.\r</p><br><p><b>LUNCHES</b>\r<br>At Richard McKenna Montessori, parents are responsible for their child’s lunches. All children need to bring a lunch each day. Please provide meals that include the important basic food groups. Please be sure to send nutritious lunches your child will eat and enjoy. Please do not send candy, pop or sugary foods. We discourage prepackaged foods (i.e. Lunchables, Hot Pockets, Chef Boyardee, etc.). We will send your child’s leftovers home so you can gauge what and how much your child is eating. Refrigeration is available in the Kindergarten/Office Building, but we cannot reheat food. You may use thermos bottles if you wish.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extToggle1",
+          "_anchor": "extToggle1-3p",
+          "_params": {
+            "tabs": "5",
+            "paddingTop": "0",
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": false
+          },
+          "title": "Toggle FAQ",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3p\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Child Custody Issues</a>",
+          "text1": "<p>Richard McKenna Montessori is dedicated to the total development of each unique child. We believe that all children need a loving, supportive family. When a family separates, it is especially difficult for the children. Their loyalties are torn as they love and need both parents. The school will be supportive, open, and welcoming to both parents. We will remain neutral in conflicts between parents.</p><br><p>\rSchool records, meeting information, educational materials and similar items are available to both parents. Parents, regardless of the custody arrangement, are entitled to information about the activities of the school and access to certain records. These records include: medical, dental and school records, day care provider's records,\rand notification of meetings regarding the child's education.\r</p><br><p>The school will not limit a parent's access to his/her child unless there is a court order on file in the child's records at the school limiting or specifying particular conditions for a parent's access to the child.</p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseTwoextToggle1-3p\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Special Services</a>",
+          "text2": "<p>Richard McKenna Montessori provides a free and appropriate public education for all. Special education and related services are available for students who qualify.\r</p><br><p>Parents, guardians and educators of students attending McKenna Montessori can refer a student who may be eligible for services and not currently receiving services by contacting the student's teacher, or the school director. Referrals will be made to the special education director for further evaluation.</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3p\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Parent/Teacher Conferences</a>",
+          "text3": "<p>Parent-teacher conferences are scheduled as needed. All Richard McKenna Montessori parents get regular progress updates via Montessori Compass. Teachers are available for special conferences as necessary. Speak directly with your child’s teacher to make arrangements. We believe good communication between home and school is essential to the best learning environment for the child.</p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-3p\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Field Trips and Going Out Excursions</a>",
+          "text4": "<p>We try to give ample notice for field trips, along with a permission slip for each trip. Notification of a field trip is given to the parents at least one week prior to an off-campus event. If you wish to have alternative care for your child for the duration of the outing, you will be responsible for making these arrangements.\n</p><br><p>The safety and protection of our students is a critical concern. Off-campus trips create potential hazards that require us to take special precautions. Richard McKenna Montessori reserves the right to refuse to include child(ren) to off campus excursions/field trips when behavior patterns indicate an inability to follow directions and basic rules.</p>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-3p\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Birthdays</a>",
+          "text5": "<p><b>THE BIRTHDAY WALK AROUND THE SUN</b>\r<br><span style=\"font-size: 1rem; line-height: 1.5;\">In the lower elementary classrooms (K-3), each child is honored in a special celebration called “The Birthday Walk,” an international Montessori tradition. Parents share in this important occasion by helping their child\nselect photographs from each year of her life and by helping prepare a written history of milestones reached and fun times had during each year. These milestones are shared as the child walks around the “sun,” once for each year celebrated. Parents are invited to participate in this beautiful ceremony with their child. In the upper elementary classrooms (4-6) birthday celebrations are handled differently. Your child’s teacher can explain how birthdays are celebrated in her/his class. Children with summer birthdays select a date during the school year to celebrate their birthday.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>INVITATIONS AND PRESENTS</b><br>If you are planning a birthday party for your child, please do not send invitations to school unless all the children in the class are invited. If your child is attending a party after school, please do not send gifts to school with your child. We have found that these situations can be upsetting for those who are not invited.</span></p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-3n",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p>Registration forms:</p><p>Fax: (208) 580-2450</p>"
         }
       ]
     }
