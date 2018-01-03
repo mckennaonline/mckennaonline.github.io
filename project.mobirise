@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "montessoristaff.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,11 +22,13 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 135,
-    "versionPublish": "3.12.1",
+    "uniqCompNum": 141,
+    "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -34,7 +36,7 @@
         "main": true,
         "title": "Richard McKenna Charter School",
         "meta_descr": "Free Online High School in Idaho",
-        "header_custom": "",
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>",
         "footer_custom": "",
         "html_before": "",
         "order": 1
@@ -56,25 +58,25 @@
           },
           "_anchor": "header4-0",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/DrPTZhRE-ec?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.3",
             "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": "0.3"
           },
           "title": "High School At Its&nbsp;Best",
           "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br><br>Mountain Home residents may attend our campus, with our successful \"two classes at a time\" schedule.<br><br>Our new K-6 Montessori program is growing with high demand. &nbsp;Currently providing Kindergarten through 2nd grade.",
@@ -88,39 +90,41 @@
           "_styles": {
             "P": {
               "text-align": "left"
+            },
+            "H3": {
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box5-1",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": false,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "src": "@PROJECT_PATH@/assets/images/montessori-title-img-1229x819.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -134,9 +138,9 @@
               "size": 0
             }
           },
-          "title": "2017-18 Registration Opens August 1st",
-          "text": "<b>Our mission</b> is to provide a non-traditional educational environment for our students by emphasizing:<br>• <i>Project Based Learning</i><br>•&nbsp;<i>Personal responsibility</i><br>•&nbsp;<i>Outstanding citizenship</i><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"online.html\" data-toolbar=\"-mbrBtnMove\">Online School details</a>"
+          "title": "Apply now<br> for the 2018-19 Montessori School",
+          "text": "To attend our Montessori Kindergarten through 3rd grade school in Mountain Home, submit an application before February 27th.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://rmckenna.org/docs/MontessoriApplication2018-19.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Montessori School details</a>"
         },
         {
           "_styles": {
@@ -193,17 +197,17 @@
           "_name": "menu",
           "_anchor": "menu-2",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -222,7 +226,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -231,25 +235,25 @@
           "_name": "msg-box5",
           "_anchor": "msg-box5-2p",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
             "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#cecac8",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#cecac8",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#fff",
-            "inverse": true,
-            "showTitle": false,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -293,13 +297,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -324,9 +328,10 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Contact Richard McKenna",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 13
+        "order": 13,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -381,22 +386,22 @@
           ],
           "_anchor": "testimonials3-j",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": "2",
+            "showTitle": true,
+            "showSubtitle": false,
             "showImages": false,
             "showName": false,
             "showBio": false,
+            "count": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubtitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Welcome to McKenna Charter School.<br>Say Hello. &nbsp;Take a tour.",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -413,19 +418,19 @@
           },
           "_anchor": "form1-i",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": false,
             "labelsColor": "#232323",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#fff",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Send us a message",
           "subtitle": "",
@@ -513,17 +518,17 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -548,9 +553,10 @@
     },
     "template.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Template Richard McKenna",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 14
+        "order": 14,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -608,17 +614,17 @@
           "_name": "menu",
           "_anchor": "menu-k",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -651,10 +657,10 @@
           "_name": "header3",
           "_anchor": "header3-1l",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Title with Solid Background Color",
           "meta": "By John Smith posted July 20, 2016"
@@ -675,13 +681,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -706,9 +712,10 @@
     },
     "charter.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna Charter High School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 11
+        "order": 11,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -723,10 +730,10 @@
           "_name": "header3",
           "_anchor": "header3-27",
           "_params": {
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Who is Richard McKenna?",
           "meta": "By John Smith posted July 20, 2016"
@@ -799,17 +806,17 @@
           "_name": "menu",
           "_anchor": "menu-l",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -842,10 +849,10 @@
           "_name": "header3",
           "_anchor": "header3-m",
           "_params": {
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Our Charter",
           "meta": "By John Smith posted July 20, 2016"
@@ -876,10 +883,10 @@
           "_name": "header3",
           "_anchor": "header3-32",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Fiscal year 2017/18",
           "meta": "By John Smith posted July 20, 2016"
@@ -910,10 +917,10 @@
           "_name": "header3",
           "_anchor": "header3-2t",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Fiscal year 2016/17",
           "meta": "By John Smith posted July 20, 2016"
@@ -944,10 +951,10 @@
           "_name": "header3",
           "_anchor": "header3-q",
           "_params": {
+            "showMeta": false,
             "paddingTop": "3",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Board of Directors",
           "meta": ""
@@ -983,13 +990,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -1016,7 +1023,8 @@
       "settings": {
         "title": "Richard McKenna Online High School",
         "meta_descr": "Richard McKenna Online offers free 9th-12th grade courses to students all over the state of Idaho",
-        "order": 2
+        "order": 2,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -1074,17 +1082,17 @@
           "_name": "menu",
           "_anchor": "menu-3",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1120,10 +1128,10 @@
           "_name": "header3",
           "_anchor": "header3-s",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Millenials",
           "meta": "are becoming a remarkably talented generation"
@@ -1156,24 +1164,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-2x",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": true,
-            "showText": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
           "title": "Registration Now Open",
@@ -1191,10 +1199,10 @@
           "_name": "header3",
           "_anchor": "header3-v",
           "_params": {
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "What is McKenna Online?",
           "meta": ""
@@ -1224,10 +1232,10 @@
           "_name": "header3",
           "_anchor": "header3-x",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "How it works",
           "meta": "By John Smith posted July 20, 2016"
@@ -1290,22 +1298,22 @@
           "_name": "extFeatures8",
           "_anchor": "extFeatures8-26",
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
             "parallax": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/extFeatures1/images/jumbotron.jpg",
-            "bgColor": "#e9e9e9",
             "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.75,
             "overlayColor": "#151515",
-            "showTitle": true,
-            "showSubtitle": true
+            "overlayOpacity": 0.75
           },
           "title": "Online Demo",
           "subtitle": "Tour our online school when you <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Choose Login as Guest</a>&nbsp;in the login form. &nbsp;<br>If you haven't called our office yet, go for it. &nbsp;We would like to meet you.",
@@ -1385,10 +1393,10 @@
           "_name": "header3",
           "_anchor": "header3-z",
           "_params": {
+            "showMeta": true,
             "paddingTop": "3",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Graduation Requirements",
           "meta": "Earn your diploma at Richard McKenna High School"
@@ -1423,13 +1431,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -1454,9 +1462,10 @@
     },
     "employment.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna Jobs",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 12
+        "order": 12,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -1471,10 +1480,10 @@
           "_name": "header3",
           "_anchor": "header3-1e",
           "_params": {
+            "showMeta": false,
             "paddingTop": "7",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Richard McKenna Online",
           "meta": "By John Smith posted July 20, 2016"
@@ -1534,17 +1543,17 @@
           "_name": "menu",
           "_anchor": "menu-15",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1590,10 +1599,10 @@
           "_name": "header3",
           "_anchor": "header3-19",
           "_params": {
+            "showMeta": false,
             "paddingTop": "5",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Richard McKenna On Campus",
           "meta": "By John Smith posted July 20, 2016"
@@ -1623,10 +1632,10 @@
           "_name": "header3",
           "_anchor": "header3-1b",
           "_params": {
+            "showMeta": false,
             "paddingTop": "5",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Richard McKenna Montessori",
           "meta": "By John Smith posted July 20, 2016"
@@ -1663,24 +1672,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-2z",
           "_params": {
+            "showTitle": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2969b0",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": true,
-            "showButtons": true,
-            "showTitle": false,
-            "showText": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"/docs/EmploymentApplication.pdf\" data-toolbar=\"-mbrBtnMove\">PRINT APPLICATION</a>",
           "title": "TRENDY WEBSITE BLOCKS",
@@ -1720,13 +1729,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -1751,9 +1760,10 @@
     },
     "summerschool.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna Online Summer School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 3
+        "order": 3,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -1811,17 +1821,17 @@
           "_name": "menu",
           "_anchor": "menu-1g",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -1854,10 +1864,10 @@
           "_name": "header3",
           "_anchor": "header3-1h",
           "_params": {
+            "showMeta": false,
             "paddingTop": "7",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Alternative Summer School",
           "meta": "By John Smith posted July 20, 2016"
@@ -1901,10 +1911,10 @@
           "_name": "header3",
           "_anchor": "header3-1s",
           "_params": {
+            "showMeta": false,
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "What is McKenna Online?",
           "meta": "By John Smith posted July 20, 2016"
@@ -1934,10 +1944,10 @@
           "_name": "header3",
           "_anchor": "header3-1q",
           "_params": {
+            "showMeta": false,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "How it works",
           "meta": "By John Smith posted July 20, 2016"
@@ -1971,13 +1981,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -2002,9 +2012,10 @@
     },
     "montessori.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna Montessori School",
         "meta_descr": "Free online school for Idaho residents",
-        "order": 9
+        "order": 9,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -2062,17 +2073,17 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2105,13 +2116,71 @@
           "_name": "header3",
           "_anchor": "header3-1o",
           "_params": {
+            "showMeta": true,
             "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
+            "paddingBottom": "3",
+            "bgColor": "#fff"
           },
           "title": "Montessori School",
-          "meta": "History and Philosophy"
+          "meta": "In Mountain Home"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#cccccc"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Now Accepting Applications",
+          "text": "All new and returning students attending next year (2018-19) need to submit an application in person (not emailed) before Tuesday, Feburary 27th. &nbsp;More details available on <a href=\"http://rmckenna.org/docs/MontessoriApplication2018-19.pdf\" target=\"_blank\">the application form</a>.<br><br>Questions? &nbsp;Happy to help. &nbsp;(208) 580-2347",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://rmckenna.org/docs/MontessoriApplication2018-19.pdf\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Print Lottery Application</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-3u"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "History and Philosophy",
+          "meta": "History and Philosophy",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3w"
         },
         {
           "_tags": [
@@ -2133,10 +2202,9 @@
           ],
           "_name": "wowslider",
           "_params": {
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
+            "autoplay": true,
+            "animType": "carousel",
+            "theme": "metro",
             "slides": [
               {
                 "src": "@PROJECT_PATH@/assets/images/10563_33_1850_0-2000x877.jpg",
@@ -2479,22 +2547,23 @@
                 "tooltip": "@PROJECT_PATH@/assets/images/10563-32-1850-85x48.png"
               }
             ],
-            "theme": "metro",
-            "bgColor": "#ffffff",
-            "animType": "carousel",
-            "autoplay": true,
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": true,
+            "responsive": "2",
             "paddingTop": 0,
             "paddingBottom": 0,
-            "fullScreen": true,
+            "captionsEffect": "slide",
             "showBullets": false,
+            "bgColor": "#ffffff",
             "timeout": "7",
             "duration": "2",
-            "height": "576",
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
             "width": "1024",
-            "responsive": "2",
-            "showCaptions": false,
-            "captionsEffect": "slide",
-            "hideControls": true
+            "height": "576"
           },
           "_anchor": "wowslider-2v",
           "articleLayout": false
@@ -2511,10 +2580,10 @@
           "_name": "header3",
           "_anchor": "header3-1v",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Phases and classroom space",
           "meta": "By John Smith posted July 20, 2016"
@@ -2544,10 +2613,10 @@
           "_name": "header3",
           "_anchor": "header3-1x",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Curriculum and teachers",
           "meta": "By John Smith posted July 20, 2016"
@@ -2577,10 +2646,10 @@
           "_name": "header3",
           "_anchor": "header3-1z",
           "_params": {
+            "showMeta": false,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Family Commitment",
           "meta": "By John Smith posted July 20, 2016"
@@ -2614,13 +2683,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -2645,9 +2714,10 @@
     },
     "oncampus.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna On Campus High School",
         "meta_descr": "Mountain Home on campus program",
-        "order": 5
+        "order": 5,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -2662,22 +2732,22 @@
           "_name": "content5",
           "_anchor": "content5-5",
           "_params": {
+            "showTitle": true,
+            "showCaption": true,
             "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/home-of-the-pride-2000x1092.jpg",
-            "bgColor": "#fff",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "showTitle": true,
-            "showCaption": true
+            "overlayOpacity": "0.5"
           },
           "title": "Home of the Pride",
           "caption": "<p>Richard McKenna High School is an accredited, nontraditional public school in Mountain Home.</p><p>Our creative curriculum allows students to develop skills for the 21st century. The school’s philosophy is that learning is not just about gaining knowledge and acquiring facts —but about being able to do something with those facts. &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Students not only learn basic academic skills such as English, Mathematics, and Science, but they also learn and practice key life skills such as resilience, reflection, and risk taking.</span></p><p>Our on campus program is patterned after the workplace and is a school of choice. &nbsp; Here, education is our \"job.\" We come to work each day to build an important product that must last through many future years. This is one of the most important jobs we shall ever have in our life; we take our work seriously and do it with pride.</p>"
@@ -2697,24 +2767,24 @@
           "_name": "msg-box2",
           "_anchor": "msg-box2-2w",
           "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#7c706b",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "inverse": false,
-            "showButtons": false,
-            "showTitle": true,
-            "showText": true
+            "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
           "title": "Registration Now Open",
@@ -2732,10 +2802,10 @@
           "_name": "header3",
           "_anchor": "header3-9",
           "_params": {
+            "showMeta": true,
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Project Based Learning",
           "meta": ""
@@ -2779,10 +2849,10 @@
           "_name": "header3",
           "_anchor": "header3-c",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": "0",
-            "bgColor": "#fff",
-            "showMeta": true
+            "bgColor": "#fff"
           },
           "title": "Graduation Requirements",
           "meta": ""
@@ -2830,13 +2900,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -2912,17 +2982,17 @@
           "_name": "menu",
           "_anchor": "menu-1n",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -2947,10 +3017,11 @@
     },
     "onlinehandbook.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna Online Handbook",
         "meta_descr": "Free online school for Idaho residents",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
-        "order": 4
+        "order": 4,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -3008,17 +3079,17 @@
           "_name": "menu",
           "_anchor": "menu-29",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3051,10 +3122,10 @@
           "_name": "header3",
           "_anchor": "header3-2a",
           "_params": {
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Online Student Handbook",
           "meta": "By John Smith posted July 20, 2016"
@@ -3067,22 +3138,22 @@
           "_name": "extToggle1",
           "_anchor": "extToggle1-2d",
           "_params": {
+            "showTitle": false,
             "tabs": "6",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-2d\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Rules</a>",
@@ -3114,13 +3185,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -3145,10 +3216,11 @@
     },
     "oncampushandbook.html": {
       "settings": {
-        "title": "Richard McKenna Online High School",
+        "title": "Richard McKenna On Campus Handbook",
         "meta_descr": "Handbook for on campus students.",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
-        "order": 7
+        "order": 7,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -3206,17 +3278,17 @@
           "_name": "menu",
           "_anchor": "menu-2g",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3249,10 +3321,10 @@
           "_name": "header3",
           "_anchor": "header3-2h",
           "_params": {
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "On Campus Student Handbook",
           "meta": "By John Smith posted July 20, 2016"
@@ -3265,22 +3337,22 @@
           "_name": "extToggle1",
           "_anchor": "extToggle1-2l",
           "_params": {
+            "showTitle": false,
             "tabs": "4",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-2l\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Overview</a>",
@@ -3309,22 +3381,22 @@
           },
           "_anchor": "extToggle1-2m",
           "_params": {
+            "showTitle": false,
             "tabs": "4",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-2m\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Policies</a>",
@@ -3348,22 +3420,22 @@
           "_name": "extToggle1",
           "_anchor": "extToggle1-2n",
           "_params": {
+            "showTitle": false,
             "tabs": "1",
             "paddingTop": "0",
             "paddingBottom": "3",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-2n\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Network Policy</a>",
@@ -3395,13 +3467,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -3428,7 +3500,8 @@
       "settings": {
         "title": "Richard McKenna On Campus Staff",
         "meta_descr": "Mountain Home on campus program",
-        "order": 6
+        "order": 6,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -3439,28 +3512,28 @@
           "_name": "extFeatures9",
           "_anchor": "extFeatures9-3e",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
-            "columns": "6",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showIcons": false
+            "showIcons": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "columns": "6",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "On Campus High School Staff",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
@@ -3835,13 +3908,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -3917,17 +3990,17 @@
           "_name": "menu",
           "_anchor": "menu-3d",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -3954,7 +4027,8 @@
       "settings": {
         "title": "Richard McKenna Montessori Staff",
         "meta_descr": "Mountain Home on campus elementrary school",
-        "order": 8
+        "order": 8,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -3965,28 +4039,28 @@
           "_name": "extFeatures9",
           "_anchor": "extFeatures9-3g",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": true,
             "showSubtitle": false,
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showIcons": false
+            "showIcons": false,
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "Montessori Staff",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
@@ -4353,28 +4427,28 @@
           "_name": "extFeatures9",
           "_anchor": "extFeatures9-3j",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
             "showTitle": false,
             "showSubtitle": false,
-            "columns": "4",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": true,
             "ShowTexts": true,
-            "showIcons": false
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "title": "OUR TEAM",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
@@ -4616,7 +4690,7 @@
           },
           "media5": {
             "image": {
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/face3.png",
+              "src": "/addons/mobirise3-blocks/components/_images/face3.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4671,7 +4745,7 @@
           },
           "media6": {
             "image": {
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/face4.png",
+              "src": "/addons/mobirise3-blocks/components/_images/face4.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
@@ -4741,13 +4815,13 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
@@ -4823,17 +4897,17 @@
           "_name": "menu",
           "_anchor": "menu-3i",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -4858,10 +4932,11 @@
     },
     "montessorihandbook.html": {
       "settings": {
-        "title": "Richard McKenna Montessori School",
+        "title": "Richard McKenna Montessori Handbook",
         "meta_descr": "Free online school for Idaho residents",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
-        "order": 10
+        "order": 10,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
       },
       "components": [
         {
@@ -4919,17 +4994,17 @@
           "_name": "menu",
           "_anchor": "menu-3k",
           "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
             "bgColor": "#282828",
             "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": false,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": false
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
@@ -4948,7 +5023,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
         },
         {
           "_styles": {
@@ -4962,10 +5037,10 @@
           "_name": "header3",
           "_anchor": "header3-3l",
           "_params": {
+            "showMeta": false,
             "paddingTop": "6",
             "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": false
+            "bgColor": "#fff"
           },
           "title": "Montessori Student Handbook",
           "meta": "By John Smith posted July 20, 2016"
@@ -4978,22 +5053,22 @@
           "_name": "extToggle1",
           "_anchor": "extToggle1-3o",
           "_params": {
+            "showTitle": false,
             "tabs": "5",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Welcome</a>",
@@ -5003,7 +5078,7 @@
           "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Our Core Values</a>",
           "text3": "<p><b>MONTESSORI CONCEPT: FOCUS ON SELF-DIRECTED ACTIVITY</b>\r<br>The Montessori philosophy originates in the teachings of Maria Montessori, who focused on the development of the human individual through all stages of childhood. Montessori focused on the role of childhood in the\rformation of adults; she is a formidable progenitor of so much of today's thought concerning early childhood education. For Montessori, education is considered integral to the development of the child.</p><br><p>\r<b>THE MONTESSORI METHOD\r</b><br>As an educational method, Montessori teaching focuses on the child's experience, characterized by a focus on self-directed activity, where the teacher's role is more observational than what might be considered traditional or typical. The teacher is sometimes called a guide in the Montessori philosophy. In Montessori education, the environment is adapted to the child and his or her development. Seat work is downplayed in favor of physical activity and interaction.\r</p><br><p>Developmentally, the young child is curious about everything and needs to explore and discover. Our learning environment is designed to encourage each child to move, touch and manipulate. Each child has the freedom to work independently, based on their own initiatives with respectful guidance from their teacher.\rMontessori learning environments are inviting, attractive spaces with an intriguing array of learning materials, books, plants, animals, art and music materials and nature activities. The environment contains specially designed, hands-on materials that invite children to engage in learning activities of their own individual choice. Children in a Montessori classroom learn by making discoveries, a process that helps to cultivate concentration, motivation, self-discipline, and a love of learning.</p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>LEARNING ENVIRONMENT</b><br>Our classrooms are prepared with the child, and only the child, in mind. The physical space and routines are designed to maximize independent learning and exploration. Objects are placed so children can reach what they need, without having to wait for adult help.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Dr. Montessori noticed that children learn less from listening to an adult talk, and more from direct experience with objects in their environment. Children have a deep urge to need to manipulate and explore. Montessori developed learning materials to stimulate the child into discovery. Each Montessori material is simple and carefully designed to appeal to the child at this stage of development. The prepared environment focuses on the child and in this space, only things that will assist with the child's development and encourage spontaneous activity will be present.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>MONTESSORI CURRICULUM</b><br>The daily practice of Montessori philosophy is made possible by a clearly defined Montessori curriculum. The\n Montessori curriculum includes practical life, sensorial activities, language, mathematics, botany, geography, art, music, drama, and environmental studies.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">The Montessori model relies heavily upon manipulatives that are engineered to teach and reinforce concepts. For example, students begin learning how to write letters by tracing the letter in a box of sand. This kinetic connection helps to wire the child’s brain. The students also trace letters using felt letters. Again, they see and feel the letter. They also arrange the felt letters on a blanket to form words and sentences. After experiencing letters kinetically, they are better prepared to write letters.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">The same holds true for math. There are a number of math manipulatives that range from a number tower, to math beads wired together in grids of 10x10 beads. They begin to build a number sense by stacking one grid on top another.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Sciences are taught by observing and experiencing. Time is spent in and out of the classroom growing plants and observing animals. They learn physics by using levers, weights, and scales. They learn to observe and categorize their observations by organizing objects by sounds, textures, and weights.\n</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Art, music, and movement are an integral part of a Montessori curriculum. Emphasis is placed on participation more than perfection. The teacher is literally the “guide-at-the-side” and helps students individually and in small groups. She also challenges students to work on more demanding tasks when they have mastered a concept. Students are not given letter grades, but are assessed by the teacher who shares her observations regularly with parents. The non-graded setting reduces competition and comparisons. Students are taught to be considerate and to put away manipulatives neatly in a specific place so that others may use them. They are also taught to treat each other with kindness, respect, and patience.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Since Montessori classrooms combine two or three grade levels, students are able to learn from their older\n classmates, and look forward to doing things the older students are doing. Older students help teach younger students which, in turn, reinforces what the older students have learned.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>MONTESSORI TEACHERS</b><br>Our highly trained, credentialed teachers nurture and cultivate each child’s curiosity while providing a strong foundation for continued academic success. Richard McKenna Montessori provides a warm, vibrant, educational home designed to foster a love of learning and help all children reach their fullest potential at their own unique pace. We strive to educate the whole child and to inspire children to be caring, socially responsible participants in their community and world. Our carefully prepared classrooms are staffed with highly qualified, Montessori-trained teachers. Multi-age classrooms allow the children to learn from one another and to be valued contributors to the classroom community.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">The training of a Montessori teacher is integral to the Montessori method. All of Richard McKenna Montessori’s teachers have completed Montessori teacher training in addition to their bachelor’s or master’s degrees and are state certified in elementary education. Our teachers use both concrete teaching materials and a well-defined innovative curriculum tailored to the child. The Montessori teacher is specially trained to observe each child and to design lessons based on that child’s natural curiosity and love of learning. The teacher is responsible for preparing the educational environment within each classroom and for presenting lessons in that environment. During the course of a day, the teacher will demonstrate a wide array of concrete sensorial&nbsp;</span><br></p><p>materials and sequential activities through individual instruction. The child soon learns to associate abstract concepts with hands-on experience.\r</p><br><p><b>FAMILY COMMITMENT\r</b><br>Parents are a fundamental part of the well-being of our school and of a successful educational experience for their child. As such, we have the expectation that all members of the school community participate and support the school whenever possible.\r</p><br><p>It is the hope and expectation of Richard McKenna Montessori that parents make every effort to understand and embrace the mission of the school. To that end, we aim to help parents learn about the Montessori approach by providing information and opportunities for parent education, i.e.“Parent Gatherings.” Dates and times of Richard McKenna Montessori Parent Gatherings will be posted on our website at rmckenna.org, and our platform Montessori Compass.\r</p><br><p>Additionally, we expect parents to familiarize themselves with the philosophy, policies, and procedures\rcontained in the Richard McKenna Montessori Handbook and other school publications, including our regular email communications.\r</p><br><p>Parents are welcome and encouraged to be an active part in their child’s education. In addition to a regularly updated website, we invite parents to observe in the classroom, join us on field trips, help us organize school events or fundraisers, and connect with each other at parent gatherings. Please contact the main office to arrange classroom visits.\r</p><br><p><b>GOVERNANCE</b>\r<br>Richard McKenna Montessori is operated by a Board of Directors and a School Superintendent/Director. The Board of Directors is charged with the ultimate responsibility for financial, legal, and strategic planning and policy issues for Richard McKenna Montessori. The board sets policy to be implemented by the administration and staff. Furthermore, the Board ensures the integrity of Montessori philosophy within the school. The Board currently consists of 6 members.</p><br><p>\rThe Board holds regular meetings, and records are on file in the business office in the main building at 675 S. Haskett Street and on the rmckenna.org website.</p>",
           "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-3o\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Admissions and Enrollment</a>",
-          "text4": "<p><b>ADMISSION GUIDELINES\n</b><br>To be considered for enrollment at Richard McKenna Montessori, children must be at least 5 years of age on or before September 1.</p><br><p><b>ADMISSION PROCESS LOTTERY</b><br>\nLottery Application Form (Grades K-2)<br>\nPlease print the Lottery Application Form and hand-deliver it to Richard McKenna Montessori, 1305 E. 8th North Street, Mountain Home, Idaho during office hours (8:00-3:00, M-F, except holidays) by the 1:00 PM on the date of the current deadline. Lottery application forms sent by email or mail will not be accepted.\nFor more information call 208-580-2347</p><br><p>Formulario de Solicitud (Lotería)<br><span style=\"font-size: 1rem; line-height: 1.5;\">Por favor, imprima el Formulario de Solicitud (Lotería) y entrégalo en persona entre el 4° de enero y el 1° de marzo, 2016 (por la 1:00 PM), durante horas laborables (lunes a viernes de 8:00 AM-3:00 PM, sin incluir días festivos) a Richard McKenna Charter School, 675 South Haskett Street, Mountain Home, Idaho. Las solicitudes enviadas por E-mail no serán aceptadas.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>ADMISSION</b><br>Anyone may attend Richard McKenna Charter School free of charge.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Richard McKenna Charter School is a public school and does not charge tuition. The school welcomes students regardless of race, color, national or ethnic origin, religion, gender, social or economic status, or special needs and does not discriminate in their educational programs or activities, admissions procedures, or employment practices.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">If the capacity of the school is insufficient to enroll all prospective students, a lottery shall be utilized to determine which prospective students will be admitted. Richard McKenna Charter\nSchool will comply with Idaho Code and follow the Admission Procedures outlined in the Idaho Administrative Procedures Act (IDAPA 08.02.04 section 203, Admission Procedures).</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>LOTTERY PROCESS</b><br>&nbsp;- The deadline for submitting Lottery Application Forms is 1:00 PM,<br>&nbsp;- The lottery will be held at 1:00 PM, at Richard McKenna Charter School<br>&nbsp;- Montessori, 1305 E. 8th North\nStreet, Mountain Home, Idaho The public is welcome to attend the lottery. Students in each grade level will be separated, then the grade level that will be filled first will be randomly selected from a container. The following will then be randomly sorted by the computer<br>&nbsp;- Assign random numbers to the students in each grade level.<br>&nbsp;- Place students in the correct preference categories by grade level.<br>&nbsp;- List the students in each preference category in ascending order by their randomly assigned numbers.<br>&nbsp;- Fill a tentative class list for the first selected grade level beginning with the first student in the highest preference category and continuing down the list to the next preference category until all of the available openings are filled.<br>&nbsp;- The admission preferences will be in this order:<br>&nbsp;- First Priority, to students returning to the public charter school.<br>&nbsp;- Second Priority, to the children of full-time employees provided that this admission preference shall be limited to not more than ten percent (10%) of the capacity of McKenna Charter School;<br>&nbsp;- Third Priority, to siblings of students already enrolled in the public charter school;<br>&nbsp;- Fourth Priority, to students residing in Mountain Home and Mountain Home Air Force Base;<br>&nbsp;- Fifth Priority, students who reside outside of Mountain Home and Mountain Home Air Force Base.<br>&nbsp;- Parents will be notified whether their child is offered admission, or placed on a waiting list. Parents of students who are offered admission must provide written acceptance within seven business (7) days of notification. If they choose not to accept the offer, or fail to respond within seven business (7) days, the student at the top of the waiting list will be offered admission.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>VACANCIES</b><br>Vacancies during the school year are filled with students at the top of the waiting list. There shall be no carryover from year-to-year of the list maintained to fill vacancies. A new lottery shall be conducted each year to fill vacancies which become available.</span><br></p>",
+          "text4": "<p><b>ADMISSION GUIDELINES\n</b><br>To be considered for enrollment at Richard McKenna Montessori, children must be at least 5 years of age on or before September 1.</p><br><p><b>ADMISSION PROCESS LOTTERY</b><br>\nLottery Application Form (Grades K-2)<br>\nPlease print the Lottery Application Form and hand-deliver it to Richard McKenna Montessori, 1305 E. 8th North Street, Mountain Home, Idaho during office hours (8:00-3:00, M-F, except holidays) by the 1:00 PM on the date of the current deadline. Lottery application forms sent by email or mail will not be accepted.\nFor more information call 208-580-2347</p><br><p>Formulario de Solicitud (Lotería)<br><span style=\"font-size: 1rem; line-height: 1.5;\">Por favor, imprima el Formulario de Solicitud (Lotería) y entrégalo en persona entre el 4° de enero y el 1° de marzo, 2016 (por la 1:00 PM), durante horas laborables (lunes a viernes de 8:00 AM-3:00 PM, sin incluir días festivos) a Richard McKenna Charter School, 675 South Haskett Street, Mountain Home, Idaho. Las solicitudes enviadas por E-mail no serán aceptadas.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>ADMISSION</b><br>Anyone may attend Richard McKenna Charter School free of charge.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">Richard McKenna Charter School is a public school and does not charge tuition. The school welcomes students regardless of race, color, national or ethnic origin, religion, gender, social or economic status, or special needs and does not discriminate in their educational programs or activities, admissions procedures, or employment practices.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">If the capacity of the school is insufficient to enroll all prospective students, a lottery shall be utilized to determine which prospective students will be admitted. Richard McKenna Charter\nSchool will comply with Idaho Code and follow the Admission Procedures outlined in the Idaho Administrative Procedures Act (IDAPA 08.02.04 section 203, Admission Procedures).</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>LOTTERY PROCESS</b><br>&nbsp;- The deadline for submitting Lottery Application Forms is 1:00 PM,<br>&nbsp;- The lottery will be held at 1:00 PM, at Richard McKenna Charter School<br>&nbsp;- Montessori, 1305 E. 8th North\nStreet, Mountain Home, Idaho The public is welcome to attend the lottery. Students in each grade level will be separated, then the grade level that will be filled first will be randomly selected from a container. The following will then be randomly sorted by the computer<br>&nbsp;- Assign random numbers to the students in each grade level.<br>&nbsp;- Place students in the correct preference categories by grade level.<br>&nbsp;- List the students in each preference category in ascending order by their randomly assigned numbers.<br>&nbsp;- Fill a tentative class list for the first selected grade level beginning with the first student in the highest preference category and continuing down the list to the next preference category until all of the available openings are filled.<br>&nbsp;- The admission preferences will be in this order:<br>&nbsp;- First Priority, to students returning to the public charter school.<br>&nbsp;- Second Priority, to the children of full-time employees provided that this admission preference shall be limited to not more than ten percent (10%) of the capacity of McKenna Charter School;<br>&nbsp;- Third Priority, to siblings of students already enrolled in the public charter school;<br>&nbsp;- Fourth Priority, to students residing in Mountain Home and Mountain Home Air Force Base;<br>&nbsp;- Fifth Priority, students who reside outside of Mountain Home and Mountain Home Air Force Base.<br>&nbsp;- Parents will be notified whether their child is offered admission, or placed on a waiting list. Parents of students who are offered admission must provide written acceptance within seven business (7) days of notification. If they choose not to accept the offer, or fail to respond within seven business (7) days, the student at the top of the waiting list will be offered admission.</span></p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\"><b>VACANCIES</b><br>Vacancies during the school year are filled with students at the top of the waiting list. There shall be no carryover from year-to-year of the list maintained to fill vacancies. A new lottery shall be conducted each year to fill vacancies which become available.</span><br></p>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-3o\" aria-expanded=\"true\" aria-controls=\"collapseFive\">School Policies</a>",
           "text5": "<p><b>SCHEDULE</b>\n<br>The daily schedule begins at 8:00 AM and ends at 2:40 PM, Monday through Friday. Students have at least one recess except for Kindergarten, which have at least two. Lunch time is determined by each classroom teacher. The day is a mixture of physical activity and seat work. Part of the day is spent on academics (reading, writing, math, science, and social studies) and part of the day is spent on applications and physical activity (the Arts and P.E.)\n</p><br><p><b>ATTENDANCE</b>\n<br>Regular, punctual attendance is necessary for your child to receive the full benefit of the Montessori program. Parents should notify the school by 9 a.m. if a child is unable to attend school. Children with a contagious</p><p>disease must be kept home for the health and safety of the other children. Please inform the office if your child contracts a contagious disease. More information can be found under the “Health Policies” section.\n<i>If your child misses 5 days of school in any given semester, he/she will be placed on probation with a possible removal from the program. Once a child has missed 10 days in any given semester, the child will be removed from the program and the next name on the waiting list will be invited to fill the vacancy.\n</i></p><br><p><b>ARRIVAL AND DISMISSAL</b><br><i>Arrival</i>: <br>When arriving at our school, parents of K-2 children should pull up between the cones in front of the building. Do not allow your child to exit your vehicle before you pull up between the cones. Pull away after your child is safely inside the fenced area or the building.\n</p><br><p><i>Dismissal and Release of Children:</i> <br>Please pick up your child at 2:40 pm. If you will be late, please call the school at 208-580-2347. K students will be picked up at the main entrance of the K building or by the gate at the fenced in play area. Please park your vehicle and come to the building.</p><br><p>For your child’s protection, we will not release a child to someone other than a custodial parent or individuals designated on the authorization form that is provided to the school. We reserve the right to ask for photo identification of the person picking up your child.\n</p><br><p>Please be sure to let a staff member know when your child arrives and leaves the school. When your child arrives for the day, their attendance will be recorded by a staff member. If you pick up your child early; sign them out in the main office.</p><br><p><b>\n   \nLATE ARRIVAL</b><br>It is important that children arrive on time, as the beginning of the school day sets a tone for the classroom. Children who are rushed and arrive late may not be in the right frame of mind to begin their activities. We ask for your cooperation in ensuring that your child has the opportunity to begin his/her work at the start of class. Parents should not enter classrooms or disturb teachers once the day has begun. Children should arrive either before or promptly at 8:00 am. A child who arrives after 8:00 am must be signed in at the main office.\n<i>Each time a child is late arriving to school, it will be recorded as a “Tardy”. An absence will be recorded on the 4th late arrival (Tardy) and for every late arrival thereafter. Absences accumulated due to late arrivals will count towards overall absences and possible removal from the program.</i>\n</p><br><p><b>SCHOOL CLOSINGS</b><br>In the event of a snowstorm, weather emergency or unforeseen school closure, please tune in to television channel 6 (KIVI), and channel 7 (KTVB) for announcements about school closings. We often remain open while many other schools are closed because those schools provide student transportation. We realize that many\n   \nof you live some distance from school and we encourage you to use your own judgment when deciding whether to venture out in questionable weather and road conditions. School work can always be made up. You are welcome to call the office if questionable conditions exist.</p>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
@@ -5017,22 +5092,22 @@
           "_name": "extToggle1",
           "_anchor": "extToggle1-3q",
           "_params": {
+            "showTitle": false,
             "tabs": "5",
             "paddingTop": "0",
             "paddingBottom": "0",
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3q\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Health Policies</a>",
@@ -5056,22 +5131,22 @@
           "_name": "extToggle1",
           "_anchor": "extToggle1-3p",
           "_params": {
+            "showTitle": false,
             "tabs": "5",
             "paddingTop": "0",
             "paddingBottom": 2,
-            "parallax": false,
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
-            "bgColor": "#fff",
+            "bgImage": "/addons/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
             "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
             "overlayColor": "#151515",
-            "showTitle": false
+            "overlayOpacity": 0.5
           },
           "title": "Toggle FAQ",
           "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseOneextToggle1-3p\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Child Custody Issues</a>",
@@ -5103,13 +5178,172 @@
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p>Registration forms:</p><p>Fax: (208) 580-2450</p>"
+        }
+      ]
+    },
+    "montessorrienrollment.html": {
+      "settings": {
+        "title": "Richard McKenna Montessori Enrollment",
+        "meta_descr": "Elementary School for Mountain Home, ID",
+        "order": 14,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-3r",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
+              "height": 128,
+              "alt": "Richard McKenna Logo",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "/",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">MONTESSORI K-2</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 2nd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3s",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-3t",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
           },
           "logo": {
             "image": {
