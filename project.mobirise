@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "employment.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 141,
+    "uniqCompNum": 142,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -1641,6 +1641,19 @@
           "meta": "By John Smith posted July 20, 2016"
         },
         {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "3",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Montessori Lower Elementary Teaching Position</b></p><p><br></p><p>Richard McKenna Charter School, located in Mountain Home, Idaho, is seeking individuals who are highly motivated and interested in working in a highly positive environment to provide Montessori education to lower elementary age students (grades 1-3).\n\n</p><p><br></p><p>This is a full time position in a public Montessori charter school. \n\n</p><p><br></p><p>Successful applicants must be Idaho Certified Standard Elementary and willing to become Montessori certified by participating in an online Montessori training program. </p><p><br></p><p>\n\nPlease provide the following for consideration in the posted position.\n</p><p>1. Letter of Application/Interest\n</p><p>2. Application for Employment – Certified, &nbsp;(Available <a href=\"/docs/EmploymentApplication.pdf\">here</a>)</p><p>\n3. Authorization for Release of Information on Past Employment with School Employers Idaho Code 33-1210 \n</p><p>4. Resume\n</p><p>5. Copies of Transcripts\n</p><p>6. Placement File or Three Letters of Recommendation\n</p><p>7. Copy of Current Teaching Certificate</p><p><br></p><p>\n\nPlease direct questions to Dennis Wilson, Superintendent, by calling (208) 580-2449 or email him at dwilson@rmckenna.org.</p><p><br></p><p>\n</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-3x"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -1651,7 +1664,7 @@
             "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "text": "<p><b>Substitute Teacher</b></p><p><b><br></b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</span><br></p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students. We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p><br></p><p><br></p>"
+          "text": "<p><b>Substitute Teacher</b></p><p><b><br></b></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Richard McKenna Charter School is seeking energetic people as substitutes at our Montessori Elementary and our High School.</span><br></p><p><br></p><p>We are looking for enthusiastic individuals that are willing to help students in a multi-age/level classroom.</p><p><br></p><p>The position will involve helping with a classroom of students. We are looking for applicants with keen interest in encouraging and inciting students to love learning and excel in all aspects of learning.</p><p><br></p><p><br></p>"
         },
         {
           "_styles": {
