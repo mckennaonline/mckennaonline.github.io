@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "montessori.html",
+    "currentPage": "oncampus.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2782,7 +2782,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "paddingTop": "2",
             "paddingBottom": "2",
@@ -2799,9 +2799,9 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
-          "title": "Registration Now Open",
-          "text": "Questions? &nbsp;Happy to help. &nbsp;(208) 580-2449<br>Courses begin August 7th."
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://www.facebook.com/richard.mckenna.schools\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"fa fa-facebook-official mbr-iconfont mbr-iconfont-btn\"></span>Like us on Facebook</a>",
+          "title": "Visit us on Facebook",
+          "text": "For the latest news and information about the on campus program, check out <a href=\"https://www.facebook.com/richard.mckenna.schools\">our Facebook page</a>."
         },
         {
           "_styles": {
