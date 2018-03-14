@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "oncampusstaff.html",
+    "currentPage": "summerschool.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 142,
+    "uniqCompNum": 143,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -83,19 +83,6 @@
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"online.html\" data-toolbar=\"-mbrBtnMove\">About the Online Program</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"oncampus.html\" data-toolbar=\"-mbrBtnMove\">About the On Campus Program</a>"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "P": {
-              "text-align": "left"
-            },
-            "H3": {
-              "text-align": "left"
-            }
-          },
-          "_anchor": "msg-box5-1",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -105,7 +92,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -121,10 +108,11 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/montessori-title-img-1229x819.png",
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -138,9 +126,14 @@
               "size": 0
             }
           },
-          "title": "Apply now<br> for the 2018-19 Montessori School",
-          "text": "To attend our Montessori Kindergarten through 3rd grade school in Mountain Home, <a href=\"http://rmckenna.org/docs/MontessoriApplication2018-19.pdf\" target=\"_blank\">submit an application</a> before February 27th.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"montessori.html\" data-toolbar=\"-mbrBtnMove\">Montessori School details</a>"
+          "title": "Summer School Enrollment Opens April 23",
+          "text": "Courses start June 4th. &nbsp;Catch up on a credit or two for graduation from home! &nbsp;Not all students may enroll, click below for more info.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Our Summer School program</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-3y"
         },
         {
           "_styles": {
@@ -1896,7 +1889,7 @@
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
-          "text": "<p>Summer school is avaiable for free to Idaho students. &nbsp;However, due to state requirements only students that qualifiy based on the following situations may enroll.</p>"
+          "text": "<p>Summer school is avaiable for free to Idaho students. &nbsp;However, due to state requirements, only students that qualifiy based on the following situations may enroll.</p>"
         },
         {
           "_tags": [
@@ -1909,8 +1902,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Meet 3 of these situations</b></p><ul><li>Has repeated a grade</li><li>Absent more than 10% of days in the last semester</li><li>GPA less than 1.5 (on a 4.0 scale)</li><li>Has failed an academic subject</li><li>Is two or more credits behind graduating on time</li><li>Is a Limited English Proficient student who has not been in the LEP program more than 3 years</li></ul>",
-          "text2": "<p><b>OR any one of these situations</b></p><ul><li>Has substance abuse behavior</li><li>Is pregnant or a parent</li><li>Is an emancipated youth</li><li>Is a previous dropout</li><li>Has serious personal, emotional, or medical problems</li><li>Is a court or agency referral</li><li>With recommendation of the school discrict for disruptive student behavior</li></ul><p><br></p>"
+          "text1": "<p><b>Meet 3 of these situations</b></p><ul><li>Has repeated a grade</li><li>Absent more than 10% of days in the last semester</li><li>GPA less than 1.5 (on a 4.0 scale)</li><li>Has failed an academic subject</li><li>Is two or more credits behind graduating on time</li><li>Is a Limited English Proficient student who has been out of the LEP program more than 3 years</li></ul>",
+          "text2": "<p><b>OR any 1 of these situations</b></p><ul><li>Has substance abuse behavior</li><li>Is pregnant or a parent</li><li>Is an emancipated youth</li><li>Is a previous dropout</li><li>Has serious personal, emotional, or medical problems</li><li>Is a court or agency referral</li><li>With recommendation of the school discrict for disruptive student behavior</li></ul><p><br></p>"
         },
         {
           "_styles": {
