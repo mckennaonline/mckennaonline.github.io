@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 145,
+    "uniqCompNum": 146,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -1658,6 +1658,19 @@
           ],
           "_name": "content1",
           "_anchor": "content1-3x"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": "5",
+            "bgColor": "#fff"
+          },
+          "text": "<p><b>Montessori Classroom Teacher Assistant</b>\n &nbsp; &nbsp; <a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=177&amp;ref=\">-- click here to apply online --</a></p><p><br></p><p>Reports to the l<span style=\"font-size: 1.07rem;\">ead teacher.</span></p><p><br></p><p>\nThe role of the Montessori Assistant is to assist the Lead Teacher in preparing and maintaining the environment in which the Montessori approach to education is implemented. Key Duties and Responsibilities Work collaboratively with staff to develop and implement a curriculum that follows the Montessori philosophy. Represent the school mission, vision and goals to parents and members of the community in a positive and supportive manner. </p><p><br></p><p>\nAssist Lead Teacher to prepare and maintain a clean, orderly and attractive Montessori classroom.</p><p><br></p><p>Engage students in maintaining the indoor and outdoor environment as appropriate.</p><p><br></p><p>Care for materials, keeping them complete, clean, beautiful, and accessible to children. </p><p><br></p><p>Keep environment, storage area and supplies clean, neat and organized. </p><p><br></p><p>Regularly rotate, update and expand materials to correspond to student needs. &nbsp;</p><p><br></p><p>Make, repair and/or replace classroom materials as needed. </p><p><br></p><p>\nShare responsibility for the daily safety, well-being and supervision of students. Demonstrate respect, kindness and rapport with all students.</p><p><br></p><p> \nAssist Lead Teacher to prepare for Parent Gatherings parents in the fall and spring of each year. </p><p><br></p><p>\nAssist in preparing written student evaluation of each child’s academic, social, and physical development to share with families during conferences. Respond promptly and professionally in communication with parents and staff. </p><p><br></p><p>\nAttend and participate in staff meetings, school events, field trips and training opportunities. </p><p><br></p><p>\nAssist with parent education and outreach, including monthly newsletter articles, blog posts, and parent education workshops. </p><p><br></p><p>\nAdhere to professional standards as an educator for the purpose of maintaining quality and excellence. Work with other staff to maintain professional relationships of support and respect. </p><p><br></p><p>\nComplete an annual evaluation and review with the Lead Teacher and Administration. </p><p><br></p><p>\nBe responsible for annual continuing education and professional development requirements. </p><p><br></p><p>\nReport all accidents or unusual situations to Directress and submit a dated Accident Report in student file. </p><p><br></p><p>\nNotify administration in a timely manner of personal or professional difficulties with school, families, students or staff, and work with them to resolve such problems. </p><p><br></p><p>\nSUPERVISION</p><p>The Montessori Assistant shall perform his/her duties subject to the general supervision and direction of the Lead Teacher, and shall abide by all reasonable rules, regulations and policies set forth in the Student and Staff Handbooks. </p><p><br></p><p>\nCharacter Qualities All staff members strive for the following characteristics in their work: excellence, competence, innovation, collaboration, respect, resourcefulness, flexibility and accountability.\n</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-41"
         },
         {
           "_params": {
