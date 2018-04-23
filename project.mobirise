@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "summerschool.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 146,
+    "uniqCompNum": 147,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -1896,11 +1896,49 @@
           "_anchor": "content6-1j",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 1,
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "text1": "<p><b>Meet 3 of these situations</b></p><ul><li>Has repeated a grade</li><li>Absent more than 10% of days in the last semester</li><li>GPA less than 1.5 (on a 4.0 scale)</li><li>Has failed an academic subject</li><li>Is two or more credits behind graduating on time</li><li>Is a Limited English Proficient student who has been out of the LEP program more than 3 years</li></ul>",
           "text2": "<p><b>OR any 1 of these situations</b></p><ul><li>Has substance abuse behavior</li><li>Is pregnant or a parent</li><li>Is an emancipated youth</li><li>Is a previous dropout</li><li>Has serious personal, emotional, or medical problems</li><li>Is a court or agency referral</li><li>With recommendation of the school discrict for disruptive student behavior</li></ul><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#cccccc"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Registration Now Open",
+          "text": "Questions? &nbsp;Happy to help. &nbsp;(208) 580-2449<br>Registration closes May 30th. &nbsp;Courses begin June 4th.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-42"
         },
         {
           "_styles": {
@@ -1915,7 +1953,7 @@
           "_anchor": "header3-1s",
           "_params": {
             "showMeta": false,
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
