@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "charter.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,10 +19,11 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 147,
+    "uniqCompNum": 149,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -42,6 +43,29 @@
         "order": 1
       },
       "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "7",
+            "paddingBottom": "3",
+            "bgColor": "#ffffff"
+          },
+          "title": "Budget Approval Meeting - Tue June 12",
+          "meta": "The Board of Trustees for Richard McKenna Charter Schools #453, will meet to approve the District budget on Tuesday June 12, 2018 at 12:00 Noon in the Board Room at Richard McKenna Charter High School, 675 S. Haskett Street, Mountain Home, ID  83647.<br><br>A copy of the School District  budget is available for inspection during business hours at the District Administrative Office/Clerk's Office.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-44"
+        },
         {
           "_inherit": "header1",
           "_tags": [
