@@ -967,6 +967,16 @@ h6,
 #header3-m .mbr-section-subtitle {
   text-align: center;
 }
+#header3-45 .mbr-section-title,
+#header3-45 .mbr-section-subtitle {
+  text-align: center;
+}
+#custom-html-46 {
+  /* Type valid CSS here */
+}
+#custom-html-46 .my-image {
+  width: 100%;
+}
 #header3-32 .mbr-section-title,
 #header3-32 .mbr-section-subtitle {
   text-align: center;
