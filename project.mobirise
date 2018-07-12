@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "online.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 153,
+    "uniqCompNum": 154,
     "versionPublish": "4.5.4",
     "favicon": "",
     "noImageResize": "",
@@ -82,6 +82,59 @@
           "title": "High School At Its&nbsp;Best",
           "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br><br>Mountain Home residents may attend our campus, with our successful \"two classes at a time\" schedule.<br><br>Our K-6 Montessori program is growing with high demand. &nbsp;Currently providing Kindergarten through 3rd grade.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"online.html\" data-toolbar=\"-mbrBtnMove\">About the Online Program</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"oncampus.html\" data-toolbar=\"-mbrBtnMove\">About the On Campus Program</a>"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Online classes start Aug 13. &nbsp;Enrollment opens July 30.",
+          "text": "Students receive self-paced online instruction from Idaho certified teachers. &nbsp;Courses are taught on a 6 week pace and teachers are available by phone and text during regular office hours.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Our Online School program</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-49"
         },
         {
           "_styles": {
@@ -1159,7 +1212,7 @@
             "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
-          "title": "Registration Now Open",
+          "title": "Registration Opens July 30",
           "text": "Questions? &nbsp;Happy to help. &nbsp;(208) 580-2449<br>Courses begin each Monday starting August 14th.<br><br>Fax registration forms to (208) 580-2450"
         },
         {
@@ -1193,7 +1246,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Started in 2002 as the first online school in the northwest, McKenna Online's courses are designed and taught by Idaho certified teachers. Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive an accredited high school diploma.</p><p><br></p><p>Our teachers are available during posted office hours via phone, email, text, chat, or video conferencing. You get to talk to a human being, not an automated system! &nbsp;Give it a try, call (208) 580-2449 before 3pm on weekdays and say \"Hi\" &nbsp;(Now try that with any other online school)</p><p><br></p><p>To best meet the workflow of online courses, we have created our own online learning system called Acquire.</p><p>Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</p><p><br></p><p><b>Special Education Services&nbsp;</b></p><p>Our special education director delivers one-on-one help and direct instruction using video conferencing and screen sharing. The special education director also meets face-to-face with parents and students as needed. Testing is contracted to locally qualified psychologists.</p>"
+          "text": "<p>Started in 2002 as the first online school in the northwest, Richard McKenna Online's courses are designed and taught by Idaho certified teachers. Online courses provide the same academic rigor and benefits of the classroom, but with greater convenience and flexibility. All students finishing course requirements receive an accredited high school diploma.</p><p><br></p><p>Our teachers are available during posted office hours via phone, email, text, chat, or video conferencing. You get to talk to a human being, not an automated system! &nbsp;Give it a try, call (208) 580-2449 before 3pm on weekdays and say \"Hi\" &nbsp;(Now try that with any other online school)</p><p><br></p><p>To best meet the workflow of online courses, we have created our own online learning system called Acquire.</p><p>Take a tour and try our demo by clicking <a href=\"http://app.rmckenna.org/app\" target=\"_blank\">Login</a> and then \"Login as a guest\"</p><p><br></p><p><b>Special Education Services&nbsp;</b></p><p>Our special education director delivers one-on-one help and direct instruction using video conferencing and screen sharing. The special education director also meets face-to-face with parents and students as needed. Testing is contracted to locally qualified psychologists.</p>"
         },
         {
           "_styles": {
@@ -1588,8 +1641,8 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text1": "<p><b>Language Arts Teacher (Grades 9-12)</b> <br><a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=179&amp;ref=\">-- click here to apply online --</a></p><p><br></p><p>Richard McKenna Public Charter High School seeks a professional to fill the 9-12 English position in Mountain Home, Idaho. RMCHS is a Project-based learning school with a student centered focus. Our vision is collaborative education through exploration. We seek an individual who is student centered, self-motivated, passionate with high expectations for him/herself and for the students.</p><p><br></p><p>POSITION PURPOSE</p><p>Under the general supervision of the School Principal, to develop students' skills in listening, speaking, reading and writing, foster communication skills, develop an understanding and appreciation of literature, motivate students to read a wide variety of publications, comprehend the reading materials, and to promote the development of skills in grammar and syntax.</p><p><br></p><p>ESSENTIAL FUNCTIONS</p><p>•\tDevelops and administers Language Arts curriculum consistent with school district goals and objectives.</p><p>•\tPromotes a classroom environment that is safe and conducive to individualized and small group instruction, and student learning.</p><p>•\tDevelops lesson plans and instructional materials and translates lesson plans into learning experiences to develop pertinent sequential assignments, challenge students, and best utilize the available time for instruction.</p><p>•\tTeaches knowledge and skills in English grammar and syntax, sentence and paragraph structure, vocabulary and proper word usage, word denotations and connotations, creative writing, independent thinking, communication and speaking.</p><p>•\tDevelops standards for critical analysis through group discussions on a variety of reading materials, including the mass media and literature.</p><p>•\tWorks with students and others to prepare materials for inclusion in literary publications, contests, etc.</p><p>•\tConducts ongoing assessment of student learning and progress, and modifies instructional methods to fit individual student's needs, including students with special needs; conducts individual and small group instruction as needed.</p><p>•\tMaintains familiarity with district and Idaho State standardized tests for the purpose of adapting curriculum to maximize student achievement on such tests.</p><p>•\tContinues to acquire professional knowledge and learn of current developments in the educational field by attending seminars, workshops or professional meetings, or by conducting research.</p><p>•\tOrganizes and maintains a system for accurate and complete record-keeping, grading, and reporting for all student activities, achievement and attendance as required by district procedures and applicable laws.</p><p>•\tEncourages parental involvement in students' education and ensures effective communication with students and parents.</p><p>•\tEnsures that student conduct conforms to the school's standards and school district policies, and establishes and maintains standards of student behavior needed to achieve a functional learning atmosphere in the classroom.</p><p>•\tCoordinates with other professional staff members, and participates in faculty meetings and committees.</p><p>•\tSelects and requisitions appropriate books, instructional aids and other supplies and equipment and maintains inventory records.</p><p><br></p><p>ADDITIONAL DUTIES</p><p>Performs other related tasks as assigned by the Principal and as designated by the Superintendent.</p><p>&nbsp; &nbsp; NOTE: The above description is illustrative of tasks and responsibilities. It is not meant to be all inclusive of every task or responsibility.</p><p><br></p><p>EQUIPMENT</p><p>Uses standard office equipment such as personal computers, printer, copy and fax machines, and telephone. Familiarity with Chromebooks and Google Suite beneficial.</p><p><br></p><p>TRAVEL REQUIREMENTS</p><p>Travels to school district buildings and professional meetings as required.</p><p><br></p><p>WORK SCHEDULE</p><p>Standard teacher work schedule as set forth by the District.</p><p><br></p><p>KNOWLEDGE, SKILLS, AND ABILITIES</p><p>•\tKnowledge of current teaching methods and educational pedagogy, as well as differentiated instruction based upon student learning styles.</p><p>•\tKnowledge of English grammar, word usage, word denotations and connotations, spelling, literature and other content areas taught.</p><p>•\tKnowledge of data information systems, data analysis and the formulation of action plans.</p><p>•\tKnowledge of applicable federal and state laws regarding education and students.</p><p>•\tAbility to use computer network system and software applications as needed.</p><p>•\tAbility to organize and coordinate work.</p><p>•\tAbility to communicate effectively with students and parents.</p><p>•\tAbility to engage in self-evaluation with regard to performance and professional growth.</p><p>•\tAbility to establish and maintain cooperative working relationships with others contacted in the course of work.</p><p><br></p><p>PHYSICAL AND MENTAL DEMANDS, WORK HAZARDS</p><p>Works in standard office and school building environments.</p><p><br></p><p>CERTIFICATION/LICENSE</p><p>•\tIdaho State Certification as a Language Arts Teacher or as required for position. Other certifications beneficial.</p><p><br></p><p>EDUCATION</p><p>&nbsp;•\tBachelors from an accredited college or university in education discipline applicable to teaching assignment</p><p><br></p><p>EXPERIENCE</p><p>No prior teaching experience for the appropriate grade level necessary.</p>",
-          "text2": "<p><b>Social Studies Teacher (Grades 9-12)&nbsp;</b></p><p><a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=180&amp;ref=\">-- click here to apply online --</a></p><p><br></p><p>JOB SUMMARY</p><p>Under the direction of the building principal works to develop in each pupil an appreciation of American ideals and cultural heritage; to develop proficiency in the use of project-based learning, social studies inquiry skills and concepts; to motivate each pupil to understand and exercise his rights, privileges, and responsibilities as a citizen; to develop understanding of the geographical, historical, cultural, and political factors which influence the development of world regions; to encourage pupils to develop sound opinions based on study of facts concerning operation of political and economic systems.\n</p><p><br></p><p>ESSENTIAL FUNCTIONS\n</p><p>1. Teaches courses in social studies, history, geography, American government, political science, or humanities to secondary pupils, utilizing core curriculum and other appropriate learning activities approved by the Board of Education.\n</p><p>2. Instructs pupils in citizenship and basic subject matter specified in state law and administrative regulations and procedures of the school district.\n</p><p>3. Develops a balanced social studies program involving factual background material, material on current events, discussion time, and other appropriate activities designed to encourage pupils to develop skills and attitudes, draw conclusions, achieve improved interpersonal relationships, and make value judgments based on scientific methods of inquiry.\n</p><p>4. Provides individual and small group instruction in order to adapt the curriculum to the needs of pupils with varying intellectual abilities, attitudes, and cultural backgrounds.\n</p><p>5. Develops knowledge of the purpose, structure, and operation of the American governmental and economic system, and the rights and responsibilities of American citizenship.\n</p><p>6. Makes current material from the mass media available to pupils; plans and guides discussions of current problems against background of geographical environment and history of area being studied.\n</p><p>7. Develops an understanding of the contributions of racial, religious, and political groups to American culture.\n</p><p>8. Develops knowledge of political and economic systems of other nations and their influence on personal freedom, education, and living standards.\n</p><p>9. Encourages pupils to become aware of the complexity and interrelations of local, state, national, and world problems.\n</p><p>10. Establishes and maintains standards of pupil behavior needed to provide an orderly, and productive environment during class sessions. </p><p>\n11. Selects and requests books, and instructional aids, and maintains inventory records as required; may request resource speakers and field trips.\n</p><p>12. Identifies pupil needs, and cooperates with other professional staff members in assessing and helping pupils solve health, attitude, and learning problems.\n</p><p>13. Communicates with parents and school counselors on pupil progress.\n</p><p>14. Identifies pupil needs, and cooperates with other professional staff members in assessing and helping pupils solve health, attitude, and learning problems.\n</p><p>15. Supervises pupils in out-of-classroom activities during the assigned working day.\n</p><p>16. Participates in curriculum and other developmental programs. </p><p>\n17. Participates in faculty committees and the sponsorship of student activities such as clubs, volunteer corps, etc….\n</p><p>18. Maintains professional competence through inservice education activities provided by the district and in self-selected professional growth activities.\n</p><p>19. Participates cooperatively with the appropriate administrator to develop the method by which he will be evaluated in conformance with state &amp; district guidelines.\n</p><p><br></p><p>MARGINAL FUNCTIONS\n</p><p>1. Performs other job duties as required.\n</p><p><br></p><p>REQUIRED KNOWLEDGE, SKILLS &amp; ABILITIES NECESSARY TO PERFORMANCE OF ESSENTIAL FUNCTIONS</p><p>1.  Ability to integrate technology into everyday classroom activities </p><p>\n2. Possess problem solving skills.\n</p><p>3. Establish and maintain effective working relationships with students, school staff, district staff, and patrons.\n</p><p>4. Communicates effectively with students\n</p><p>5. Knowledge of State Social Studies Standards and Board of Education adopted guidelines.\n</p><p><br></p><p>REQUIRED EDUCATION AND TRAINING FOR ESSENTIAL FUNCTIONS</p><p>1. Valid Idaho teaching license and subject specific endorsement, or alternative program leading to license.\n</p>",
+          "text1": "<p>No openings at this time.</p>",
+          "text2": "",
           "_tags": [
             "Theme"
           ],
