@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "catalog.html",
+    "currentPage": "online.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -127,7 +127,7 @@
               "size": 0
             }
           },
-          "title": "Online classes start Aug 13. &nbsp;Enrollment opens July 30.",
+          "title": "Online classes start Aug 13. &nbsp;Enroll today.",
           "text": "Students receive self-paced online instruction from Idaho certified teachers. &nbsp;Courses are taught on a 6 week pace and teachers are available by phone and text during regular office hours.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"summerschool.html\" data-toolbar=\"-mbrBtnMove\">Our Online School program</a>",
           "_tags": [
@@ -1162,7 +1162,7 @@
             "bgColor": "#fff"
           },
           "title": "Millenials",
-          "meta": "are becoming a remarkably talented generation"
+          "meta": "are a remarkably talented generation"
         },
         {
           "_tags": [
@@ -1212,7 +1212,7 @@
             "overlayOpacity": 0.5
           },
           "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
-          "title": "Registration Opens July 30",
+          "title": "Registration Now Open",
           "text": "Questions? &nbsp;Happy to help. &nbsp;(208) 580-2449<br>Courses begin each Monday starting August 13th.<br><br>Fax registration forms to (208) 580-2450"
         },
         {
