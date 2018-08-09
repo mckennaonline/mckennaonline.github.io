@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "online.html",
+    "currentPage": "employment.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -5524,7 +5524,7 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script src=\"https://code.jquery.com/jquery-3.1.0.js\"></script>",
-            "<script>\n$(\"#catalogbody\").load(\"https://app.rmckenna.org/catalog/\");\n</script>"
+            "<script>\nfunction \n$(\"#catalogbody\").load(\"https://app.rmckenna.org/catalog/\");\n\n\n</script>"
           ]
         },
         {
