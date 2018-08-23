@@ -2932,7 +2932,7 @@
           "text2": "<p>Students must have completed the 8th grade or provide standardized test scores that demonstrate a student is ready for high school study.</p><p><br></p><p>They must have completed Pre-algebra A and B with a grade of “C” or better in each.</p><p>Students must be younger than 21 years old.</p><p>They may not be enrolled full-time in another public school.</p><p>Those who count the student as a dependent on their income tax form must be a resident of Idaho.</p><p><br></p><p>Richard McKenna Online provides a free and appropriate public education for all children with disabilities in a variety of specially designed programs. Special education and related services are available for persons who qualify.</p><p><br></p><p>Parents, guardians and educators of students attending Richard McKenna Online can refer a student who may be eligible for services and not currently receiving services by contacting the student's teacher, or the school director. The referrals will be made to the special education director for further evaluation.&nbsp;</p>",
           "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseThreeextToggle1-2d\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Summer School</a>",
           "text3": "<p>Students who enroll in the Summer School program must have completed the 8th grade, be younger than 21 years old, and qualify as an at-risk student as defined by Idaho State Code.</p><p><br></p><p>Students are considered at-risk if they meet at least three of qualifiers 1-6, and/or one of qualifiers 7-12 listed below:</p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Has repeated at least one (1) grade.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Has absenteeism that is greater than ten percent (10%) during the preceding semester.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Has an overall grade point average that is less than 1.5 (4.0 scale) prior to enrolling in an alternative secondary program.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Has failed one (1) or more academic subjects.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Is two (2) or more semester credits per year behind the rate required to graduate.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Is a limited English proficient student who has not been in a program more than three (3) years.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Has substance abuse behavior.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Is pregnant or a parent.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Is an emancipated youth.(Is living on his/her own and providing for his/her livelihood.)</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Is a previous drop out.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Has serious personal, emotional, or medical problems.</span><br></p><p><span style=\"font-size: 1rem; line-height: 1.5;\">&nbsp; &nbsp; Is a court or agency referral.</span></p>&nbsp; &nbsp; Demonstrates behavior that is detrimental to their academic progress.",
-          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-2d\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Special Education</a>",
+          "title4": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFourextToggle1-2d\" aria-expanded=\"false\" aria-controls=\"collapseFour\">Special Education</a>",
           "text4": "<p>Richard McKenna Online is dedicated to serving all students regardless of race, religion, or disability. However, due to the legal contract associated with an IEP, students with disabilities require different enrollment practices. The following steps must be followed in order for a student with an active IEP to enroll in McKenna Online classes.</p><br><p><span style=\"font-size: 1rem; line-height: 1.5;\">• On the initial enrollment form, if a parent or student specifies that the student has a current IEP, the IEP and the eligibility report must be obtained before the student can enroll in classes. At times, obtaining this paperwork from the previous schools may take several weeks. If the parent or student has a current copy of the IEP and eligibility report, he/she may fax it to the school to speed up this process.</span></p><p><br></p><p>• Once the IEP and eligibility reports are obtained, the special education director will contact the parent for an initial orientation. At that time, the special education director will go over the eligibility report and current IEP to discuss the current goals, objectives, services, and accommodations.</p><p><br></p><p>• There are times when an IEP that is written in a traditional school setting may not be conducive to the online environment. If this is the case, either a formal or informal meeting will be set at which time the IEP may be amended.</p><p><br></p><p>• Once all of the paper work has been completed, the student and parent will have a second orientation with a McKenna Online staff member to go over school policy, the computer system and to choose classes.</p><p><br></p><p>• Please be aware that this process may take several weeks depending upon the timely manner in which the school receives the IEP and eligibility report. If you have any questions, please feel free to contact Mrs. Flick, Special Education Director, at (208) 724-1100.</p>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-core=\"\" href=\"#collapseFiveextToggle1-2d\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Technical Requirements</a>",
           "text5": "Operating System<div>• Windows PC, Macintosh PC, or Tablet purchased within the last 5 years.  Most of school can be done on a touch device, but you should also have a full computer available for occasional use.</div><div>• Printer Recommended but not required</div><div><br></div><div>Internet connection</div><div>• DSL or Cable Modem</div><div><br></div><div>Web browsers</div><div>• Chrome (best choice)</div><div><span style=\"font-size: 1rem; line-height: 1.5;\">• Firefox or Safari</span><br></div><div><span style=\"font-size: 1rem; line-height: 1.5;\">• Internet Explorer does not work very well with our program.</span><br></div><div><br></div><div>Plugins</div><div>• Adobe Flash</div><div>• Adobe Reader&nbsp;</div>",
@@ -5413,165 +5413,6 @@
         }
       ]
     },
-    "hsprivacypolicy.html": {
-      "settings": {
-        "title": "Template Richard McKenna",
-        "meta_descr": "Description of how we use Google services.",
-        "order": 16,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-k",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "hideButtons": false,
-            "sticky": true,
-            "collapsed": true,
-            "transparent": false,
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
-              "height": 128,
-              "alt": "Richard McKenna Logo",
-              "link": "/",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "/",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/OnCampusCalendar18-19.pdf\" target=\"_blank\">2018-19 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESSORI K-3</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 3rd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MontessoriCalendar18-19.pdf\" target=\"_blank\">2018-19 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-1l",
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "6",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "Title with Solid Background Color",
-          "meta": "By John Smith posted July 20, 2016"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts1",
-          "_styles": {
-            "P": {
-              "font-size": "14px",
-              "text-align": "left"
-            }
-          },
-          "_anchor": "contacts1-1k",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": true,
-            "overlayColor": "#3C3C3C",
-            "overlayOpacity": 0.8
-          },
-          "logo": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "width": 128
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-contacts1",
-              "linkInNewWindow": false,
-              "name": "streetsign",
-              "family": "et-line",
-              "link": "",
-              "size": 0,
-              "active": true
-            }
-          },
-          "text1": "<strong>High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
-          "text2": "<strong>Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
-          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p>Registration forms:</p><p>Fax: (208) 580-2450</p>"
-        }
-      ]
-    },
     "hsprivacypolic.html": {
       "settings": {
         "title": "Richard McKenna High School Privacy Policy",
@@ -5754,6 +5595,165 @@
           "text2": "<strong>Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
           "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p>Registration forms:</p><p>Fax: (208) 580-2450</p>",
           "_anchor": "contacts1-4l"
+        }
+      ]
+    },
+    "template.html": {
+      "settings": {
+        "title": "Template Richard McKenna",
+        "meta_descr": "Description of how we use Google services.",
+        "order": 16,
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-k",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": false,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wwwlogo-673x128.png",
+              "height": 128,
+              "alt": "Richard McKenna Logo",
+              "link": "/",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "/",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"/\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OnlineCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/OncampusCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/OnCampusCalendar18-19.pdf\" target=\"_blank\">2018-19 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESSORI K-3</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 3rd - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"/docs/MontessoriCalendar.pdf\" target=\"_blank\">2017-18 School Calendar</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MontessoriCalendar18-19.pdf\" target=\"_blank\">2018-19 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://app.rmckenna.org/app\">LOGIN</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l",
+          "_params": {
+            "showMeta": true,
+            "paddingTop": "6",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "Title with Solid Background Color",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "font-size": "14px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "contacts1-1k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "streetsign",
+              "family": "et-line",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<strong>High School</strong><br>Call: (208) 580-2449<br><br><span style=\"font-size: 0.875rem; line-height: 1.5;\">675 S Haskett Street</span><br><span style=\"font-size: 0.875rem;\">Mountain Home, ID 83647</span>",
+          "text2": "<strong>Montessori</strong><br>Call: (208) 580-2347<br><br><span style=\"font-size: 0.875rem;\">1305 East 8th North<br>Mountain Home, ID 83647</span>",
+          "text3": "<p><strong>More Info</strong>&nbsp;&nbsp;&nbsp;&nbsp;<br><a href=\"mailto:info@rmckenna.org\">info@rmckenna.org</a></p><br><p>Registration forms:</p><p>Fax: (208) 580-2450</p>"
         }
       ]
     }
