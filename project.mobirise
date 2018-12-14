@@ -4428,7 +4428,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hanna-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/hanna-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
