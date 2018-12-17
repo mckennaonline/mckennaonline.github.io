@@ -3831,7 +3831,7 @@
         "title": "Richard McKenna Montessori Staff",
         "meta_descr": "Mountain Home on campus elementrary school",
         "order": 9,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.mbr-cards-col:last-child .card-block:last-child {\n    opacity: 0;\n}\n\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -4633,7 +4633,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jennifer-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jennifer-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
