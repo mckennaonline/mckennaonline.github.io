@@ -4633,7 +4633,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nostaffpicture-600x600.png",
+              "src": "@PROJECT_PATH@/assets/images/jennifer-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
