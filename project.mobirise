@@ -110,7 +110,7 @@
               "active": true,
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/picofapplication-877x663.png",
-              "link": "assets/files/RMCS_Lottery_Application19-20.pdf",
+              "link": "assets/files/LotteryApplication19-20.pdf",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -129,7 +129,7 @@
           },
           "title": "All Mountain Home Students:<br>Apply before Feb 26",
           "text": "Grades K-4 and 9-12 should apply on time for priority consideration in our March 1st lottery.<br>In 7th or 8th grade next year? &nbsp;We are taking applications to see if there's enough interest to add those grades!",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/RMCS_Lottery_Application19-20.pdf\" data-toolbar=\"-mbrBtnMove\">Print the Lottery Application Form</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/LotteryApplication19-20.pdf\" data-toolbar=\"-mbrBtnMove\">Print the Lottery Application Form</a>",
           "_tags": [
             "Theme"
           ],
@@ -2029,7 +2029,7 @@
           },
           "title": "Now accepting applications for the 2019-20 School year",
           "text": "Print the form and drop off before February 26th. &nbsp;Our public lottery will be held March 1, 2019, at 1pm. &nbsp;Even if you are on a waiting list this year, you must re-apply to be considered for this next year.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/RMCS_Lottery_Application19-20.pdf\" data-toolbar=\"-mbrBtnMove\">Print the Lottery Application Form</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/LotteryApplication19-20.pdf\" data-toolbar=\"-mbrBtnMove\">Print the Lottery Application Form</a>",
           "_tags": [
             "Theme"
           ],
