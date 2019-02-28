@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "online.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -82,59 +82,6 @@
           "title": "High School At Its&nbsp;Best",
           "text": "Enroll in our \"made in Idaho\" online high school providing free self-paced study with the best student to teacher ratio of all online schools.<br><br>Mountain Home residents may attend our campus, with our successful \"two classes at a time\" schedule.<br><br>Our K-6 Montessori program is growing with high demand. &nbsp;Currently providing Kindergarten through 3rd grade.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"online.html\" data-toolbar=\"-mbrBtnMove\">About the Online Program</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"oncampus.html\" data-toolbar=\"-mbrBtnMove\">About the On Campus Program</a>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "../../../web/app/themes/mobirise3/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Last week for new online students. Enroll today.",
-          "text": "Registration for new online students <i>closes</i> this Friday March 1st. <br><br>Students receive self-paced online instruction from Idaho certified teachers. &nbsp;Courses are taught on a 6 week pace and teachers are available by phone and text during regular office hours.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app/\" data-toolbar=\"-mbrBtnMove\">Register for Richard McKenna Online</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-4y"
         },
         {
           "_styles": {
@@ -1017,44 +964,6 @@
             "bgColor": "#fff"
           },
           "text": "<p>We are seeing results of raising our first digital natives. &nbsp;Born in a land where information is freely available without the traditional barriers of location and cost. They process massive amounts of information and have learned to filter out the meaningless to find the valuable. &nbsp;With more expectations put on them than any other generation, they have learned discernment and confidently call out things that are not working because of a need to fit everything into their day.</p><p><br></p><p>Now, put these students in a traditional classroom with overcrowding and a curriculum from the industrial age. &nbsp;Instead of finding clearly defined goals and an efficient path to learning, the use of time doesn't make sense and distractions are constant. Students are told to put up with the class moving too fast at times and too slow at other times because the class can't move at their pace.</p><p><br></p><p>Online learning is the future for our digital natives. &nbsp;During the sections of a class that are making sense, the student can move on and have more time in their day. &nbsp;During the sections of a class that are challenging, McKenna's low student to teacher ratio makes our teachers more available to provide individual attention than a traditional classroom teacher.</p>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#cccccc"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-2x",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#7c706b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://app.rmckenna.org/app/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Begin Online Registration</a>",
-          "title": "Registration Closing Friday<br>",
-          "text": "New online students must register by Friday March 1st.<br><br>Questions? &nbsp;Happy to help. &nbsp;(208) 580-2449<br>Courses begin each Monday.<br><br>Fax registration forms to (208) 580-2450"
         },
         {
           "_styles": {
