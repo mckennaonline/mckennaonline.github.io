@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -16,20 +16,26 @@
         "subtitleFont": "Lora",
         "textFont": "Raleway",
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
+        "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": []
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 179,
-    "versionPublish": "4.5.4",
+    "uniqCompNum": 147,
+    "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://www.rmckenna.org",
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
@@ -139,7 +145,7 @@
           "_anchor": "menu-2",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -336,7 +342,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/landscape2.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -460,7 +466,7 @@
           "_anchor": "menu-1n",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -589,7 +595,7 @@
           "_anchor": "menu-l",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -899,7 +905,7 @@
           "_anchor": "menu-3",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1335,7 +1341,7 @@
           "_anchor": "menu-15",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1591,7 +1597,7 @@
           "_anchor": "menu-1g",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -1843,7 +1849,7 @@
           "_anchor": "menu-1n",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -2694,7 +2700,7 @@
           "_anchor": "menu-1n",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -2791,7 +2797,7 @@
           "_anchor": "menu-29",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -2990,7 +2996,7 @@
           "_anchor": "menu-2g",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -3698,7 +3704,7 @@
           "_anchor": "menu-3d",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -4974,7 +4980,7 @@
           "_anchor": "menu-3i",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -5071,7 +5077,7 @@
           "_anchor": "menu-3k",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -5347,7 +5353,7 @@
           "_anchor": "menu-3r",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -5506,7 +5512,7 @@
           "_name": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -5568,7 +5574,7 @@
             "paddingBottom": "2",
             "columns": "2",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@THEME_PATH@-blocks/components/_images/img_extFeatures4_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -5783,7 +5789,7 @@
           "_anchor": "menu-k",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
@@ -5941,7 +5947,7 @@
           "_name": "menu",
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
