@@ -891,6 +891,20 @@ h6,
 #header3-m .mbr-section-subtitle {
   text-align: center;
 }
+#header3-43 .mbr-section-title,
+#header3-43 .mbr-section-subtitle {
+  text-align: center;
+}
+#custom-html-44 {
+  /* Type valid CSS here */
+}
+#custom-html-44 .my-image {
+  width: 100%;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-45 .mbr-section-title,
 #header3-45 .mbr-section-subtitle {
   text-align: center;
@@ -913,10 +927,6 @@ h6,
 }
 #header3-2t .mbr-section-title,
 #header3-2t .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-q .mbr-section-title,
-#header3-q .mbr-section-subtitle {
   text-align: center;
 }
 #contacts1-1k P {
