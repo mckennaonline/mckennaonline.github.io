@@ -77,6 +77,10 @@ switch (from) {
 	case "/apps/pages/hs/handbook":
 		to = "/oncampusuhandbook.html";
 		break;
+	case "/apps/events/":
+	case "/apps/maps/":
+		to = "/";
+		break;
 	default:
 		to = "";
 }
