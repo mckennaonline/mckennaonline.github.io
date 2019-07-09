@@ -11,6 +11,10 @@ switch (from) {
 	case "/admin/":
 		to = "http://app.rmckenna.org/admin";
 		break;
+	case "/app":
+	case "/app/":
+		to = "http://app.rmckenna.org/app";
+		break;
 	case "/login":
 	case "/login/":
 		to = "http://app.rmckenna.org/login";
