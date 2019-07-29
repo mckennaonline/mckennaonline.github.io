@@ -19,11 +19,10 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": []
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 148,
+    "uniqCompNum": 147,
     "versionPublish": "4.9.7",
     "favicon": "",
     "noImageResize": "",
@@ -180,7 +179,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "2",
@@ -218,7 +217,7 @@
           },
           "title": "Fall Registration Now Open",
           "text": "Have all the registration paperwork completed<br> by August 7th in order to start the school year.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"online.html\" data-toolbar=\"-mbrBtnMove\">Register</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online Registration</a>",
           "_tags": [
             "Theme"
           ],
