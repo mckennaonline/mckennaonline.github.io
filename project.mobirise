@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "onlinehandbook.html",
+    "currentPage": "online.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -216,7 +216,7 @@
             }
           },
           "title": "Fall Registration Now Open",
-          "text": "Have all the registration paperwork completed<br> by August 7th in order to start the school year.&nbsp;",
+          "text": "High school courses start each Monday. &nbsp;Join our free, friendly, and flexible online program today!",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online Registration</a>",
           "_tags": [
             "Theme"
@@ -1061,7 +1061,7 @@
             }
           },
           "title": "Enrolling Now For 2019-20",
-          "text": "Free online courses from local teachers available starting August 12th.&nbsp;",
+          "text": "Free online courses from local teachers. &nbsp;<br>Start as soon as this Monday!&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
           "_tags": [
             "Theme"
