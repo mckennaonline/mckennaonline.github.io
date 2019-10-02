@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "oncampusnews.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -215,8 +215,8 @@
               "size": 0
             }
           },
-          "title": "Fall Registration Now Open",
-          "text": "High school courses start each Monday. &nbsp;Join our free, friendly, and flexible online program today!",
+          "title": "Online classes start weekly. Enroll today.",
+          "text": "High school students recieve self-paced instruction from Idaho certified teachers. Courses are on a 6 week pace and teachers are available by phone and text during regular office hours.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Online Registration</a>",
           "_tags": [
             "Theme"
