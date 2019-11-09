@@ -2112,6 +2112,9 @@ section.form .container {
 #contacts1-1k .mbr-footer-content p strong {
   color: #eeeeee;
 }
+#msg-box8-4e .btn-positioning.clear {
+  visibility: hidden;
+}
 #msg-box8-4e .mbr-section-title,
 #msg-box8-4e .lead {
   color: #fff;
