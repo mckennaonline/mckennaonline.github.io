@@ -723,6 +723,16 @@ section.form .container {
 #msg-box8-4a .lead {
   color: #fff;
 }
+#msg-box8-4a .logo-cell {
+  height: 14.5em;
+  display: flex;
+}
+#msg-box8-4a .logo-cell h3 {
+  margin: auto;
+}
+#msg-box8-4a .logo-cell h3 img {
+  max-height: 200px;
+}
 #msg-box8-4a .parallax-header .btn-primary {
   min-width: 140px;
   width: 50%;
@@ -800,6 +810,16 @@ section.form .container {
 }
 #msg-box8-4x .btn-positioning.clear {
   visibility: hidden;
+}
+#msg-box8-4x .logo-cell {
+  height: 14.5em;
+  display: flex;
+}
+#msg-box8-4x .logo-cell h3 {
+  margin: auto;
+}
+#msg-box8-4x .logo-cell h3 img {
+  max-height: 200px;
 }
 #msg-box8-4x .mbr-section-title,
 #msg-box8-4x .lead {
@@ -1078,6 +1098,16 @@ section.form .container {
 }
 #msg-box8-4w .btn-positioning.clear {
   visibility: hidden;
+}
+#msg-box8-4w .logo-cell {
+  height: 14.5em;
+  display: flex;
+}
+#msg-box8-4w .logo-cell h3 {
+  margin: auto;
+}
+#msg-box8-4w .logo-cell h3 img {
+  max-height: 200px;
 }
 #msg-box8-4w .mbr-section-title,
 #msg-box8-4w .lead {
@@ -2114,6 +2144,16 @@ section.form .container {
 }
 #msg-box8-4e .btn-positioning.clear {
   visibility: hidden;
+}
+#msg-box8-4e .logo-cell {
+  height: 14.5em;
+  display: flex;
+}
+#msg-box8-4e .logo-cell h3 {
+  margin: auto;
+}
+#msg-box8-4e .logo-cell h3 img {
+  max-height: 200px;
 }
 #msg-box8-4e .mbr-section-title,
 #msg-box8-4e .lead {
