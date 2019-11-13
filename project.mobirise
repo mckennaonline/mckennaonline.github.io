@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -45,7 +45,7 @@
         "main": true,
         "title": "Richard McKenna Charter School",
         "meta_descr": "Free Online High School in Idaho",
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>",
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>",
         "footer_custom": "<style>\n#features1-44 .mbr-cards-col { cursor: pointer }\n#msg-box5-2p .mbr-figure img { cursor: pointer }\n</style>\n<script>\n$(\"#features1-44 .mbr-cards-col\").click(function() {\n  document.location = $(this).find(\".btn-primary\").attr(\"href\");\n});\n$(\"#msg-box5-2p .mbr-figure img\").click(function() {\n  document.location = \"https://www.cognia.org/\";\n});\n</script>",
         "html_before": "",
         "order": 1
@@ -364,7 +364,7 @@
         "title": "Contact Richard McKenna",
         "meta_descr": "Free online school for Idaho residents",
         "order": 17,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -543,7 +543,7 @@
         "title": "Richard McKenna Charter High School",
         "meta_descr": "Free online school for Idaho residents",
         "order": 15,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -921,7 +921,7 @@
         "title": "Richard McKenna Online High School",
         "meta_descr": "Richard McKenna Online offers free 9th-12th grade courses to students all over the state of Idaho",
         "order": 2,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -1055,7 +1055,7 @@
           },
           "title": "Enrolling Now For 2019-20",
           "text": "Free online courses from local teachers. &nbsp;<br>Start as soon as this Monday!&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1377,7 +1377,7 @@
         "title": "Richard McKenna Jobs",
         "meta_descr": "Free online school for Idaho residents",
         "order": 16,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -1620,7 +1620,7 @@
         "title": "Richard McKenna Online Summer School",
         "meta_descr": "Free online school for Idaho residents",
         "order": 3,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -1873,7 +1873,7 @@
         "title": "Richard McKenna Montessori School",
         "meta_descr": "Free online school for Idaho residents",
         "order": 12,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -2518,7 +2518,7 @@
         "title": "Richard McKenna On Campus High School",
         "meta_descr": "Mountain Home on campus program",
         "order": 7,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -2823,7 +2823,7 @@
         "meta_descr": "Free online school for Idaho residents",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
         "order": 4,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -3023,7 +3023,7 @@
         "meta_descr": "Handbook for on campus students.",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
         "order": 9,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -3305,7 +3305,7 @@
         "title": "Richard McKenna On Campus Staff",
         "meta_descr": "Mountain Home on campus program",
         "order": 8,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -3829,7 +3829,7 @@
         "title": "Richard McKenna Montessori Staff",
         "meta_descr": "Mountain Home on campus elementrary school",
         "order": 11,
-        "header_custom": "<style>\n#extFeatures9-4t .mbr-cards-col:last-child .card-block {\n    opacity: 0;\n}\n\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n#extFeatures9-4t .mbr-cards-col:last-child .card-block {\n    opacity: 0;\n}\n\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -5107,7 +5107,7 @@
         "meta_descr": "Free online school for Idaho residents",
         "footer_custom": "<script>\n$(\".panel-heading span.pseudoMinus\").siblings(\"h4\").find(\"a\").click();\n</script>",
         "order": 13,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -5384,7 +5384,7 @@
         "title": "Richard McKenna Montessori Enrollment",
         "meta_descr": "Elementary School for Mountain Home, ID",
         "order": 14,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -5821,7 +5821,7 @@
         "title": "Template Richard McKenna",
         "meta_descr": "Description of how we use Google services.",
         "order": 18,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -5981,7 +5981,7 @@
         "title": "Richard McKenna High School Privacy Policy",
         "meta_descr": "Free online school for Idaho residents",
         "order": 6,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -6167,7 +6167,7 @@
         "title": "On Campus Newsletter",
         "meta_descr": "Description of how we use Google services.",
         "order": 10,
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
       },
       "components": [
         {
@@ -6347,7 +6347,7 @@
       "settings": {
         "title": "About Richard McKenna Charter School",
         "meta_descr": "Free Online High School in Idaho",
-        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>",
+        "header_custom": "<style>\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>",
         "footer_custom": "",
         "html_before": "",
         "order": 1
