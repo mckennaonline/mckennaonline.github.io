@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 178,
+    "uniqCompNum": 179,
     "versionPublish": "4.11.4",
     "favicon": "",
     "noImageResize": "",
@@ -210,7 +210,7 @@
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button1": "<a data-app-btn=\"true\" href=\"oncampus.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about On Campus</a>",
           "button2": "<a data-app-btn=\"true\" href=\"online.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about Online School</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"montessori.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about Elementary/Jr.High</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"montessori.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about Elementary/Jr.High</a> <a data-app-btn=\"true\" href=\"assets/files/LotteryApplication20-21.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Print Lottery Application</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1976,11 +1976,49 @@
           "_params": {
             "showMeta": true,
             "paddingTop": "6",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "bgColor": "#fff"
           },
           "title": "Montessori School",
           "meta": "In Mountain Home"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#7c706b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lottery Deadline Feb 28th",
+          "text": "Students in grades K-5 and 7 &amp; 8 next school year need to apply now.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/LotteryApplication20-21.pdf\" data-toolbar=\"-mbrBtnMove\">PRINT LOTTERY APPLICATION</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4y"
         },
         {
           "_tags": [
@@ -1989,7 +2027,7 @@
           "_name": "content1",
           "_anchor": "content1-1u",
           "_params": {
-            "paddingTop": "0",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColor": "#fff"
           },

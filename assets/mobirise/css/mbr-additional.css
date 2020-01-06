@@ -1323,6 +1323,12 @@ section.form .container {
 #header3-1o .mbr-section-subtitle {
   text-align: center;
 }
+#msg-box2-4y .mbr-section-title {
+  color: #fff;
+}
+#msg-box2-4y .mbr-section-subtitle {
+  color: #efefef;
+}
 #header3-1v .mbr-section-title,
 #header3-1v .mbr-section-subtitle {
   text-align: center;
