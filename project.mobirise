@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "oncampusnews.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 179,
+    "uniqCompNum": 180,
     "versionPublish": "4.11.4",
     "favicon": "",
     "noImageResize": "",
@@ -208,7 +208,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"oncampus.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about On Campus</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"oncampus.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about On Campus</a> <a data-app-btn=\"true\" href=\"assets/files/LotteryApplication20-21.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Print Lottery Application</a>",
           "button2": "<a data-app-btn=\"true\" href=\"online.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about Online School</a>",
           "button3": "<a data-app-btn=\"true\" href=\"montessori.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">More about Elementary/Jr.High</a> <a data-app-btn=\"true\" href=\"assets/files/LotteryApplication20-21.pdf\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">Print Lottery Application</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -2590,6 +2590,44 @@
           },
           "title": "Home of the Pride",
           "caption": "<p>Richard McKenna High School is an accredited, nontraditional public school in Mountain Home.</p><p>Our creative curriculum allows students to develop skills for the 21st century. The school’s philosophy is that learning is not just about gaining knowledge and acquiring facts —but about being able to do something with those facts. &nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Students not only learn basic academic skills such as English, Mathematics, and Science, but they also learn and practice key life skills such as resilience, reflection, and risk taking.</span></p><p>Our on campus program is patterned after the workplace and is a school of choice. &nbsp; Here, education is our \"job.\" We come to work each day to build an important product that must last through many future years. This is one of the most important jobs we shall ever have in our life; we take our work seriously and do it with pride.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Lottery Deadline Feb 28th",
+          "text": "Students enrolling in the Mountain Home High School for next year need to apply now.",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"assets/files/LotteryApplication20-21.pdf\" data-toolbar=\"-mbrBtnMove\">Print Lottery Application</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-4z"
         },
         {
           "_styles": {
@@ -6316,7 +6354,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/session2newsletter-765x642.png",
+              "src": "@PROJECT_PATH@/assets/images/session4newsletter-640x539.png",
               "width": 1400,
               "link": "",
               "alt": "",
