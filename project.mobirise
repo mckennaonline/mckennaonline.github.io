@@ -195,7 +195,7 @@
           "caption1": "Project-based learning environment. &nbsp;Focus your time and avoid feeling overwhelmed with our unique 2 classes at a time schedule.",
           "title2": "Online High School",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Self-paced study with individualized attention. &nbsp;Teachers are available by phone and text during office hours. &nbsp;Get started a week after registering.<br><br><b>School Year is closing. New Students must:</b><br>- Begin registration by Wednesday afternoon (Febuary 5th)<br>- Complete registration by Friday afternoon (Febuary 7th)",
+          "caption2": "Self-paced study with individualized attention. &nbsp;Teachers are available by phone and text during office hours.<br><br><b>Summer School registration is coming up</b><br>Check back around April 13th for more info.",
           "title3": "Elementary/Jr. High",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Elementary students learn through the Montessori Philosophy while Jr High students use project-based learning.",
@@ -1011,58 +1011,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/OnlineCalendar19-20.pdf\" target=\"_blank\">2019-20 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">ON CAMPUS HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusnews.html\">Newsletter</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/OnCampusCalendar19-20.pdf\" target=\"_blank\">2019-20 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">MONTESSORI K-4</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 4th - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessorihandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MontessoriCalendar19-20.pdf\" target=\"_blank\">2019-20 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://app.rmckenna.org/app/\">LOGIN</a></li>"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "3",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#a38f84",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coed-grads-steps-400x267.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Last days of Registration<br>For 2019-20",
-          "text": "Free online courses from local teachers.<br><br><b>Registration is closing. New Students Must:</b><br>- Begin registration by Wednesday afternoon (Febuary 5th)<br>- Complete registration by Friday afternoon (Febuary 7th)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-43"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1078,7 +1026,7 @@
           "_anchor": "header3-s",
           "_params": {
             "showMeta": true,
-            "paddingTop": "3",
+            "paddingTop": "7",
             "paddingBottom": "0",
             "bgColor": "#fff"
           },
