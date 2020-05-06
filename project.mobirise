@@ -320,7 +320,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": 50,
+            "imageSize": "35",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -340,7 +340,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/cognia-rgb-logotype-fullcolor-1200x627.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cognia-accredited-logo-large-1400x1400.png",
               "link": "",
               "alt": "",
               "title": ""
