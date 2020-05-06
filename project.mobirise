@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "sample.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -244,7 +244,7 @@
           "caption1": "Project-based learning environment. &nbsp;Focus your time and avoid feeling overwhelmed with our unique 2 classes at a time schedule.",
           "title2": "Online High School",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Self-paced study with individualized attention. &nbsp;Teachers are available by phone and text during office hours.<br><br><b>Summer School registration is coming up</b><br>Check back around April 13th for more info.",
+          "caption2": "Self-paced study with individualized attention. &nbsp;Teachers are available by phone and text during office hours.<br>",
           "title3": "Elementary/Jr. High",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Elementary students learn through the Montessori Philosophy while Jr High students use project-based learning.",
@@ -6608,63 +6608,6 @@
           },
           "title": "Title with Solid Background Color",
           "meta": "Subtitle"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Save my place for the 2020-21 school year",
-          "subtitle": "Mountain Home students going into 9th - 12th grade next year, this is where you get started.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">CONTACT US</a>",
-          "form": {
-            "action": "online@catalystwebapps.com",
-            "alerts": {
-              "success": "Thanks!  We will follow up with some forms to fill out."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-53",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
         },
         {
           "_tags": [
