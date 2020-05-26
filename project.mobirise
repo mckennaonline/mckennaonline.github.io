@@ -244,7 +244,7 @@
           "caption1": "Project-based learning environment. &nbsp;Focus your time and avoid feeling overwhelmed with our unique 2 classes at a time schedule.",
           "title2": "Online High School",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Self-paced study with individualized attention. &nbsp;Teachers are available by phone and text during office hours.<br>",
+          "caption2": "Self-paced study with individualized attention. &nbsp;Teachers are available by phone and text during office hours.<br><br><b>Reigstration for the 2020-2021 school year opens August 3rd.</b>",
           "title3": "Elementary/Jr. High",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Elementary students learn through the Montessori Philosophy while Jr High students use project-based learning.",
@@ -1100,7 +1100,7 @@
             }
           },
           "title": "Summer 2020 Online Registration Open",
-          "text": "New and returning students, start here:",
+          "text": "(Registration for the 2020-21 school year opens August 3rd)<br><br>New and returning students, start here:",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register</a>",
           "_tags": [
             "Theme"
