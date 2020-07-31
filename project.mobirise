@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "onlinehandbook.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -152,8 +152,8 @@
               "size": 0
             }
           },
-          "title": "On Campus Registration Open<br>",
-          "text": "First day of school on campus in Mountain Home is August 10th.<br>Registration is online this year, click the button below to add/update your info and print some signature forms.<br><br>- New Students: Use the New Student button below the login form.<br>- Returning Students: Login with your student or parent login. &nbsp;(Trouble logging in? &nbsp;There's a Lost Password button below the login form)<br>",
+          "title": "On Campus High School Registration<br>",
+          "text": "First day of high school on campus in Mountain Home is August 10th.<br>Registration is online this year, click the button below to add/update your info and print some signature forms.<br><br>- New Students: Use the New Student button below the login form.<br>- Returning Students: Login with your student or parent login. &nbsp;(Trouble logging in? &nbsp;There's a Lost Password button below the login form)<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
           "_tags": [
             "Theme"
