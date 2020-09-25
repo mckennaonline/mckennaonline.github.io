@@ -1,3 +1,4 @@
-.mbr-wowslider .mbr-wowslider-options{
-    display: none;
+.ws_images {
+    display: block;
+    display: -webkit-box;
 }
