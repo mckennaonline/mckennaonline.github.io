@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 191,
+    "uniqCompNum": 195,
     "versionPublish": "4.11.4",
     "favicon": "",
     "noImageResize": "",
@@ -3978,7 +3978,8 @@
         "title": "Richard McKenna Montessori Staff",
         "meta_descr": "Mountain Home on campus elementrary school",
         "order": 11,
-        "header_custom": "<style>\n#extFeatures9-4t .mbr-cards-col:last-child .card-block {\n    opacity: 0;\n}\n\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>"
+        "header_custom": "<style>\n.cart-block .feature-text strong a {\n    color: white;\n    background-color: black;\n    line-height: 1.5em;\n    border: 1px solid white;\n    border-radius: 1.5em;\n    display: inline-block;\n    padding: 5px 1em;\n    transition: all .2s ease-in-out;\n    text-decoration: none;\n    margin-top: 5px;\n}\n.cart-block .feature-text strong a:hover {\n    color: #535353;\n    background-color: transparent;\n    border-color: #535353;\n}\n\n#extFeatures9-4t .mbr-cards-col:last-child .card-block {\n    opacity: 0;\n}\n\n.navbar-dropdown a.navbar-logo {\n    margin-right: 0;\n}\n#menu-2 .link, #menu-2 .dropdown-item {\n    white-space: nowrap;\n}\n.btn-primary {\n    background-color: #e4d8c5;\n    font-weight: bold;\n    color: #2e2e2e;\n}\n</style>\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-56540607-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'UA-56540607-1');\n</script>",
+        "footer_custom": ""
       },
       "components": [
         {
@@ -4016,18 +4017,17 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9188-sq-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/denniswilson-526x526.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Photo of Dennis Wilson",
+              "title": ""
             }
           },
           "title1": "Dennis Wilson",
-          "subtitle1": "dwilson@rmckenna.org",
+          "subtitle1": "<a href=\"mailto:dwilson@rmckenna.org\">dwilson@rmckenna.org</a>",
           "caption1": "Superintendent",
           "media1_1": {
             "iconFont": {
@@ -4075,18 +4075,18 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ambre-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/samtrombly-526x526.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Sam Trombly",
               "title": ""
             }
           },
-          "title2": "Ambre English",
-          "subtitle2": "aenglish@rmckenna.org",
-          "caption2": "Kindergarten Teacher",
+          "title2": "Sam Trombly",
+          "subtitle2": "<a href=\"mailto:strombly@rmckenna.org\">strombly@rmckenna.org</a><br>",
+          "caption2": "Lower Elementary Lead Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/le1/home\">Teacher's Website</a></b><br>",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -4133,18 +4133,18 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hannah-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/heathersayer-532x532.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Heather Sayer",
               "title": ""
             }
           },
-          "title3": "Hannah Riensch",
-          "subtitle3": "hriensch@rmckenna.org",
-          "caption3": "Kindergarten Teacher's Aide<br>",
+          "title3": "Heather Sayer",
+          "subtitle3": "<a href=\"mailto:hsayer@rmckenna.org\">hsayer@rmckenna.org</a>",
+          "caption3": "Lower Elementary Teacher's Aide<br><b><a href=\"https://sites.google.com/rmckenna.org/le1/home\">Teacher's Website</a></b><br>",
           "media3_1": {
             "iconFont": {
               "active": true,
@@ -4191,18 +4191,18 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tekinah-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tekinahpostema-531x531.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Tekinah Postema",
               "title": ""
             }
           },
           "title4": "Tekinah Postema",
-          "subtitle4": "tpostema@rmckenna.org",
-          "caption4": "LE Teacher<br>",
+          "subtitle4": "<a href=\"mailto:tpostema@rmckenna.org\">tpostema@rmckenna.org</a>",
+          "caption4": "Lower Elementary Teacher<br>",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -4401,18 +4401,18 @@
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/barbara-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/karachristiansen-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Kara Christiansen",
               "title": ""
             }
           },
-          "title1": "Barbara Kerbyson",
-          "subtitle1": "bkerbyson@rmckenna.org",
-          "caption1": "Teacher's Aide",
+          "title1": "Kara Christiansen",
+          "subtitle1": "<a href=\"mailto:kchristiansen@rmckenna.org\">kchristiansen@rmckenna.org</a>",
+          "caption1": "Lower Elementary Teacher's Aide",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -4459,18 +4459,18 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/samantha-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/amberbanta-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Amber Banta",
               "title": ""
             }
           },
-          "title2": "Samantha Trombly",
-          "subtitle2": "strombly@rmckenna.org",
-          "caption2": "LE Teacher",
+          "title2": "Amber Banta",
+          "subtitle2": "<a href=\"mailto:abanta@rmckenna.org\">abanta@rmckenna.org</a>",
+          "caption2": "Lower Elementary Teacher<br><b><a href=\"https://sites.google.com/view/le3msamber/home\">Teacher's Website</a></b>",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -4517,18 +4517,18 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/heather-3-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/juliekellam-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Julie Kellam",
               "title": ""
             }
           },
-          "title3": "Heather Sayer",
-          "subtitle3": "hsayer@rmckenna.org",
-          "caption3": "LE Teacher's Aide<br>with Samantha",
+          "title3": "Julie Kellam&nbsp;",
+          "subtitle3": "<a href=\"mailto:jkellam@rmckenna.org\">jkellam@rmckenna.org</a>",
+          "caption3": "Lower Elementary Teacher's Aide<br><b><a href=\"https://sites.google.com/view/le3msamber/home\">Teacher's Website</a></b>",
           "media3_1": {
             "iconFont": {
               "active": true,
@@ -4575,18 +4575,18 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hanna-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/stephaniehansen-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Stephanie Hansen",
               "title": ""
             }
           },
-          "title4": "Hanna Rightmeier",
-          "subtitle4": "srightmeier@rmckenna.org",
-          "caption4": "LE Teacher",
+          "title4": "Stephanie Hansen&nbsp;",
+          "subtitle4": "<a href=\"mailto:shansen@rmckenna.org\">shansen@rmckenna.org</a><br>",
+          "caption4": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/ue1/home\">Teacher's Website</a></b>",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -4752,6 +4752,766 @@
             "ShowTexts": true,
             "showIcons": false,
             "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jennhawkins-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Jenn Hawkins",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sarahveal-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Sarah Veal",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/debbiepierson-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Debbie Pierson",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ambreenglish-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Ambre English",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "/addons/mobirise3-blocks/components/_images/face3.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "/addons/mobirise3-blocks/components/_images/face4.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title": "OUR TEAM",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "title1": "Jenn Hawkins",
+          "subtitle1": "",
+          "caption1": "Upper Elementary Teacher's Aide",
+          "title2": "Sarah Veal",
+          "subtitle2": "<a href=\"mailto:sveal@rmckenna.org\">sveal@rmckenna.org</a><br>",
+          "caption2": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/miss-sarah-and-miss-debbie/home\">Teacher's Website</a></b><br>",
+          "title3": "Debbie Pierson&nbsp;",
+          "subtitle3": "<a href=\"mailto:dpierson@rmckenna.org\">dpierson@rmckenna.org</a>",
+          "caption3": "Upper Elementary Teacher's Aide<br><b><a href=\"https://sites.google.com/rmckenna.org/miss-sarah-and-miss-debbie/home\">Teacher's Website</a></b><br>",
+          "title4": "Ambre English",
+          "subtitle4": "<a href=\"mailto:aenglish@rmckenna.org\">aenglish@rmckenna.org</a><br>",
+          "caption4": "Kindergarten Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/rmcmsk2021/home\">Teacher's Website</a></b><br><br>",
+          "title5": "James Evans",
+          "subtitle5": "Sales",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Daniel Walker",
+          "subtitle6": "Founder",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-5c"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aunapierce-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Auna Pierce",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/benjaminrayfield-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Benjamin Rayfield",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hannahriensch-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Hannah Riensch",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/barbkerbyson-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Barb Kerbyson",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title": "Montessori Staff",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "title1": "Auna Pierce",
+          "subtitle1": "<a href=\"mailto:apierce@rmckenna.org\">apierce@rmckenna.org</a>",
+          "caption1": "Kindergarten Teacher's Aide",
+          "title2": "Benjamin Rayfield",
+          "subtitle2": "<a href=\"mailto:brayfield@rmckenna.org\">brayfield@rmckenna.org</a><br>",
+          "caption2": "Junior High Math and Language Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/mrrayfieldsclassroom/home\">Teacher's Website</a></b>",
+          "title3": "Hannah Riensch",
+          "subtitle3": "<a href=\"mailto:hriensch@rmckenna.org\">hriensch@rmckenna.org</a><br>",
+          "caption3": "Junior High Science and Social Studies Interim Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/mshannahscience-socialstudies/home\">Teacher's Website</a></b><br>",
+          "title4": "Barb Kerbyson",
+          "subtitle4": "<a href=\"mailto:bkerbyson@rmckenna.org\">bkerbyson@rmckenna.org</a>",
+          "caption4": "Teacher's Aide<br>",
+          "title5": "Stephanie Hansen",
+          "subtitle5": "shansen@rmckenna.org",
+          "caption5": "Math Classroom Aide",
+          "title6": "Danette Riley",
+          "subtitle6": "driley@rmckenna.org",
+          "caption6": "On Campus Receptionist",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-5e"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": "0",
             "paddingBottom": "4",
             "columns": "4",
             "bgImageRadio": false,
@@ -4769,34 +5529,34 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/amber-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jennparkinson-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo  of Jenn Parkinson",
               "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jennifer-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kristinflack-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of Kristin Flack",
               "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pj-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/pjwadas-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
+              "alt": "Photo of PJ Wadas",
               "title": ""
             }
           },
@@ -4829,15 +5589,15 @@
           },
           "title": "OUR TEAM",
           "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
-          "title1": "Amber Banta",
-          "subtitle1": "abanta@rmckenna.org",
-          "caption1": "LE Teacher's Aide<br>with Hanna",
-          "title2": "Jennifer Garvey",
-          "subtitle2": "jgarvey@rmckenna.org",
-          "caption2": "Special Education",
+          "title1": "Jenn Parkinson",
+          "subtitle1": "<a href=\"mailto:jparkinson@rmckenna.org\">jparkinson@rmckenna.org</a>",
+          "caption1": "Special Education",
+          "title2": "Kristin Flack",
+          "subtitle2": "<a href=\"mailto:kflack@rmckenna.org\">kflack@rmckenna.org</a>",
+          "caption2": "Reading Interventionist",
           "title3": "PJ Wadas",
-          "subtitle3": "pjwadas@rmckenna.org",
-          "caption3": "Receptionist",
+          "subtitle3": "<a href=\"mailto:montessori@rmckenna.org\">montessori@rmckenna.org</a>",
+          "caption3": "Secretary",
           "title4": "&nbsp;&nbsp;",
           "subtitle4": "&nbsp;",
           "caption4": "&nbsp; &nbsp;",
