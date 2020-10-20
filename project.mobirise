@@ -25,7 +25,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 196,
     "versionPublish": "4.11.4",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/gmail-addon-icon-20x20.png",
     "noImageResize": "",
     "google-analytics": "",
     "path": "@PROJECT_PATH@",
