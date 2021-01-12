@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 196,
+    "uniqCompNum": 197,
     "versionPublish": "4.11.4",
     "favicon": "@PROJECT_PATH@/assets/images/gmail-addon-icon-20x20.png",
     "noImageResize": "",
@@ -109,6 +109,58 @@
           "_name": "header3",
           "_anchor": "header3-4c",
           "_customCSS": "h3.display-2 { font-size: 1.6em; }"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#a38f84",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/coed-grads-steps-400x267.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Last days of Registration<br>For 2020-21",
+          "text": "Free online courses from local teachers.<br><br><b>Registration is closing. New Students Must:</b><br>- Begin registration by Wednesday afternoon (Febuary 10th)<br>- Complete registration by Friday afternoon (Febuary 12th)<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-5g"
         },
         {
           "_params": {
