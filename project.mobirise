@@ -117,58 +117,6 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#a38f84",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coed-grads-steps-400x267.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Last days of Registration<br>For 2020-21",
-          "text": "Free online courses from local teachers.<br><br><b>Registration is closing. New Students must</b><br>complete registration by Wednesday Febuary 10th<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-5g"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
@@ -1154,55 +1102,6 @@
           "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"online.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">ONLINE HS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"online.html\">Online High School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"summerschool.html\">Summer School</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"onlinehandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/OnlineCalendar20-21.pdf\" target=\"_blank\">2020-21 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"oncampus.html\" aria-expanded=\"false\">HS CAMPUS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/RichardMcKenna_OnsiteHS_Back_to_School_Plan.pdf\">2020 Back to school plan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampus.html\">High School - Mountain Home Campus</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampushandbook.html\">Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"oncampusstaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/OnCampusCalendar20-21.pdf\" target=\"_blank\">2020-21 School Calendar</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"montessori.html\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">K-8 CAMPUS</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/K-8_Covid19_plan.pdf\" target=\"_blank\">2020 COVID-19 Plan</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessori.html\">Kindergarten through 8th - Mountain Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"montessoristaff.html\">Staff</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/RichardMcKenna_Elementary_ParentHandbook_2020-21.pdf\">Elementary Parent Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/RichardMcKenna_JrHigh_ParentHandbook_2020-21.pdf\">Jr High Parent Handbook</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"assets/files/MontessoriCalendar20-21.pdf\" target=\"_blank\">2020-21 School Calendar</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"charter.html\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"employment.html\">Employment</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"charter.html\">Public Documents</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contact.html\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://app.rmckenna.org/app/\">LOGIN</a></li>"
         },
         {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "4",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/desktop.jpg"
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Register now for Online High School",
-          "text": "For those that are new, give us a call, try out the demo, and enjoy a high school that's designed to be at-home. &nbsp;We've been improving our program longer than any other school in the Northwest has been online.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-52"
-        },
-        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -1684,7 +1583,7 @@
             "paddingBottom": "5",
             "bgColor": "#fff"
           },
-          "text": "<p>See Substitute Teacher position above in general openings.</p><p><br></p><p><br></p><p><b>Upper Elementary Teacher</b> &nbsp; &nbsp; <a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=187&amp;ref=\">&nbsp;-- apply online --</a></p><p><br></p><p>Richard McKenna Charter School, located in Mountain Home, Idaho, is seeking an individual who is highly motivated and interested in working in a highly positive environment to provide Montessori education. \n</p><p>\n</p><p>Montessori is a method of education that is based on self-directed activity, hands-on learning and collaborative play. In Montessori classrooms children make creative choices in their learning, while the classroom and the highly trained teacher offer age-appropriate activities to guide the process.\n</p><p>\n</p><p><br></p><p>\n</p><p>Successful applicants must be Idaho Certified. Classroom teachers must be willing to become Montessori certified by participating in an online Montessori training program. \n</p><p>\n</p><p>Please provide the following for consideration in the posted position.\n</p><p>1. Letter of Application/Interest\n</p><p>2. Application online - https://www.applitrack.com/rmckenna/onlineapp/\n</p><p>3. Authorization for Release of Information on Past Employment with School Employers Idaho Code 33-1210 \n</p><p>4. Resume\n</p><p>5. Copies of Transcripts\n</p><p>6. Placement File or Three Letters of Recommendation\n</p><p>7. Copy of Current Teaching Certificate\n</p><p>\n</p><p>Please direct questions to Dennis Wilson, Superintendent, by calling (208) 580-2449 or email him at dwilson@rmckenna.org.\n</p><p><br></p><p><br></p><p><b>Junior High Instructor</b> &nbsp; &nbsp; &nbsp;<a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=185&amp;ref=\">-- apply online --</a></p><p><br></p><p>\n</p><p>Richard McKenna Charter Schools is seeking teachers who want to be inventive, creative and work in an extremely positive environment. If you are that person then Richard McKenna Charter Schools is the place for you. The program is a project-based learning approach. The teacher will work with students in all the core subject areas, as well as other content. The staff are all excellent instructors and a great positive environment with lots of support exist in the school.  The Junior High classes will have no more than 24 students.</p><p><br></p><p> \n</p><p>\n</p><p>We are seeking candidates with the following qualifications and interests:</p><p>•\tHold a valid Idaho Educator license for grades K-8 or 6-12 Certifications with multiple endorsements.\n</p><p>•\tWilling and dedicated to creating a top-notch project-based learning program for middle school students.\n</p><p>•\tDedication to providing a safe, respectful, and welcoming learning environment for students.\n</p><p>•\tCommitment to the success of ALL students and ability to understand and teach to the various learning styles of students.\n</p><p>•\tAbility to integrate technology into a blended class environment.\n</p><p>•\tDemonstrates knowledge and understanding of the student population served and how demographic variables influences student achievement, and effectively uses this knowledge to design and delivery instruction.\n</p><p>•\tThe ability to effectively engage students in goal-setting and reflecting on their learning.\n</p><p>•\tDemonstrates knowledge and expertise in multiple content and pedagogy.\n</p><p>•\tAbility to develop and integrate project-based learning and to target rigorous learning and problem-solving skills.\n</p><p>•\tKnowledge and/or experience using “backwards design” for lesson development, differentiated instruction to support all students, and formative assessment to provide student feedback and to adjust lesson delivery.\n</p><p>•\tExcellent teaching, organization, planning, written and oral communication, and collaboration skills.\n</p><p>•\tEffectively integrates transferable skills into the learning environment.\n</p><p>•\tCommitment to continuous improvement in the areas of content and pedagogical knowledge and professional practice\n</p><p><br></p><p>Please provide the following for consideration in the posted position.\r</p><p>1. Letter of Application/Interest\r</p><p>2. Application for Employment - https://www.applitrack.com/rmckenna/onlineapp/ \r</p><p>3. Authorization for Release of Information on Past Employment with School Employers Idaho Code 33-1210 \r</p><p>4. Resume\r</p><p>5. Copies of Transcripts\r</p><p>6. Placement File or Three Letters of Recommendation\r</p><p>7. Copy of Current Teaching Certificate\r</p><p><br></p><p>\n</p><p>Direct any question to Dennis Wilson, Superintendent. Contact by phone (208) 580-2449 or email: dwilson@rmckenna.org\n</p><p><br></p><p>All applications are to be submitted through the District’s <a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=185&amp;ref=\">Applitrack</a> online application program.</p>",
+          "text": "<p>See Substitute Teacher position above in general openings.</p><p><br></p><p><br></p><p><b>Upper Elementary Teacher</b>&nbsp; &nbsp; &nbsp; &nbsp; <a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=187&amp;ref=\">-- apply online --</a></p><p><br></p><p>Richard McKenna Charter School, located in Mountain Home, Idaho, is seeking an individual who is highly motivated and interested in working in a highly positive environment to provide Montessori education.</p><p>Montessori is a method of education that is based on self-directed activity, hands-on learning and collaborative play. In Montessori classrooms children make creative choices in their learning, while the classroom and the highly trained teacher offer age-appropriate activities to guide the process.</p><p><br></p><p>Successful applicants must be Idaho Certified. Classroom teachers must be willing to become Montessori certified by participating in an online Montessori training program.</p><p>Please provide the following for consideration in the posted position.</p><p>1. Letter of Application/Interest</p><p>2. Application online - https://www.applitrack.com/rmckenna/onlineapp/</p><p>3. Authorization for Release of Information on Past Employment with School Employers Idaho Code 33-1210</p><p>4. Resume</p><p>5. Copies of Transcripts</p><p>6. Placement File or Three Letters of Recommendation</p><p>7. Copy of Current Teaching Certificate</p><p>Please direct questions to Dennis Wilson, Superintendent, by calling (208) 580-2449 or email him at dwilson@rmckenna.org.</p><p><br></p><p><br></p><p><b>Junior High Instructor</b> &nbsp; &nbsp; &nbsp;<a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=185&amp;ref=\">-- apply online --</a></p><p><br></p><p>Richard McKenna Charter Schools is seeking teachers who want to be inventive, creative and work in an extremely positive environment. If you are that person then Richard McKenna Charter Schools is the place for you. The program is a project-based learning approach. The teacher will work with students in all the core subject areas, as well as other content. The staff are all excellent instructors and a great positive environment with lots of support exist in the school. The Junior High classes will have no more than 24 students.</p><p><br></p><p>We are seeking candidates with the following qualifications and interests:</p><p>• Hold a valid Idaho Educator license for grades K-8 or 6-12 Certifications with multiple endorsements.</p><p>• Willing and dedicated to creating a top-notch project-based learning program for middle school students.</p><p>• Dedication to providing a safe, respectful, and welcoming learning environment for students.</p><p>• Commitment to the success of ALL students and ability to understand and teach to the various learning styles of students.</p><p>• Ability to integrate technology into a blended class environment.</p><p>• Demonstrates knowledge and understanding of the student population served and how demographic variables influences student achievement, and effectively uses this knowledge to design and delivery instruction.</p><p>• The ability to effectively engage students in goal-setting and reflecting on their learning.</p><p>• Demonstrates knowledge and expertise in multiple content and pedagogy.</p><p>• Ability to develop and integrate project-based learning and to target rigorous learning and problem-solving skills.</p><p>• Knowledge and/or experience using “backwards design” for lesson development, differentiated instruction to support all students, and formative assessment to provide student feedback and to adjust lesson delivery.</p><p>• Excellent teaching, organization, planning, written and oral communication, and collaboration skills.</p><p>• Effectively integrates transferable skills into the learning environment.</p><p>• Commitment to continuous improvement in the areas of content and pedagogical knowledge and professional practice</p><p><br></p><p>Please provide the following for consideration in the posted position.</p><p>1. Letter of Application/Interest</p><p>2. Application for Employment - https://www.applitrack.com/rmckenna/onlineapp/</p><p>3. Authorization for Release of Information on Past Employment with School Employers Idaho Code 33-1210</p><p>4. Resume</p><p>5. Copies of Transcripts</p><p>6. Placement File or Three Letters of Recommendation</p><p>7. Copy of Current Teaching Certificate</p><p><br></p><p>\n</p><p>Direct any question to Dennis Wilson, Superintendent. Contact by phone (208) 580-2449 or email: dwilson@rmckenna.org\n</p><p><br></p><p>All applications are to be submitted through the District’s <a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=185&amp;ref=\">Applitrack</a> online application program.</p>",
           "_tags": [
             "Theme"
           ],
