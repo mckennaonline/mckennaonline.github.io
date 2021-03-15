@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "montessori.html",
+    "currentPage": "catalog.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -6947,7 +6947,7 @@
           "_anchor": "custom-html-4e",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script>\n(sections => {\n\tfor (let i=0; i<sections.length; i++) {\n    \tsections[i].className = sections[i].className.replace(\"extTable1\",\"overridden-extTable1\")\n\t}\n})(document.getElementsByTagName(\"section\"))\n    \ndocument.addEventListener(\"DOMContentLoaded\", function(event) { \n\t$(\"section.overridden-extTable1\")\n      .addClass(\"extTable1\")\n      .find(\".table\").DataTable({\n\t\tretrieve: true,\n\t\tpaging: false,\n\t\taaSorting: [],\n\t\tscrollX: true,\n\t\tsearching: true,\n\t\tinfo: true,\n\t\tlanguage:{\n\t\t\tsearch: \"Search:\",\n\t\t\tinfo: \"Showing _END_ courses\",\n\t\t\tinfoEmpty: \"Showing _END_ courses\",\n\t\t\tinfoFiltered: \"(filtered from _MAX_ total courses)\"\n\t\t},\n        \"ajax\": {\n            \"url\": \"https://app.rmckenna.org/app/databind.cfm?include=coursecatalog\",\n            \"dataType\": \"jsonp\"\n        }\t\t\n\t})\n});\n</script>"
+            "<script>\n(sections => {\n\tfor (let i=0; i<sections.length; i++) {\n    \tsections[i].className = sections[i].className.replace(\"extTable1\",\"overridden-extTable1\")\n\t}\n})(document.getElementsByTagName(\"section\"))\n    \ndocument.addEventListener(\"DOMContentLoaded\", function(event) { \n\t$(\"section.overridden-extTable1\")\n      .addClass(\"extTable1\")\n      .find(\".table\").DataTable({\n\t\tretrieve: true,\n\t\tpaging: false,\n\t\taaSorting: [],\n\t\tscrollX: true,\n\t\tsearching: true,\n\t\tinfo: true,\n\t\tlanguage:{\n\t\t\tsearch: \"Search:\",\n\t\t\tinfo: \"Showing _END_ courses\",\n\t\t\tinfoEmpty: \"Showing _END_ courses\",\n\t\t\tinfoFiltered: \"(filtered from _MAX_ total courses)\"\n\t\t},\n        \"ajax\": {\n            \"url\": \"https://app.rmckenna.org/app/databind.cfm?include=coursecatalog&_\" + new Date().getTime(),\n            \"dataType\": \"jsonp\"\n        }\t\t\n\t})\n});\n</script>"
           ]
         },
         {
