@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "online.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -155,7 +155,7 @@
           },
           "title": "Registration Open<br>For Online Classes",
           "text": "Free online courses from local teachers<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Click Here to register. &nbsp;New? Click the 'New Student' button on the login form</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Click Here to enroll.<br>New? Click the 'New Student' button on the login form</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1143,7 +1143,7 @@
           },
           "title": "Registration is Open",
           "text": "Free online courses from local teachers<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Login Here. &nbsp;You can also visit as a guest, or select 'New Student' to get started</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Login Here. <br>You can also visit as a guest,<br>or select 'New Student' to get started</a> ",
           "_tags": [
             "Theme"
           ],
