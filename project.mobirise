@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 204,
+    "uniqCompNum": 205,
     "versionPublish": "4.11.4",
     "favicon": "@PROJECT_PATH@/assets/images/gmail-addon-icon-20x20.png",
     "noImageResize": "",
@@ -153,9 +153,9 @@
               "size": 0
             }
           },
-          "title": "Registration<br>Opens Aug 2nd",
+          "title": "Registration Open<br>For Online Classes",
           "text": "Free online courses from local teachers<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Visitors, Login as Guest to View a Demo</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Click Here to register. &nbsp;New? Click the 'New Student' button on the login form</a> ",
           "_tags": [
             "Theme"
           ],
@@ -1141,9 +1141,9 @@
               "size": 0
             }
           },
-          "title": "Registration<br>Opens Aug 2nd",
+          "title": "Registration is Open",
           "text": "Free online courses from local teachers<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Visitors, Login as Guest to View a Demo</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Login Here. &nbsp;You can also visit as a guest, or select 'New Student' to get started</a> ",
           "_tags": [
             "Theme"
           ],
