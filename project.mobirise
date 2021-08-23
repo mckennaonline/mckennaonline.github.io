@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "montessoristaff.html",
+    "currentPage": "oncampusstaff.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3671,18 +3671,18 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Stephanie Hansen",
+              "alt": "Photo of Nickolas Triska",
               "title": ""
             }
           },
-          "title4": "Stephanie Hansen",
-          "subtitle4": "<a href=\"mailto:shansen@rmckenna.org\">shansen@rmckenna.org</a>",
-          "caption4": "Math",
+          "title4": "Nickolas Triska",
+          "subtitle4": "<a href=\"mailto:ntriska@rmckenna.org\">ntriska@rmckenna.org</a>",
+          "caption4": "Science",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -3787,7 +3787,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9186-sq-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3895,14 +3895,13 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Danette Riley",
-              "title": "",
-              "linkInNewWindow": false
+              "alt": "Photo of Erin Hartman",
+              "title": ""
             }
           },
           "media4": {
@@ -3930,7 +3929,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9186-sq-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3948,9 +3947,9 @@
           "title2": "Chad Wallace",
           "subtitle2": "cwallace@rmckenna.org",
           "caption2": "Spanish, Health, Social Studies",
-          "title3": "Danette Riley",
-          "subtitle3": "driley@rmckenna.org",
-          "caption3": "On Campus Receptionist",
+          "title3": "Erin Hartman",
+          "subtitle3": "<a href=\"mailto:erinhartman@rmckenna.org\">erinhartman@rmckenna.org</a>",
+          "caption3": "On Campus Secretary",
           "title4": "",
           "subtitle4": "",
           "caption4": "",
@@ -4639,7 +4638,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9154-sq-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -4698,7 +4697,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9186-sq-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5579,7 +5578,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9154-sq-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5591,7 +5590,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9186-sq-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -6350,7 +6349,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/_dsc9186-sq-1-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
