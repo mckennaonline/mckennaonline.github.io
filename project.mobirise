@@ -3671,7 +3671,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "src": "@PROJECT_PATH@/assets/images/nicolastriska-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -3895,7 +3895,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "src": "@PROJECT_PATH@/assets/images/erinhartman-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
