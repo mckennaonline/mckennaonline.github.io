@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "oncampusstaff.html",
+    "currentPage": "montessoristaff.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 205,
+    "uniqCompNum": 206,
     "versionPublish": "4.11.4",
     "favicon": "@PROJECT_PATH@/assets/images/gmail-addon-icon-20x20.png",
     "noImageResize": "",
@@ -4476,7 +4476,7 @@
           },
           "title2": "Sam Trombly",
           "subtitle2": "<a href=\"mailto:strombly@rmckenna.org\">strombly@rmckenna.org</a><br>",
-          "caption2": "Lower Elementary Lead Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/le1/home\">Teacher's Website</a></b><br>",
+          "caption2": "Primary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/le1/home\">Teacher's Website</a></b><br>",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -4534,7 +4534,7 @@
           },
           "title3": "Heather Sayer",
           "subtitle3": "<a href=\"mailto:hsayer@rmckenna.org\">hsayer@rmckenna.org</a>",
-          "caption3": "Lower Elementary Teacher's Aide<br><b><a href=\"https://sites.google.com/rmckenna.org/le1/home\">Teacher's Website</a></b><br>",
+          "caption3": "Primary Assistant<br><b><a href=\"https://sites.google.com/rmckenna.org/le1/home\">Teacher's Website</a></b><br>",
           "media3_1": {
             "iconFont": {
               "active": true,
@@ -4581,18 +4581,18 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tekinahpostema-531x531.png",
+              "src": "@PROJECT_PATH@/assets/images/ambreenglish-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Tekinah Postema",
+              "alt": "Photo of Ambre English",
               "title": ""
             }
           },
-          "title4": "Tekinah Postema",
-          "subtitle4": "<a href=\"mailto:tpostema@rmckenna.org\">tpostema@rmckenna.org</a>",
-          "caption4": "Lower Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/le2/home\">Teacher's Website</a></b>",
+          "title4": "Ambre English",
+          "subtitle4": "<a href=\"mailto:aenglish@rmckenna.org\">aenglish@rmckenna.org</a><br>",
+          "caption4": "Primary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/rmcmsk2021/home\">Teacher's Website</a></b><br><br>",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -4650,7 +4650,7 @@
             }
           },
           "title5": "Stephanie Hansen",
-          "subtitle5": "shansen@rmckenna.org",
+          "subtitle5": "",
           "caption5": "Math Classroom Aide",
           "media5_1": {
             "iconFont": {
@@ -4709,7 +4709,7 @@
             }
           },
           "title6": "Danette Riley",
-          "subtitle6": "driley@rmckenna.org",
+          "subtitle6": "",
           "caption6": "On Campus Receptionist",
           "media6_1": {
             "iconFont": {
@@ -4787,22 +4787,22 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "OUR TEAM",
+          "title": "Staff Row 2",
           "subtitle": "",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/karachristiansen-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Kara Christiansen",
+              "alt": "Photo of Daina Larimer",
               "title": ""
             }
           },
-          "title1": "Kara Christiansen",
-          "subtitle1": "<a href=\"mailto:kchristiansen@rmckenna.org\">kchristiansen@rmckenna.org</a>",
-          "caption1": "Lower Elementary Teacher's Aide",
+          "title1": "Daina Larimer",
+          "subtitle1": "<a href=\"mailto:dlarimer@rmckenna.org\">dlarimer@rmckenna.org&nbsp;</a>",
+          "caption1": "Primary Assistant",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -4849,18 +4849,18 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/amberbanta-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/tekinahpostema-531x531.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Amber Banta",
+              "alt": "Photo of Tekinah Postema",
               "title": ""
             }
           },
-          "title2": "Amber Banta",
-          "subtitle2": "<a href=\"mailto:abanta@rmckenna.org\">abanta@rmckenna.org</a>",
-          "caption2": "Lower Elementary Teacher<br><b><a href=\"https://sites.google.com/view/le3msamber/home\">Teacher's Website</a></b>",
+          "title2": "Tekinah Postema",
+          "subtitle2": "<a href=\"mailto:tpostema@rmckenna.org\">tpostema@rmckenna.org</a>",
+          "caption2": "Lower Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/le2/home\">Teacher's Website</a></b>",
           "media2_1": {
             "iconFont": {
               "active": true,
@@ -4907,18 +4907,18 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/juliekellam-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/kristinflack-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Julie Kellam",
+              "alt": "Photo of Kristin Flack",
               "title": ""
             }
           },
-          "title3": "Julie Kellam&nbsp;",
-          "subtitle3": "<a href=\"mailto:jkellam@rmckenna.org\">jkellam@rmckenna.org</a>",
-          "caption3": "Lower Elementary Teacher's Aide<br><b><a href=\"https://sites.google.com/view/le3msamber/home\">Teacher's Website</a></b>",
+          "title3": "Kristin Flack",
+          "subtitle3": "<a href=\"mailto:kflack@rmckenna.org\">kflack@rmckenna.org</a>",
+          "caption3": "Lower Elementary Assistant",
           "media3_1": {
             "iconFont": {
               "active": true,
@@ -4965,18 +4965,18 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stephaniehansen-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/amberbanta-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Stephanie Hansen",
+              "alt": "Photo of Amber Banta",
               "title": ""
             }
           },
-          "title4": "Stephanie Hansen&nbsp;",
-          "subtitle4": "<a href=\"mailto:shansen@rmckenna.org\">shansen@rmckenna.org</a><br>",
-          "caption4": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/ue1/home\">Teacher's Website</a></b>",
+          "title4": "Amber Banta",
+          "subtitle4": "<a href=\"mailto:abanta@rmckenna.org\">abanta@rmckenna.org</a>",
+          "caption4": "Lower Elementary Teacher<br><b><a href=\"https://sites.google.com/view/le3msamber/home\">Teacher's Website</a></b>",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -5031,7 +5031,7 @@
           },
           "title5": "James Evans",
           "subtitle5": "Sales",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "",
           "media5_1": {
             "iconFont": {
               "active": true,
@@ -5086,7 +5086,7 @@
           },
           "title6": "Daniel Walker",
           "subtitle6": "Founder",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "",
           "media6_1": {
             "iconFont": {
               "active": true,
@@ -5159,7 +5159,29 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/jennhawkins-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Alison Koellner",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/stephaniehansen-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Stephanie Hansen",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5168,36 +5190,14 @@
               "title": ""
             }
           },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/sarahveal-480x480.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Photo of Sarah Veal",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/debbiepierson-480x480.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Photo of Debbie Pierson",
-              "title": ""
-            }
-          },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ambreenglish-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Ambre English",
+              "alt": "Photo of Rachel Frahs",
               "title": ""
             }
           },
@@ -5217,26 +5217,26 @@
               "active": true
             }
           },
-          "title": "OUR TEAM",
+          "title": "Staff Row 3",
           "subtitle": "",
-          "title1": "Jenn Hawkins",
-          "subtitle1": "",
-          "caption1": "Upper Elementary Teacher's Aide",
-          "title2": "Sarah Veal",
-          "subtitle2": "<a href=\"mailto:sveal@rmckenna.org\">sveal@rmckenna.org</a><br>",
-          "caption2": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/miss-sarah-and-miss-debbie/home\">Teacher's Website</a></b><br>",
-          "title3": "Debbie Pierson&nbsp;",
-          "subtitle3": "<a href=\"mailto:dpierson@rmckenna.org\">dpierson@rmckenna.org</a>",
-          "caption3": "Upper Elementary Teacher's Aide<br><b><a href=\"https://sites.google.com/rmckenna.org/miss-sarah-and-miss-debbie/home\">Teacher's Website</a></b><br>",
-          "title4": "Ambre English",
-          "subtitle4": "<a href=\"mailto:aenglish@rmckenna.org\">aenglish@rmckenna.org</a><br>",
-          "caption4": "Kindergarten Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/rmcmsk2021/home\">Teacher's Website</a></b><br><br>",
+          "title1": "Alison Koellner",
+          "subtitle1": "<a href=\"mailto:akoellner@rmckenna.org\">akoellner@rmckenna.org</a>",
+          "caption1": "Lower Elementary Assistant",
+          "title2": "Stephanie Hansen&nbsp;",
+          "subtitle2": "<a href=\"mailto:jhawkins@rmckenna.org\">jhawkins@rmckenna.org</a><br>",
+          "caption2": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/ue1/home\">Teacher's Website</a></b>",
+          "title3": "Jenn Hawkins",
+          "subtitle3": "<a href=\"mailto:jhawkins@rmckenna.org\">jhawkins@rmckenna.org&nbsp;</a>",
+          "caption3": "Upper Elementary Assistant",
+          "title4": "Rachel Frahs",
+          "subtitle4": "<a href=\"mailto:rfrahs@rmckenna.org\">rfrahs@rmckenna.org</a>",
+          "caption4": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/msrachelsupperelementary/home\">Teacher's Website</a></b><br>",
           "title5": "James Evans",
           "subtitle5": "Sales",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "",
           "title6": "Daniel Walker",
           "subtitle6": "Founder",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -5535,45 +5535,45 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/aunapierce-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Auna Pierce",
+              "alt": "Photo of Sharelle Rose",
               "title": ""
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/benjaminrayfield-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/sarahveal-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Benjamin Rayfield",
+              "alt": "Photo of Sarah Veal",
               "title": ""
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/hannahriensch-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/debbiepierson-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Hannah Riensch",
+              "alt": "Photo of Debbie Pierson",
               "title": ""
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/barbkerbyson-480x480.png",
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Barb Kerbyson",
+              "alt": "Photo of Kelly Love",
               "title": ""
             }
           },
@@ -5601,20 +5601,20 @@
               "linkInNewWindow": false
             }
           },
-          "title": "Montessori Staff",
+          "title": "Staff Row 4",
           "subtitle": "",
-          "title1": "Auna Pierce",
-          "subtitle1": "<a href=\"mailto:apierce@rmckenna.org\">apierce@rmckenna.org</a>",
-          "caption1": "Kindergarten Teacher's Aide",
-          "title2": "Benjamin Rayfield",
-          "subtitle2": "<a href=\"mailto:brayfield@rmckenna.org\">brayfield@rmckenna.org</a><br>",
-          "caption2": "Junior High Math and Language Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/mrrayfieldsclassroom/home\">Teacher's Website</a></b>",
-          "title3": "Hannah Riensch",
-          "subtitle3": "<a href=\"mailto:hriensch@rmckenna.org\">hriensch@rmckenna.org</a><br>",
-          "caption3": "Junior High Science and Social Studies Interim Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/mshannahscience-socialstudies/home\">Teacher's Website</a></b><br>",
-          "title4": "Barb Kerbyson",
-          "subtitle4": "<a href=\"mailto:bkerbyson@rmckenna.org\">bkerbyson@rmckenna.org</a>",
-          "caption4": "Teacher's Aide<br>",
+          "title1": "Sharelle Rose",
+          "subtitle1": "<a href=\"mailto:srose@rmckenna.org\">srose@rmckenna.org</a>",
+          "caption1": "Upper Elementary Assistant",
+          "title2": "Sarah Veal",
+          "subtitle2": "<a href=\"mailto:sveal@rmckenna.org\">sveal@rmckenna.org</a><br>",
+          "caption2": "Upper Elementary Teacher<br><b><a href=\"https://sites.google.com/rmckenna.org/miss-sarah-and-miss-debbie/home\">Teacher's Website</a></b><br>",
+          "title3": "Debbie Pierson",
+          "subtitle3": "<a href=\"mailto:dpierson@rmckenna.org\">dpierson@rmckenna.org</a>",
+          "caption3": "Upper Elementary Assistant",
+          "title4": "Kelly Love",
+          "subtitle4": "<a href=\"mailto:klove@rmckenna.org\">klove@rmckenna.org</a>",
+          "caption4": "Junior High Science and Math<br>",
           "title5": "Stephanie Hansen",
           "subtitle5": "shansen@rmckenna.org",
           "caption5": "Math Classroom Aide",
@@ -5902,7 +5902,7 @@
             "ShowTexts": true,
             "showIcons": false,
             "paddingTop": "0",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
@@ -5919,45 +5919,45 @@
           },
           "media1": {
             "image": {
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Rachael Rutland",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Victoria Bailey",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Julie Rice",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
               "src": "@PROJECT_PATH@/assets/images/jennparkinson-480x480.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
               "alt": "Photo  of Jenn Parkinson",
-              "title": ""
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/kristinflack-480x480.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Photo of Kristin Flack",
-              "title": ""
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pjwadas-480x480.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "Photo of PJ Wadas",
-              "title": ""
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nostaffpicture-600x600.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
               "title": ""
             }
           },
@@ -5977,26 +5977,26 @@
               "active": true
             }
           },
-          "title": "OUR TEAM",
+          "title": "Staff Row 5",
           "subtitle": "",
-          "title1": "Jenn Parkinson",
-          "subtitle1": "<a href=\"mailto:jparkinson@rmckenna.org\">jparkinson@rmckenna.org</a>",
-          "caption1": "Special Education",
-          "title2": "Kristin Flack",
-          "subtitle2": "<a href=\"mailto:kflack@rmckenna.org\">kflack@rmckenna.org</a>",
-          "caption2": "Reading Interventionist",
-          "title3": "PJ Wadas",
-          "subtitle3": "<a href=\"mailto:montessori@rmckenna.org\">montessori@rmckenna.org</a>",
-          "caption3": "Secretary",
-          "title4": "&nbsp;&nbsp;",
-          "subtitle4": "&nbsp;",
-          "caption4": "&nbsp; &nbsp;",
+          "title1": "Rachael Rutland",
+          "subtitle1": "<a href=\"mailto:rrutland@rmckenna.org\">rrutland@rmckenna.org</a>",
+          "caption1": "Junior High English and Social Studies<br><b><a href=\"https://sites.google.com/rmckenna.org/mrs-rutlands-english-language-/home?authuser=2\">Teacher's Website</a></b><br>",
+          "title2": "Victoria Bailey",
+          "subtitle2": "<a href=\"mailto:vbailey@rmckenna.org\">vbailey@rmckenna.org</a>",
+          "caption2": "Junior High Assistant",
+          "title3": "Julie Rice",
+          "subtitle3": "<a href=\"mailto:jrice@rmckenna.org\">jrice@rmckenna.org</a>",
+          "caption3": "School Counselor<br>District Testing Coordinator<br><b><a href=\"https://sites.google.com/rmckenna.org/richard-mckenna-counseling/resources\">Teacher's Website</a></b><br>",
+          "title4": "Jenn Parkinson",
+          "subtitle4": "<a href=\"mailto:jparkinson@rmckenna.org\">jparkinson@rmckenna.org</a>",
+          "caption4": "Special Education<br><b><a href=\"https://sites.google.com/rmckenna.org/special-education-with-ms-jenn/home\">Teacher's Website</a></b>",
           "title5": "James Evans",
           "subtitle5": "Sales",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "caption5": "",
           "title6": "Daniel Walker",
           "subtitle6": "Founder",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "caption6": "",
           "media1_1": {
             "iconFont": {
               "active": true,
@@ -6267,6 +6267,389 @@
           ],
           "_name": "extFeatures9",
           "_anchor": "extFeatures9-4t"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false,
+            "paddingTop": "0",
+            "paddingBottom": "4",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "/addons/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/aunapierce-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Auna Pierce",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hannahriensch-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Hannah English-Smith",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nopicture-528x528.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of Jordan Cox",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pjwadas-480x480.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Photo of PJ Wadas",
+              "title": ""
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/jennifer-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/-dsc9186-sq-1-600x600.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title": "Staff Row 6",
+          "subtitle": "This theme is based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework.",
+          "title1": "Auna Pierce",
+          "subtitle1": "<a href=\"mailto:apierce@rmckenna.org\">apierce@rmckenna.org</a>",
+          "caption1": "Special Education Assistant",
+          "title2": "Hannah English-Smith",
+          "subtitle2": "<a href=\"mailto:hriensch@rmckenna.org\">hriensch@rmckenna.org</a><br>",
+          "caption2": "Reading Interventionist<br><b><a href=\"https://sites.google.com/rmckenna.org/mshannahscience-socialstudies/home\">Teacher's Website</a></b><br>",
+          "title3": "Jordan Cox",
+          "subtitle3": "choudek@rmckenna.org",
+          "caption3": "Reading Interventionist",
+          "title4": "PJ Wadas",
+          "subtitle4": "<a href=\"mailto:montessori@rmckenna.org\">montessori@rmckenna.org</a>",
+          "caption4": "Secretary",
+          "title5": "Jennifer Garvey",
+          "subtitle5": "",
+          "caption5": "Special Education",
+          "title6": "Danette Riley",
+          "subtitle6": "",
+          "caption6": "On Campus Receptionist",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures9",
+          "_anchor": "extFeatures9-5p"
         },
         {
           "_tags": [
