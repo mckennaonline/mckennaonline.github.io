@@ -3671,18 +3671,18 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicolastriska-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "Photo of Nicolas Triska",
+              "alt": "Photo of Stephanie Hansen",
               "title": ""
             }
           },
-          "title4": "Nicolas Triska",
-          "subtitle4": "<a href=\"mailto:ntriska@rmckenna.org\">ntriska@rmckenna.org</a>",
-          "caption4": "Science",
+          "title4": "Stephanie Hansen",
+          "subtitle4": "<a href=\"mailto:shansen@rmckenna.org\">shansen@rmckenna.org</a>",
+          "caption4": "Math",
           "media4_1": {
             "iconFont": {
               "active": true,
@@ -4639,7 +4639,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/_dsc9154-sq-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -5579,7 +5579,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/_dsc9154-sq-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-dsc9154-sq-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
