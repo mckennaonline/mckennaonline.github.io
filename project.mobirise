@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "oncampusstaff.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -110,58 +110,6 @@
           "_name": "header3",
           "_anchor": "header3-4c",
           "_customCSS": "h3.display-2 { font-size: 1.6em; }"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#a38f84",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/mbr-2-1400x933.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "Teacher Assistant Opening for Montessori K-1",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=192&amp;ref=\" data-toolbar=\"-mbrBtnMove\">View Job Opening</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-5m"
         },
         {
           "_params": {
@@ -322,7 +270,7 @@
               "size": 0
             }
           },
-          "title": "Register Now for Online Classes<br>",
+          "title": "Register Today for Online Classes<br>",
           "text": "Free online courses from local teachers<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Click here to enroll as a 'New Student'<br>or 'Login as Guest' to view a demo</a> ",
           "_tags": [
@@ -330,66 +278,6 @@
           ],
           "_name": "msg-box5",
           "_anchor": "msg-box5-5q"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#000000",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/coed-grads-steps-400x267.jpg",
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "On Campus Registration Open<br>",
-          "text": "First day of school on campus in Mountain Home is August 10th.<br>Registration is online this year, click the button below to add/update your info and print some signature forms.<br><br>- New Students: Use the New Student button below the login form.<br>- Returning Students: Login with your student or parent login. &nbsp;(Trouble logging in? &nbsp;There's a Lost Password button below the login form)<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register Now</a> ",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_styles": {
-            "H3": {
-              "color": "#cccccc"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box5-5r"
         },
         {
           "_styles": {
@@ -1745,7 +1633,7 @@
             "paddingBottom": "5",
             "bgColor": "#fff"
           },
-          "text": "<p>See Substitute Teacher<span style=\"font-size: 1.07rem;\">&nbsp;position above in general openings.<br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br><b>Classroom Teacher Assistants for K-1 Classroom</b> &nbsp; &nbsp; &nbsp;<a href=\"https://www.applitrack.com/rmckenna/onlineapp/default.aspx?AppliTrackJobID=192&amp;ref=\">-- apply online --</a></span></p><p><span style=\"font-size: 1.07rem;\">Reports to: Lead Teacher \n</span></p><p><span style=\"font-size: 1.07rem;\">Compensation: compensation is hourly.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">The role of the Montessori Assistant is to assist the Lead Teacher in preparing and maintaining the environment in which the Montessori approach to education is implemented. Key Duties and Responsibilities Work collaboratively with staff to develop and implement a curriculum that follows the Montessori philosophy. Represent the school mission, vision and goals to parents and members of the community in a positive and supportive manner. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Assist Lead Teacher to prepare and maintain a clean, orderly and attractive Montessori classroom.\n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp;• Engage students in maintaining the indoor and outdoor environment as appropriate.</span><br></p><p><span style=\"font-size: 1.07rem;\">&nbsp;• Care for materials, keeping them complete, clean, beautiful, and accessible to children. \n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp;• Keep environment, storage area and supplies clean, neat and organized. \n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp;• Regularly rotate, update and expand materials to correspond to student needs. \n</span></p><p><span style=\"font-size: 1.07rem;\">&nbsp;• Make, repair and/or replace classroom materials as needed. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Share responsibility for the daily safety, well-being and supervision of students. Demonstrate respect, kindness and rapport with all students.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"> \n</span></p><p><span style=\"font-size: 1.07rem;\">Assist Lead Teacher to prepare for Parent Gatherings parents in the fall and spring of each year. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Assist in preparing written student evaluation of each child’s academic, social, and physical development to share with families during conferences. </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Respond promptly and professionally in communication with parents and staff. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Attend and participate in staff meetings, school events, field trips and training opportunities. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Assist with parent education and outreach, including monthly newsletter articles, blog posts, and parent education workshops. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Adhere to professional standards as an educator for the purpose of maintaining quality and excellence. Work with other staff to maintain professional relationships of support and respect. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Complete an annual evaluation and review with the Lead Teacher and Administration. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Be responsible for annual continuing education and professional development requirements. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Report all accidents or unusual situations to Directress and submit a dated Accident Report in student file. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Notify administration in a timely manner of personal or professional difficulties with school, families, students or staff, and work with them to resolve such problems. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Supervision:</span></p><p><span style=\"font-size: 1.07rem;\">The Montessori Assistant shall perform his/her duties subject to the general supervision and direction of the Lead Teacher, and shall abide by all reasonable rules, regulations and policies set forth in the Student and Staff Handbooks. \n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Character Qualities All staff members strive for the following characteristics in their work: excellence, competence, innovation, collaboration, respect, resourcefulness, flexibility and accountability.\n</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p>",
+          "text": "<p>See Substitute Teacher<span style=\"font-size: 1.07rem;\">&nbsp;position above in general openings.<br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p>",
           "_tags": [
             "Theme"
           ],
