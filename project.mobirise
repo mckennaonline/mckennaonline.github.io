@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "oncampusstaff.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -3613,7 +3613,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/calistahoudek-600x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/calista-houdek-600x600.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
