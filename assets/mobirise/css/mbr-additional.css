@@ -772,6 +772,13 @@ section.form .container {
 #msg-box8-4a .parallax-header h3 img {
   max-width: 100%;
 }
+#header3-5s .mbr-section-title,
+#header3-5s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-5s .mbr-section-subtitle {
+  color: #000000;
+}
 #header3-4c .mbr-section-title,
 #header3-4c .mbr-section-subtitle {
   text-align: center;

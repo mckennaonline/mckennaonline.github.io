@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "charter.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 208,
+    "uniqCompNum": 209,
     "versionPublish": "4.11.4",
     "favicon": "@PROJECT_PATH@/assets/images/gmail-addon-icon-20x20.png",
     "noImageResize": "",
@@ -86,6 +86,29 @@
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .lead {\n  color: #fff;\n}\n.logo-cell { height:14.5em; display:flex; }\n.logo-cell h3 { margin:auto; }\n.logo-cell h3 img { max-height:200px; }\n.parallax-header .btn-primary {\n    min-width: 140px;\n    width: 50%;\n    padding-left: 0;\n    padding-right: 0;\n    display: inline-block;\n}\n.parallax-header {\n    padding-top: 110px;\n    padding-bottom: 110px;\n}\n@media (min-width: 767px) {\n    .parallax-header .btn-secondary {\n\t    width: 51%;\n    }\n    .parallax-header .btn-positioning.first {\n        margin-bottom: 8em;\n    }\n    .parallax-header .btn-positioning.second {\n        margin-top: 8em;\n    }\n}\n@media (max-width: 767px) {\n    .parallax-header {\n        padding-top: 20px;\n\t    padding-bottom: 20px;\n    }\n    .parallax-header .btn-positioning.first {\n        float:left;\n        width:50%;\n    }\n    .parallax-header .btn-positioning.second {\n        float:right;\n        width:50%;\n    }\n}\n.parallax-header h3 img { max-width: 100%; }",
           "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showMeta": true,
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "title": "On campus enrollment open for Session 4",
+          "meta": "<span style=\"font-style: normal;\">Session 4 in Mountain Home begins January 5th, 2022. <br>All applications for Session 4 must be <b>submitted by December 3rd</b>. <br>We will conclude enrollment interviews December 8th.</span>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-5s"
         },
         {
           "_styles": {
