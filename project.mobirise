@@ -81,34 +81,11 @@
           ],
           "_name": "msg-box8",
           "_anchor": "msg-box8-4a",
-          "_customHTML": "<section class=\"parallax-header mbr-section article mbr-parallax-background\" data-rv-view=\"0\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mthomejetbanner-2000x904.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\" style=\"max-width:100%\">\n        <div class=\"row\">\n            <div class=\"col-md-3 col-xs-12 text-xs-center\">\n                <div class=\"btn-positioning first\">\n\t                <a class=\"btn btn-primary mbr-editable-button\" href=\"/about.html\" code-editable-id=\"144\">About Us</a>\n                </div>\n                <div class=\"btn-positioning second\">\n    \t            <a class=\"btn btn-primary mbr-editable-button\" href=\"/employment.html\" code-editable-id=\"145\">Employment</a>\n                </div>\n            </div>\n            <div class=\"col-md-6 text-xs-center logo-cell\">\n                <h3 class=\"mbr-section-title display-2 my-2 mbr-editable-content\" code-editable-id=\"146\">\n                \t<img src=\"https://www.rmckenna.org/rmckennalogo.gif\">\n                </h3>\n            </div>\n            <div class=\"col-md-3 col-xs-12 text-xs-center\">\n                <div class=\"btn-positioning first\">\n\t                <a class=\"btn btn-primary mbr-editable-button\" href=\"https://app.rmckenna.org/app/\" code-editable-id=\"147\">Login</a>\n                </div>\n                <div class=\"btn-positioning second\">\n\t                <a class=\"btn btn-primary mbr-editable-button\" href=\"charter.html\" code-editable-id=\"148\">Public Docs</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"parallax-header mbr-section article mbr-parallax-background\" data-rv-view=\"0\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/mthomejetbanner-2000x904.jpg&quot;);\">\n\n    <div class=\"mbr-overlay\" style=\"opacity: 0.3; background-color: rgb(34, 34, 34);\">\n    </div>\n    <div class=\"container\" style=\"max-width:100%\">\n        <div class=\"row\">\n            <div class=\"col-md-3 col-xs-12 text-xs-center\">\n                <div class=\"btn-positioning first\">\n\t                <a class=\"btn btn-primary mbr-editable-button\" href=\"/about.html\" code-editable-id=\"139\">About Us</a>\n                </div>\n                <div class=\"btn-positioning second\">\n    \t            <a class=\"btn btn-primary mbr-editable-button\" href=\"/employment.html\" code-editable-id=\"140\">Employment</a>\n                </div>\n            </div>\n            <div class=\"col-md-6 text-xs-center logo-cell\">\n                <h3 class=\"mbr-section-title display-2 my-2 mbr-editable-content\" code-editable-id=\"141\">\n                \t<img src=\"https://www.rmckenna.org/rmckennalogo.gif\">\n                </h3>\n            </div>\n            <div class=\"col-md-3 col-xs-12 text-xs-center\">\n                <div class=\"btn-positioning first\">\n\t                <a class=\"btn btn-primary mbr-editable-button\" href=\"https://app.rmckenna.org/app/\" code-editable-id=\"142\">Login</a>\n                </div>\n                <div class=\"btn-positioning second\">\n\t                <a class=\"btn btn-primary mbr-editable-button\" href=\"charter.html\" code-editable-id=\"143\">Public Docs</a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": ".mbr-section-title, .lead {\n  color: #fff;\n}\n.logo-cell { height:14.5em; display:flex; }\n.logo-cell h3 { margin:auto; }\n.logo-cell h3 img { max-height:200px; }\n.parallax-header .btn-primary {\n    min-width: 140px;\n    width: 50%;\n    padding-left: 0;\n    padding-right: 0;\n    display: inline-block;\n}\n.parallax-header {\n    padding-top: 110px;\n    padding-bottom: 110px;\n}\n@media (min-width: 767px) {\n    .parallax-header .btn-secondary {\n\t    width: 51%;\n    }\n    .parallax-header .btn-positioning.first {\n        margin-bottom: 8em;\n    }\n    .parallax-header .btn-positioning.second {\n        margin-top: 8em;\n    }\n}\n@media (max-width: 767px) {\n    .parallax-header {\n        padding-top: 20px;\n\t    padding-bottom: 20px;\n    }\n    .parallax-header .btn-positioning.first {\n        float:left;\n        width:50%;\n    }\n    .parallax-header .btn-positioning.second {\n        float:right;\n        width:50%;\n    }\n}\n.parallax-header h3 img { max-width: 100%; }",
           "_customTemplate": true
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "On campus enrollment open for Session 4",
-          "meta": "<span style=\"font-style: normal;\">Session 4 in Mountain Home begins January 5th, 2022. <br>All applications for Session 4 must be <b>submitted by December 3rd</b>. <br>We will conclude enrollment interviews December 8th.</span>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-5s"
         },
         {
           "_styles": {
