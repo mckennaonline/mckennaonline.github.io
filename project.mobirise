@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "index.html",
+    "currentPage": "montessori.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -159,7 +159,7 @@
           },
           "title": "Apply Now for on-campus in 2022-23",
           "text": "<b>All</b> students attending <b>any</b> grade next year on campus in <b>Mountain Home</b>, it's time to print out this form and <b>hand-deliver</b> before Friday Feb 25th.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/LotteryApplication2022-23.pdf\" data-toolbar=\"-mbrBtnMove\">Print 2022-23 Lottery Application Form</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"assets/files/LotteryApplication22-23.pdf\" data-toolbar=\"-mbrBtnMove\">Print 2022-23 Lottery Application Form</a> ",
           "_tags": [
             "Theme"
           ],
