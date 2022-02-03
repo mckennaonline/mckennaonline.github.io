@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "online.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1238,7 +1238,7 @@
             "paddingBottom": "2",
             "bgColor": "#fff"
           },
-          "text": "<p>First, complete the registration by clicking <a href=\"https://app.rmckenna.org/app/\" target=\"_blank\">Login</a> and then the \"New Student\" button below the login form. Registration is open about 2 weeks before the school year and closes about 6 weeks before the end of the school year.</p><p><br></p><p>Courses begin every Monday (even on 3 day weekend holidays) and last for 6 weeks. The student's attendance is based on course work completed, which is tracked by Acquire. Each course requires 90 hours of completed work, which may includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project successfully.</p><p><br></p><p>All of our online students use their own computer and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old). &nbsp;Lessons are best completed on a full computer, however most courses may be completed on a Chromebook or tablet if you prefer.</p>"
+          "text": "<p>First, complete the registration by clicking <a href=\"https://app.rmckenna.org/app/\" target=\"_blank\">Login</a> and then the \"New Student\" button below the login form. Registration is open about 2 weeks before the school year and closes about 6 weeks into the second semester.</p><p><br></p><p>Courses begin every Monday (even on 3 day weekend holidays) and last for 6 weeks. The student's attendance is based on course work completed, which is tracked by Acquire. Each course requires 90 hours of completed work, which may includes student-to-student interaction via blogs and discussion boards. Credit is granted when a student completes all of the daily assignments and the final project successfully.</p><p><br></p><p>All of our online students use their own computer and Internet access. You can use a Mac computer (preferably less than 8 years old) or Windows computer (preferably less than 4 years old). &nbsp;Lessons are best completed on a full computer, however most courses may be completed on a Chromebook or tablet if you prefer.</p>"
         },
         {
           "_styles": {
