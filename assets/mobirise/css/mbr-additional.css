@@ -1046,13 +1046,6 @@ section.form .container {
 #menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header3-s .mbr-section-title,
-#header3-s .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-s SMALL {
-  color: #000000;
-}
 #header3-v .mbr-section-title,
 #header3-v .mbr-section-subtitle {
   text-align: center;
@@ -1070,6 +1063,13 @@ section.form .container {
 }
 #extFeatures8-26 .mbr-section-subtitle A {
   color: #6e551d;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s SMALL {
+  color: #000000;
 }
 #header3-z .mbr-section-title,
 #header3-z .mbr-section-subtitle {
