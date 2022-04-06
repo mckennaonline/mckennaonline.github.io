@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "employment.html",
+    "currentPage": "charter.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -815,8 +815,8 @@
             "paddingBottom": "5",
             "bgColor": "#fff"
           },
-          "text1": "<b>Dennis Wilson - Director</b><br><div><br></div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Douglas Mayne – Treasurer</b></span><br></div><div><br></div><div><br></div><div><br></div>",
-          "text2": "<b>Meg Warren - Chair</b><br><div><br></div><div><br></div><div><b>Crystal Rodgers – Board Member</b></div><div><br></div><div><br></div><div><b>Chantel Durrence - Clerk</b></div><div><br></div>",
+          "text1": "<b>Dennis Wilson - Director</b><br><div><br></div><div><br></div><div><span style=\"font-size: 1.07rem; line-height: 1.5;\"><b>Douglas Mayne – Treasurer</b></span><br></div><div><br></div><div><br></div>",
+          "text2": "<b>Meg Warren - Chair</b><br><div><br></div><div><br></div><div><b>Crystal Rodgers – Board Member</b></div><div><b><br></b></div><div><b><br></b></div>",
           "text3": "<p><b>Kyle Davis – Vice Chairman</b></p><p><b><br></b></p><p><b><br></b></p><p><b>Alisa Urquidi – Board Member</b></p><div><br></div><div><br></div><p></p>"
         },
         {
