@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "rmckenna.org",
-    "currentPage": "charter.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 212,
+    "uniqCompNum": 214,
     "versionPublish": "4.11.4",
     "favicon": "@PROJECT_PATH@/assets/images/gmail-addon-icon-20x20.png",
     "noImageResize": "",
@@ -115,11 +115,11 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "imageSize": 50,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -151,14 +151,14 @@
               "size": 0
             }
           },
-          "title": "Summer 2022 Registration Opens April 18th",
-          "text": "Richard McKenna Online is available in the summer for students with an \"At risk\" status. &nbsp;Classes begin June 6th&nbsp;",
+          "title": "Summer 2022 Registration Open",
+          "text": "New and returning students, start here:",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://app.rmckenna.org/app\" data-toolbar=\"-mbrBtnMove\">Register</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "msg-box5",
-          "_anchor": "msg-box5-5v"
+          "_anchor": "msg-box5-5x"
         },
         {
           "_params": {
